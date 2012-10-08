@@ -10,8 +10,8 @@ keywords: Blog, Research, Academia
 Archives
 ========
 
-This is the complete archive of posts from _[inductio ex machina](/blog)_
-in reverse chronological order.
+This is the complete archive of posts from [Kyle Niemeyer's Personal
+and Research blog](/blog) in reverse chronological order.
 
 {% for post in site.categories.blog %}
 <div class="section list">

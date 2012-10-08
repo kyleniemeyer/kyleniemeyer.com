@@ -8,7 +8,7 @@ layout: nil
  <link href="http://kyleniemeyer.com/blog/atom.xml" rel="self"/>
  <link href="http://kyleniemeyer.com/blog/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://mark.reid.name/iem/</id>
+ <id>http://kyleniemeyer.com/blog/</id>
  <author>
    <name>Kyle Niemeyer</name>
    <email>kyle.niemeyer@gmail.com</email>

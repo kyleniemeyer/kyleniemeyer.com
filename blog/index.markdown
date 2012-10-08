@@ -7,15 +7,13 @@ feed: atom.xml
 keywords: Blog, Research, Academia
 ---
 
-Thoughts on Machine Learning and Inference
+My Personal and Research Blog
 ==========================================
 
-_Inductio Ex Machina_ is [Kyle Niemeyer](/)'s research blog on machine 
-learning and statistical inference. 
+This is [Kyle Niemeyer](/)'s personal and research blog, 
 
-More [information](info.html) about this blog, its [kith](kith.html) (blogroll, 
-bookmarks, _etc._), and a complete archive of [past](past.html) posts, are 
-available via links at the top of the page.
+More [information](info.html) about this blog and a complete archive 
+of [past](past.html) posts are available via links at the top of the page.
 
 [![Feed icon](/files/css/feed-icon-14x14.png){:title="Atom feed of recent posts" .right}][feed]
 A [feed][] of the most recent posts is also available.
