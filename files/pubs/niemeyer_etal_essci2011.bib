@@ -1,0 +1,9 @@
+@inproceedings{Niemeyer:2011c,
+	Author = {Kyle Evan Niemeyer and Chih-Jen Sung and Catalin G Fotache and Jeremiah C Lee},
+	Title = {Turbulence-chemistry closure method using graphics processing units: a preliminary test},
+	Booktitle = {7th Fall Technical Meeting of the Eastern States Section of the Combustion Institute},
+	Address = {Storrs, Connecticut},
+	Month = {October},
+	Year = {2011},
+	Abstract = {Graphics processing units (GPUs) are attractive for high-performance computing due to their massively parallel architecture, modest power consumption, and relatively low cost. Recent attempts were made to speed up the chemical kinetics in reactive-flow simulations. However, these approaches did not realize the full potential of the GPU as inter-processor communication was intensive. In some popular high-fidelity closure models, there is a very large set (e.g.\ $10^4$--$10^6$) of independent chemical kinetics integrations to perform. This leads to a new strategy of performing all the chemistry integrations on the GPU to minimize communication between the CPU and GPU and to maximize the computational load on the GPU. We demonstrated this technique with a detailed hydrogen kinetics system (9 species and 38 reactions) and observed a speed up factor of 70. Also, the computing time on the GPU is short enough that when the CPU is designed to handle the transport terms, the impact of chemistry on the overall computational ``clock time'' is minimal. Thus, for practical-scale LES simulations, the GPU allows the inclusion of detailed kinetics in closure models.}
+}

@@ -1,0 +1,20 @@
+---
+destination : /Users/kyleniemeyer/Sites/kyleniemeyer.com/_site
+auto        : false
+lsi         : false
+pygments    : true
+permalink   : none
+markdown    : maruku
+
+author:
+    name : Kyle Niemeyer
+    email : kyle.niemeyer@gmail.com
+    github : kyleniemeyer
+    twitter : kyle_niemeyer
+
+maruku:
+    use_divs: true
+    use_tex: true
+    png_engine : blahtex
+    png_dir    : /images/latex/
+    png_url    : /images/latex/
