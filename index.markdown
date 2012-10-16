@@ -10,7 +10,7 @@ section: Home
 Welcome
 =======
 
-I'm Kyle Niemeyer, a PhD student studying combustion modeling, [science contributor](http://arstechnica.com/author/kyle-niemeyer/) for [Ars Technica](http://arstechnica.com/), fiancé---not necessarily in that order. 
+I'm Kyle Niemeyer, a PhD student studying combustion modeling, [science contributor](http://arstechnica.com/author/kyle-niemeyer/) for [Ars Technica](http://arstechnica.com/), husband---not necessarily in that order. 
 You can find out more about me by poking around the links above and below.  
 
 +--	{.section}
@@ -51,7 +51,14 @@ Here are some of my favorite and popular pieces:
 Blog
 =====
 I keep a [blog](/blog/) on personal and research topics.
-
+{% for post in site.categories.blog limit:3 %}
+<ul class="compact recent">
+<li>
+	<a href="{{ post.url }}" title="{{ post.excerpt }}">{{ post.title }}</a>
+	<span class="date">{{ post.date | date_to_string }}</span> 
+</li>
+</ul>
+{% endfor %}
 =--
 
 +-- {.section}
