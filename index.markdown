@@ -80,15 +80,5 @@ I keep a [blog](/blog/) on personal and research topics.
 
 =--
 
-+-- {.section}
-[Twitter](http://twitter.com/kyle_niemeyer)
-====================================
-
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/kyle_niemeyer" data-widget-id="255170883625291776">Tweets by @kyle_niemeyer</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-
-=--
-
 [kylears]: http://arstechnica.com/author/kyle-niemeyer/
 [ars]: http://arstechnica.com/
