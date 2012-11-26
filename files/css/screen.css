@@ -252,13 +252,12 @@ ul.compact li a {
 .twitter-title a { display: inline; }
 /* @end */
 
-body#Work #header a.work, 
 body#Home #header a.home, 
-body#Play #header a.play,
+body#Work #header a.work, 
 body#Info #header a.info,
 body#Code #header a.code,
-body#Past #header a.past,
-body#Kith #header a.kith
+body#CV #header a.cv,
+body#Play #header a.play
 { 
 	border-bottom: 2px solid silver; 
 }
