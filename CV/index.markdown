@@ -1,11 +1,13 @@
 ---
 layout: name
-title: Home
-
-section: Home
+title: CV
+section: CV
+top: Kyle Niemeyer
 ---
 
++-- {.section}
 Download the most recent version of my CV here: \{ [pdf](https://www.dropbox.com/s/vq9p63hlpmjperd/KE_Niemeyer_CV.pdf) \}
+=--
 
 +--	{.section}
 Research Interests
