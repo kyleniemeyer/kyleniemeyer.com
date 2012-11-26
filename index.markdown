@@ -1,7 +1,6 @@
 ---
 layout: name
 title: Home
-
 section: Home
 ---
 
@@ -26,7 +25,12 @@ in combustion modeling. Some of the strategies I'm exploring include chemical me
 
 See my [publications](/work/pubs) page for my journal and conference papers, as well as my master's thesis.
 
-I'm hoping to graduate in May 2013, and will be seeking a post-doc or full-time faculty position.
+I'm hoping to graduate in May 2013, and will be seeking a post-doc or full-time faculty position. You can check out my application documents here:
+
+- [Curriculum vitae](/cv)
+- [Research statement](/cv/research-statement)
+- [Teaching statement](/cv/teaching-statement)
+
 =--
 
 +-- {.section}
