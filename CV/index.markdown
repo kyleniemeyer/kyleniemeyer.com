@@ -6,7 +6,7 @@ top: Kyle Niemeyer
 ---
 
 +-- {.section}
-Download the most recent version of my CV here: \{ [pdf](https://www.dropbox.com/s/vq9p63hlpmjperd/KE_Niemeyer_CV.pdf) \}
+Download the most recent version of my CV here: \{ [pdf](https://www.dropbox.com/s/4xed14z1eqsdxg5/KE_Niemeyer_CV.pdf) \}
 =--
 
 +--	{.section}
@@ -61,7 +61,7 @@ provided feedback through comments on articles.
 
 **Case Western Reserve University**, Cleveland, Ohio  
 Graduate Research Assistant, August 2008--  
-Includes current Ph.D. research, graduate level coursework and research 
+Includes current Ph.D. research, graduate level coursework, and research 
 projects. Lead writer for multiple grant proposals, including NSF and DOE. 
 Advised and managed one master's student.
 
