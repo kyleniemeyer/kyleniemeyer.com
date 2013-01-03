@@ -7,11 +7,36 @@ section: Work
 Publications
 ============
 Below are some of the papers I have published. Full information about my papers and citations can be found here:
+
 - My [ResearcherID](http://www.researcherid.com/): [B-7902-2008](http://www.researcherid.com/rid/B-7902-2008)
 - My [Google Scholar profile](http://scholar.google.com/citations?user=dt0KRYoAAAAJ)
 - My [ORCid](https://orcid.org/): [0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)
 
+
 ## Journal Articles ##
+
++-- {.section}
+## 2012 ##
+
+“Recent progress and challenges in exploiting graphics processors in computational fluid dynamics.”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+Submitted, 2012.  
+{ [Abstract]() | [BibTeX]() }
+
+ +-- {.abstract}
+### Abstract ###
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @unpublished{Niemeyer:2012,
+	Author = {Kyle E Niemeyer and Chih-Jen Sung},
+	Title = {Recent progress and challenges in exploiting graphics processors in computational fluid dynamics},
+	Note = {Submitted},
+	Year = {2012}}
+ =--
+
+=--
 
 +-- {.section}
 ## 2011 ##
