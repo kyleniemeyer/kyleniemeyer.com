@@ -34,7 +34,7 @@ I'm hoping to graduate in May 2013, and will be seeking a post-doc or full-time 
 =--
 
 +-- {.section}
-Science Writing
+Science <br/> Writing
 ===============
 
 Since June 2011, I also work in my spare time (ha!) as a [science
