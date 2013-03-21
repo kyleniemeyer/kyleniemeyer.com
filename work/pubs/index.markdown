@@ -20,7 +20,7 @@ Below are some of the papers I have published. Full information about my papers 
 
 “Recent progress and challenges in exploiting graphics processors in computational fluid dynamics.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-Submitted, 2012.  
+Under review, 2012.  
 { [Abstract]() | [BibTeX]() }
 
  +-- {.abstract}
@@ -32,7 +32,7 @@ Submitted, 2012.
     @unpublished{Niemeyer:2012,
 	Author = {Kyle E Niemeyer and Chih-Jen Sung},
 	Title = {Recent progress and challenges in exploiting graphics processors in computational fluid dynamics},
-	Note = {Submitted},
+	Note = {Under review},
 	Year = {2012}}
  =--
 
@@ -120,6 +120,32 @@ C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Stey
 =--
 
 ## Conference Papers ##
+
++-- {.section}
+# 2013 #
+
+“Accelerating reactive-flow simulations using graphics processing units.”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+51st AIAA Aerospace Sciences Meeting, Grapevine, Texas, USA. 6--10 January, 2013.  
+\{ [pdf](/files/pubs/Niemeyer-Sung-ASM_2013.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.2514/6.2013-371) \}
+
+ +-- {.abstract}
+### Abstract ###
+The progress made in accelerating simulations of fluid flow using GPUs is surveyed. The review first provides an introduction to GPU computing and programming. A case study of simulating incompressible flow in a lid-driven cavity is performed, comparing the performance of CPU- and GPU-based solvers to demonstrate the potential improvement even with simple codes. Recent efforts to accelerate CFD simulations using GPUs are reviewed for reactive flow solvers. Finally, recommendations for implementing CFD codes on GPUs are given and remaining challenges are discussed, such as the need to develop new strategies and redesign algorithms to enable GPU acceleration.
+ =--
+ 
+ +-- {.bibtex}
+### BibTeX ###
+    @inproceedings{Niemeyer:2013,
+    Author = {Kyle Evan Niemeyer and Chih-Jen Sung},
+    Title = {Accelerating reactive-flow simulations using graphics processing units},
+    Booktitle = {51st AIAA Aerospace Sciences Meeting},
+    Address = {Grapevine, Texas},
+    Month = {January},
+    Year = {2013}}
+ =--
+
+=--
 
 +-- {.section}
 # 2012 #
@@ -284,7 +310,7 @@ _Skeletal mechanism generation for surrogate fuels_
 Kyle E. Niemeyer  
 Department of Mechanical and Aerospace Engineering, Case Western Reserve
 University, Cleveland, Ohio.  
-\{ [pdf](/files/pubs/Niemeyer_thesis.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [link](http://rave.ohiolink.edu/etdc/view?acc_num=case1259018155) | [pdf](/files/pubs/Niemeyer_thesis.pdf) | [Abstract]() | [BibTeX]() \}
 
  +-- {.abstract}
 ### Abstract ###

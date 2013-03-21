@@ -27,11 +27,13 @@ I can be reached at by email at [niemeyer@case.edu](mailto:niemeyer@case.edu).
 +-- {.section}
 News
 ====
-_October 16--17 2012:_ Attended [OpenACC GPU Programming Workshop](http://www.psc.edu/index.php/training/openacc-gpu-programming) at [Pittsburgh Supercomputing Center](http://www.psc.edu)
+_6--10 January 2013:_ Attended and presented at the 51st AIAA Aerospace Sciences Meeting in Grapevine, Texas. My talk was on our efforts to accelerate reactive flow simulations using GPUs; check out my [paper](/files/pubs/Niemeyer-Sung-ASM_2013.pdf) for some background information and keep an eye out for an upcoming paper with the most recent results.
 
-_October 8 2012:_ Coauthored a feature article at [Ars Technica][ars] on future engine technology: ["The road ahead: How we'll get to 54.5 mpg by 2025"](http://arstechnica.com/features/2012/10/the-road-ahead-how-well-get-to-54-5-mpg-by-2025/)
+_16--17 October 2012:_ Attended [OpenACC GPU Programming Workshop](http://www.psc.edu/index.php/training/openacc-gpu-programming) at [Pittsburgh Supercomputing Center](http://www.psc.edu)
 
-_September 14 2012:_ Gave presentation at [Case Western Reserve][case] on how to apply and tips on getting the [NSF Graduate Research Fellowship](http://www.nsfgrfp.org/) and [National Defense Science and Engineering Fellowship](http://ndseg.asee.org/); check out my [presentation](/files/KNiemeyer_NSF_GRFP_presentation.pdf).
+_8 October 2012:_ Coauthored a feature article at [Ars Technica][ars] on future engine technology: ["The road ahead: How we'll get to 54.5 mpg by 2025"](http://arstechnica.com/features/2012/10/the-road-ahead-how-well-get-to-54-5-mpg-by-2025/)
+
+_14 September 2012:_ Gave presentation at [Case Western Reserve][case] on how to apply and tips on getting the [NSF Graduate Research Fellowship](http://www.nsfgrfp.org/) and [National Defense Science and Engineering Fellowship](http://ndseg.asee.org/); check out my [presentation](/files/KNiemeyer_NSF_GRFP_presentation.pdf).
 
 =--
 
