@@ -10,7 +10,7 @@ Download the most recent version of my CV here: \{ [pdf](https://www.dropbox.com
 =--
 
 +--	{.section}
-Research Interests
+Research <br/> Interests
 ==================
 
 My research interests generally include developing tools and strategies to integrate accurate physical models into practical engineering simulations; my current work involves developing chemical mechanism reduction methods and algorithms to use graphics processing units (GPUs) to enable the use of detailed, predictive chemical models in combustion and reactive-flow simulations. More generally, I am also interested in developing strategies to accelerate science and engineering computations with GPUs.
@@ -24,7 +24,7 @@ Education
 
 Ph.D. Candidate, Mechanical Engineering  
 Advisor: [Chih-Jen Sung](http://www.engr.uconn.edu/me/cms/people/87-chihsung)  
-Expected: May 2013  
+Expected: June 2013  
 Passed qualifying exam: September 2010  
 GPA: 4.0 / 4.0
 
@@ -118,8 +118,10 @@ Awards & Honors
 =--
 
 +-- {.section}
-Professional Affilliations
+Professional Affiliations
 ==========================
+
+- Student member, The Combustion Institute
 - Student member, American Institute of Aeronautics and Astronautics (AIAA)
 - Student Member, American Society for Engineering Education (ASEE)
 - Student Member, American Society of Mechanical Engineers (ASME)
