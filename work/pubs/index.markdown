@@ -20,7 +20,7 @@ Below are some of the papers I have published. Full information about my papers 
 
 “Recent progress and challenges in exploiting graphics processors in computational fluid dynamics.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-Under review, 2012.  
+Under review, 2013.  
 { [Abstract]() | [BibTeX]() }
 
  +-- {.abstract}
@@ -123,6 +123,26 @@ C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Stey
 
 +-- {.section}
 # 2013 #
+“Accelerating stiff chemical kinetics in combustion simulations using GPUs.”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+14th International Conference on Numerical Combustion, San Antonio, Texas, USA. 8--10 April, 2013.  
+\{ [Abstract]() | [BibTeX]() | [Talk](https://client.blueskybroadcast.com/SIAM13/NC/siam_nc13_MS8_2/) \}
+
+ +-- {.abstract}
+### Abstract ###
+The evaluation of finite-rate chemical kinetics occupies the majority of the processing time in combustion simulations, due to the stiffness of the governing rate equations. Graphics processing units (GPUs) offer the massive parallelism and processing power of a CPU cluster at a fraction of the cost and power consumption, in a single device. A novel stiff solver will be presented that accelerates the solution of chemical kinetics on GPUs.
+ =--
+ 
+ +-- {.bibtex}
+### BibTeX ###
+    @inproceedings{Niemeyer:2013,
+    Author = {Kyle Evan Niemeyer and Chih-Jen Sung},
+    Title = {Accelerating stiff chemical kinetics in combustion simulations using {GPU}s},
+    Booktitle = {14th International Conference on Numerical Combustion},
+    Address = {San Antonio, Texas},
+    Month = {April},
+    Year = {2013}}
+ =--
 
 “Accelerating reactive-flow simulations using graphics processing units.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
