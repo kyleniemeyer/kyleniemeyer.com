@@ -5,6 +5,7 @@ lsi         : false
 pygments    : true
 permalink   : none
 markdown    : maruku
+exclude			: rsync-site.sh, .git, .gitignore
 
 author:
     name : Kyle Niemeyer
