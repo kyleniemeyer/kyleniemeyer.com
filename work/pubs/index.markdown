@@ -16,9 +16,9 @@ Below are some of the papers I have published. Full information about my papers 
 ## Journal Articles ##
 
 +-- {.section}
-## 2012 ##
+## 2013 ##
 
-“Recent progress and challenges in exploiting graphics processors in computational fluid dynamics.”  
+“Mechanism reduction strategies for multicomponent surrogate fuels.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 Under review, 2013.  
 { [Abstract]() | [BibTeX]() }
@@ -31,9 +31,48 @@ Under review, 2013.
 ### BibTeX ###
     @unpublished{Niemeyer:2012,
 	Author = {Kyle E Niemeyer and Chih-Jen Sung},
-	Title = {Recent progress and challenges in exploiting graphics processors in computational fluid dynamics},
+	Title = {Mechanism reduction strategies for multicomponent surrogate fuels},
 	Note = {Under review},
-	Year = {2012}}
+	Year = {2013}}
+ =--
+
+“Accelerating moderately stiff chemical kinetics in reactive-flow simulations using GPUs.”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+Under review, 2013.  
+{ [Abstract]() | [BibTeX]() }
+
+ +-- {.abstract}
+### Abstract ###
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @unpublished{Niemeyer:2012,
+	Author = {Kyle E Niemeyer and Chih-Jen Sung},
+	Title = {Accelerating moderately stiff chemical kinetics in reactive-flow simulations using GPUs},
+	Note = {Under review},
+	Year = {2013}}
+ =--
+
+“Recent progress and challenges in exploiting graphics processors in computational fluid dynamics.”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+*Journal of Supercomputing*, in press, 2013.  
+{ [pdf]() | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s11227-013-1015-7) }
+
+ +-- {.abstract}
+### Abstract ###
+The progress made in accelerating simulations of fluid flow using GPUs, and the challenges that remain, are surveyed. The review first provides an introduction to GPU computing and programming, and discusses various considerations for improved performance. Case studies comparing the performance of CPU- and GPU- based solvers for the Laplace and incompressible Navier–Stokes equations are performed in order to demonstrate the potential improvement even with simple codes. Recent efforts to accelerate CFD simulations using GPUs are reviewed for laminar, turbulent, and reactive flow solvers. Also, GPU implementations of the lattice Boltzmann method are reviewed. Finally, recommendations for implementing CFD codes on GPUs are given and remaining challenges are discussed, such as the need to develop new strategies and redesign algorithms to enable GPU acceleration.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @unpublished{Niemeyer:2012,
+	Author = {Kyle E Niemeyer and Chih-Jen Sung},
+	Title = {Recent progress and challenges in exploiting graphics processors in computational fluid dynamics},
+	Journal = {J. Supercomput.},
+	Note = {In press},
+	Doi = {10.1007/s11227-013-1015-7},
+	Year = {2013}}
  =--
 
 =--
@@ -85,7 +124,7 @@ A novel implementation for the skeletal reduction of large detailed reaction mec
 	Author = {Kyle E Niemeyer and Chih Jen Sung and Mandhapati P Raju},
 	Title = {Skeletal mechanism generation for surrogate fuels using directed relation graph with error propagation and sensitivity analysis},
 	Journal = {Combust. Flame},
-	Month = {September},
+	Month = sep,
 	Number = {9},
 	Pages = {1760--1770},
 	Volume = {157},
@@ -111,7 +150,7 @@ C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Stey
 	Journal = {J. Microscopy},
 	Volume = {236},
 	Number = {1},
-	Month = {October},
+	Month = oct,
 	Pages = {52--59},
 	Year = {2009},
 	Doi = {10.1111/j.1365-2818.2009.03204.x}}
@@ -123,10 +162,32 @@ C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Stey
 
 +-- {.section}
 # 2013 #
+
+“Reduced mechanisms for gasoline surrogates valid at engine conditions.”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+10th US National Combustion Meeting, Park City, UT, USA. 19--21 May 2013.  
+\{ [pdf](/files/pubs/Niemeyer-Sung-NCM-2013.pdf) | [Abstract]() | [BibTeX]() \}
+
+ +-- {.abstract}
+### Abstract ###
+A detailed mechanism for four-component gasoline surrogates, developed by Lawrence Livermore National Laboratory (LLNL), showed good agreement with experiments in engine-relevant conditions. However, with 1389 species and 5935 reversible reactions, the mechanism is far too large to use in practical engine simulations. Therefore, reduction of the mechanism was performed. First, the directed relation graph with error propagation and sensitivity analysis (DRGEPSA) method was used to generate skeletal mechanisms at varying levels of detail. This step produced significantly reduced skeletal mechanisms, but those with tight error limits were still too sizable for practical use. Therefore, a second reduction step was employed, using the quasi-steady-state (QSS) approximation based on computational singular perturbation (CSP) analysis. The QSS species concentrations were solved analytically, rather than through an iterative solution approach. For error constraints of 10% and 30%, the final reduced mechanisms consist of 245 and 178 species, respectively. Both reduced mechanisms (and the corresponding skeletal mechanisms) were validated with homogeneous autoignition simulations over engine-relevant conditions, and both showed good agreement in predicting ignition delay.
+ =--
+ 
+ +-- {.bibtex}
+### BibTeX ###
+    @inproceedings{Niemeyer:2013,
+    Author = {Kyle Evan Niemeyer and Chih-Jen Sung},
+    Title = {Reduced mechanisms for gasoline surrogates valid at engine conditions},
+    Booktitle = {8th US National Combustion Meeting},
+    Location = {Park City, UT, USA},
+    Month = may,
+    Year = {2013}}
+ =--
+
 “Accelerating stiff chemical kinetics in combustion simulations using GPUs.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-14th International Conference on Numerical Combustion, San Antonio, Texas, USA. 8--10 April, 2013.  
-\{ [Abstract]() | [BibTeX]() | [Talk](https://client.blueskybroadcast.com/SIAM13/NC/siam_nc13_MS8_2/) \}
+14th International Conference on Numerical Combustion, San Antonio, TX, USA. 8--10 April 2013.  
+\{ [Talk](https://client.blueskybroadcast.com/SIAM13/NC/siam_nc13_MS8_2/) | [Abstract]() | [BibTeX]() \}
 
  +-- {.abstract}
 ### Abstract ###
@@ -139,14 +200,14 @@ The evaluation of finite-rate chemical kinetics occupies the majority of the pro
     Author = {Kyle Evan Niemeyer and Chih-Jen Sung},
     Title = {Accelerating stiff chemical kinetics in combustion simulations using {GPU}s},
     Booktitle = {14th International Conference on Numerical Combustion},
-    Address = {San Antonio, Texas},
-    Month = {April},
+    Location = {San Antonio, TX, USA},
+    Month = apr,
     Year = {2013}}
  =--
 
 “Accelerating reactive-flow simulations using graphics processing units.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-51st AIAA Aerospace Sciences Meeting, Grapevine, Texas, USA. 6--10 January, 2013.  
+51st AIAA Aerospace Sciences Meeting, Grapevine, TX, USA. 6--10 January, 2013.  
 \{ [pdf](/files/pubs/Niemeyer-Sung-ASM_2013.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.2514/6.2013-371) \}
 
  +-- {.abstract}
@@ -160,8 +221,8 @@ The progress made in accelerating simulations of fluid flow using GPUs is survey
     Author = {Kyle Evan Niemeyer and Chih-Jen Sung},
     Title = {Accelerating reactive-flow simulations using graphics processing units},
     Booktitle = {51st AIAA Aerospace Sciences Meeting},
-    Address = {Grapevine, Texas},
-    Month = {January},
+    Location = {Grapevine, TX, USA},
+    Month = jan,
     Year = {2013}}
  =--
 
@@ -172,7 +233,7 @@ The progress made in accelerating simulations of fluid flow using GPUs is survey
 
 “Recent Progress and Challenges in Exploiting Graphics Processors for Aeropropulsion Simulations.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-Fourth International Symposium on Jet Propulsion and Power Engineering, Xi’an, China, September 10--12, 2012.
+Fourth International Symposium on Jet Propulsion and Power Engineering, Xi’an, China, 10--12 September 2012.
 
 =--
 
@@ -181,7 +242,7 @@ Fourth International Symposium on Jet Propulsion and Power Engineering, Xi’an,
 
 “Turbulence-chemistry closure method using graphics processing units: a preliminary test.”  
 Kyle E. Niemeyer, Chih-Jen Sung, Catalin G. Fotache, and Jeremiah C. Lee.  
-7th Fall Technical Meeting of the Eastern States Section of the Combustion Institute, Storrs, CT, USA, October 9--12, 2011.  
+7th Fall Technical Meeting of the Eastern States Section of the Combustion Institute, Storrs, CT, USA, 9--12 October 2011.  
 \{ [pdf](/files/pubs/niemeyer_etal_essci2011.pdf) | [Abstract]() | [BibTeX]() \}
 
  +-- {.abstract}
@@ -195,14 +256,14 @@ Graphics processing units (GPUs) are attractive for high-performance computing d
 	Author = {Kyle Evan Niemeyer and Chih-Jen Sung and Catalin G Fotache and Jeremiah C Lee},
 	Title = {Turbulence-chemistry closure method using graphics processing units: a preliminary test},
 	Booktitle = {7th Fall Technical Meeting of the Eastern States Section of the Combustion Institute},
-	Address = {Storrs, Connecticut},
-	Month = {October},
+	Location = {Storrs, CT, USA},
+	Month = oct,
 	Year = {2011}}
  =--
 
 “Mechanism reduction strategies for multicomponent gasoline surrogate fuels.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-7th National Combustion Meeting, Atlanta, GA, USA, March 20--23, 2011.  
+7th National Combustion Meeting, Atlanta, GA, USA, 20--23 March 2011.  
 \{ [pdf](/files/pubs/niemeyer_sung_ncm2011.pdf) | [Abstract]() | [BibTeX]() \}
 
  +-- {.abstract}
@@ -217,12 +278,13 @@ Skeletal mechanisms for TRF mixtures were generated using DRGEPSA followed by un
 	Title = {Mechanism reduction strategies for multicomponent gasoline surrogate fuels},
 	Booktitle = {Proceedings of the 7th National Combustion Meeting},
 	Number = {1A15},
+	Month = mar,
 	Year = {2011}}
  =--
 
 “DRGEP-based mechanism reduction strategies: graph search algorithms and skeletal primary reference fuel mechanisms.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-49th AIAA Aerospace Sciences Meeting, Orlando, FL, USA, January 4--7, 2011.  
+49th AIAA Aerospace Sciences Meeting, Orlando, FL, USA, 4--7 January 2011.  
 \{ [pdf](/files/pubs/niemeyer_sung_asm2011.pdf) | [Abstract]() | [BibTeX]() \}
 
  +-- {.abstract}
@@ -237,6 +299,8 @@ Skeletal mechanism reduction based on the directed relation graph with error pro
     Booktitle = {Proceedings of the 49th AIAA Aerospace Sciences Meeting},
     Number = {AIAA 2011-508},
     Title = {\{DRGEP}-based mechanism reduction strategies: graph search algorithms and skeletal primary reference fuel mechanisms},
+    Month = jan,
+    Location = {Orlando, FL, USA},
     Year = {2011}}
  =--
 
@@ -247,8 +311,9 @@ Skeletal mechanism reduction based on the directed relation graph with error pro
 
 “Skeletal mechanism generation of surrogate jet fuels for aero-propulsion modeling.”  
 Chih-Jen Sung and Kyle E. Niemeyer.  
-_AIP Conference Proceedings_, 1233 (1):1412--1417, May 2010.  
-\{ [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1063/1.3452113) \}
+2nd International Symposium on Computational Mechanics and the 12th International Conference on the Enhancement and Promotion of Computational Methods in Engineering and Science (ISCM-EPMESC), Hong Kong--Macau, China, 30 November--3 December 2009.  
+_AIP Conference Proceedings_, 1233 (1):1412--1417, 2010.  
+\{ [pdf](/files/pubs/Sung-Niemeyer-ISCM-EPMESC-2009.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1063/1.3452113) \}
 
  +-- {.abstract}
 ### Abstract ###
@@ -257,11 +322,13 @@ A novel implementation for the skeletal reduction of large detailed reaction mec
 
  +-- {.bibtex}
 ### BibTeX ###
-    @article{Sung:2010,
+    @inproceedings{Sung:2010,
 	Author = {Chih-Jen Sung and Kyle E Niemeyer},
 	Title = {Skeletal Mechanism Generation of Surrogate Jet Fuels for Aeropropulsion Modeling},
-	Journal = {AIP Conference Proceedings},
+	Booktitle = {Proceedings of the 2nd International Symposium on Computational Mechanics and the 12th International Conference on the Enhancement and Promotion of Computational Methods in Engineering and Science},
+	Series = {AIP Conference Proceedings},
 	Editor = {Jane W. Z. Lu and Andrew Y. T. Leung and Vai Pan Iu and Kai Meng Mok},
+	Location = {Hong Kong--Macau, China},
 	Volume = {1233},
 	Number = {1},
 	Pages = {1412--1417},
@@ -277,7 +344,7 @@ A novel implementation for the skeletal reduction of large detailed reaction mec
 
 “Skeletal Mechanism Generation of Surrogate Fuels Using Directed Relation Graph with Error Propagation and Sensitivity Analysis.”  
 Kyle E. Niemeyer, Mandhapati P. Raju, and Chih-Jen Sung.  
-45th AIAA/ASME/SAE/ASEE Joint Propulsion Conference and Exhibit, Denver, CO, USA, August 2--5, 2009.  
+45th AIAA/ASME/SAE/ASEE Joint Propulsion Conference and Exhibit, Denver, CO, USA, 2--5 August 2009.  
 \{ [pdf](/files/pubs/niemeyer_raju_sung_jpc2009.pdf) | [Abstract]() | [BibTeX]() \}
 
  +-- {.abstract}
@@ -291,15 +358,15 @@ A novel implementation for the skeletal reduction of large detailed reaction mec
 	Author = {Kyle Evan Niemeyer and Mandhapati P Raju and Chih-Jen Sung},
 	Title = {Skeletal Mechanism Generation of Surrogate Fuels Using Directed Relation Graph with Error Propagation and Sensitivity Analysis},
 	Booktitle = {Proceedings of the 45th AIAA/ASME/SAE/ASEE Joint Propulsion Conference & Exhibit},
-	Month = {August},
+	Month = aug,
 	Number = {{AIAA 2009-5495}},
-	Address = {Denver, Colorado},
+	Location = {Denver, CO, USA},
 	Year = {2009}}
  =--
 
 “Skeletal Mechanism Generation for Surrogate Fuels Using Directed Relation Graph with Error Propagation and Sensitivity Analysis.”  
 Kyle E. Niemeyer, Mandhapati P. Raju, and Chih-Jen Sung.  
-6th National Combustion Meeting, Ann Arbor, MI, USA, May 17--20, 2009.  
+6th National Combustion Meeting, Ann Arbor, MI, USA, 17--20 May 2009.  
 \{ [pdf](/files/pubs/niemeyer_raju_sung_ncm2009.pdf) | [Abstract]() | [BibTeX]() \}
 
  +-- {.abstract}
@@ -313,23 +380,69 @@ A novel implementation, using directed relation graph with error propagation and
 	Author = {Kyle Evan Niemeyer and Mandhapati P Raju and Chih-Jen Sung},
 	Title = {Skeletal Mechanism Generation for Surrogate Fuels Using Directed Relation Graph with Error Propagation and Sensitivity Analysis},
 	Booktitle = {Proceedings of the 6th National Combustion Meeting of the U.S. Sections of the Combustion Institute},
-	Address = {Ann Arbor, Michigan},
-	Month = {May},
+	Location = {Ann Arbor, MI, USA},
+	Month = may,
 	Number = {11F1},
 	Year = {2009}}
  =--
 
 =--
 
+## Conference Posters ##
 
-## Thesis ##
++-- {.section}
+# 2013 #
+
+“Mechanism reduction strategies for gasoline surrogate fuels”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+24th International Colloquium on the Dynamics of Explosions and Reactive Systems, Taipei, Taiwan. 28 July--2 August 2013.  
+\{ [pdf](/files/pubs/Niemeyer-Sung-ICDERS-poster-gasoline.pdf) \}
+
+“GPU-based explicit integration algorithms for accelerating chemical kinetics in CFD simulations”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+24th International Colloquium on the Dynamics of Explosions and Reactive Systems, Taipei, Taiwan. 28 July--2 August 2013.  
+\{ [pdf](/files/pubs/Niemeyer-Sung-ICDERS-poster-GPU.pdf) \}
+
+=--
+
+## PhD Dissertation ##
+
++-- {.section}
+# 2013 #
+_Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units_  
+Kyle E. Niemeyer  
+Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, Ohio.  
+\{ [link](http://rave.ohiolink.edu/etdc/view?acc_num=case1378393709) | [pdf](/files/pubs/KE-Niemeyer-dissertation.pdf) | [Abstract]() | [BibTeX]() \}
+
+ +-- {.abstract}
+### Abstract ###
+Two approaches for reducing the cost of detailed and accurate chemistry in reactive- flow simulations were studied and developed, specifically based on reaction mechanism reduction and GPU computing.  
+
+The first part of this dissertation studied mechanism reduction methods. First, the reliability and efficacy of various graph search algorithms were compared for the DRGEP mechanism reduction method, and it was demonstrated that Dijkstra’s algorithm out-performed all others considered in terms of effectiveness and speed. Next, reduction strategies for multicomponent surrogate fuel mechanisms were demonstrated, based on the combination of DRGEPSA and unimportant reaction elimination using autoignition results, by generating skeletal mechanisms at varying levels of detail for TRFs (n-heptane, iso-octane, and toluene). It was shown that significant reduction in mechanism size is possible, but care must be taken for wide-ranging accuracy, specifically for predicting phenomena outside autoignition, for accurate results across the mixture composition space, and to ensure close prediction of species profiles particularly for ultra-lean conditions. Finally, building on the previous results, a combined reduction strategy consisting of DRGEPSA, unimportant reaction elimination, isomer lumping, and CSP-based QSS reduction was used to generate skeletal and reduced mechanisms for a gasoline surrogate consisting of iso-octane, n-heptane, toluene, and 2-pentene. Different mechanisms were generated respectively targeted at lower-temperature HCCI-like and high-temperature SI/CI-engine conditions; validation was performed using autoignition, PSR, and laminar flame speed calculations.  
+
+In the second part, the use of GPUs for accelerating reactive-flow simulation was studied. Strategies for optimizing CFD applications on GPUs were demonstrated using case studies solving the Laplace equation and flow in a lid-driven cavity. In addition, a comprehensive survey of efforts to date using GPUs to accelerate laminar, turbulent, and reactive flow solvers, including approaches based on the lattice Boltzmann method, was performed, and general findings and specific recommendations were made. Following this, a new strategy for integrating chemical kinetics with little-to-moderate stiffness on GPUs was presented. This approach used the Runge–Kutta–Cash–Karp algorithm to handle nonstiff hydrogen chemistry and the stabilized Runge–Kutta–Chebyshev algorithm to handle moderately stiff chemistry for hydrogen/carbon monoxide, methane, and ethylene kinetics. Speedup factors of between one and two orders of magnitude were shown compared to CPU-based integration algorithms. In the presence of more severe stiffness, the current algorithms were less effective, demonstrating the need for GPU-appropriate stiff method.
+ =--
+ 
+ +-- {.bibtex}
+### BibTeX ###
+	@phdthesis{Niemeyer:2013,
+	Author = {Kyle Evan Niemeyer},
+	Month = jan,
+	School = {Case Western Reserve University},
+	Location = {Cleveland, OH},
+	Title = {Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units},
+	Year = {2013}}
+ =--
+ 
+=--
+
+## Master's Thesis ##
 
 +-- {.section}
 # 2010 #
 _Skeletal mechanism generation for surrogate fuels_  
 Kyle E. Niemeyer  
-Department of Mechanical and Aerospace Engineering, Case Western Reserve
-University, Cleveland, Ohio.  
+Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, Ohio.  
 \{ [link](http://rave.ohiolink.edu/etdc/view?acc_num=case1259018155) | [pdf](/files/pubs/Niemeyer_thesis.pdf) | [Abstract]() | [BibTeX]() \}
 
  +-- {.abstract}
@@ -339,11 +452,11 @@ The Mechanism Automatic Reduction Software (MARS) implementation for chemical re
 
  +-- {.bibtex}
 ### BibTeX ###
-    @mastersthesis{Niemeyer:2010,
-	Address = {Cleveland, OH},
+	@mastersthesis{Niemeyer:2010,
 	Author = {Kyle Evan Niemeyer},
-	Month = {January},
-	School = {Department of Mechanical and Aerospace Engineering, Case Western Reserve University},
+	Month = jan,
+	School = {Case Western Reserve University},
+	Location = {Cleveland, OH},
 	Title = {Skeletal mechanism generation for surrogate fuels},
 	Year = {2010}}
  =--

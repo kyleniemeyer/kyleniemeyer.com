@@ -22,10 +22,9 @@ Education
 
 **Case Western Reserve University**, Cleveland, Ohio
 
-Ph.D. Candidate, Mechanical Engineering  
+Ph.D. Mechanical Engineering, August 2013  
 Advisor: [Chih-Jen Sung](http://www.engr.uconn.edu/me/cms/people/87-chihsung)  
-Expected: June 2013  
-Passed qualifying exam: September 2010  
+Dissertation Title: ["Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units"](/files/pubs/KE-Niemeyer-dissertation.pdf)  
 GPA: 4.0 / 4.0
 
 M.S., Aerospace Engineering, January 2010  
@@ -42,6 +41,16 @@ GPA: 4.0 / 4.0
 +--	{.section}
 Experience
 ==========
+
+**Oregon State University**, Corvallis, OR  
+Postdoctoral Researcher, 2013--
+
+**Case Western Reserve University**, Cleveland, Ohio  
+Graduate Research Assistant, 2008--2013  
+Pursued research on methods to reduce the cost of detailed chemistry in 
+combustion modeling, including mechanism reduction approaches and GPU computing. 
+Helped advise a junior graduate student. Lead writer for multiple grant proposals, 
+including NSF and DOE.
 
 **United Technologies Research Center**, East Hartford, Connecticut  
 Summer Research Intern, Summer 2011  
@@ -60,11 +69,6 @@ down to be easily understandable. Readers participated in discussions and
 provided feedback through comments on articles.
 
 **Case Western Reserve University**, Cleveland, Ohio  
-Graduate Research Assistant, August 2008--  
-Includes current Ph.D. research, graduate level coursework, and research 
-projects. Lead writer for multiple grant proposals, including NSF and DOE. 
-Advised and managed one master's student.
-
 Teaching Assistant, 2007--2010  
 Assisted instructors with homework and exam grading, class instruction, 
 and review sessions, and held regular office hours.
@@ -102,7 +106,7 @@ Publications
 Awards & Honors
 ================
 
-- NSF Graduate Research Fellow, 2010--2015
+- NSF Graduate Research Fellow, 2010--2013
 - National Defense Science and Engineering Graduate Fellow, 2009--2012
 - NSF Graduate Research Fellowship Program Honorable Mention, 2009
 - The Case Alumni Association Prize for Achievement, 2009
@@ -122,20 +126,8 @@ Professional Affiliations
 ==========================
 
 - Student member, The Combustion Institute
-- Student member, American Institute of Aeronautics and Astronautics (AIAA)
+- Professional member, American Institute of Aeronautics and Astronautics (AIAA)
 - Student Member, American Society for Engineering Education (ASEE)
 - Student Member, American Society of Mechanical Engineers (ASME)
-
-=--
-
-+-- {.section}
-Computer Skills
-===============
-
-- Languages:  MATLAB, FORTRAN 77/Fortran 90, C, CUDA, Python
-- Versional Control Systems: Subversion, Git, Mercurial
-- Applications: LaTeX, common Windows/Mac database, spreadsheet, and presentation software
-- CFD Software: FLUENT, FLOW-3D, CHEMKIN
-- Operating Systems:  Unix/Linux, Windows, Mac OS X
 
 =--
