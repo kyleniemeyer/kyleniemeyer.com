@@ -9,27 +9,19 @@ section: Home
 Welcome
 =======
 
-I'm Kyle Niemeyer, a PhD student studying combustion modeling, [science contributor](http://arstechnica.com/author/kyle-niemeyer/) for [Ars Technica](http://arstechnica.com/), husband---not necessarily in that order. 
+I'm Kyle Niemeyer, a postdoctoral researcher at Oregon State University studying combustion modeling, numerical methods for simulations of various physical processes, and more. 
 You can find out more about me by poking around the links above and below.  
 
 +--	{.section}
 Research
 ========
 
-My day job is as a [PhD candidate](/work) in mechanical engineering at [Case Western Reserve University](http://case.edu/). My advisor is [Professor 
-Chih-Jen (Jackie) Sung](http://www.engr.uconn.edu/me/cms/people/87-chihsung) 
-of the University of Connecticut, who runs the [Combustion Diagnostics Laboratory](http://combdiaglab.engr.uconn.edu/) there.
+My day job is as a [postdoctoral researcher](/work) in mechanical engineering at [Oregon State University](http://oregonstate.edu/), in the [School of Mechanical, Industrial, and Manufacturing Engineering](http://mime.oregonstate.edu).  
 
-My current research goal is the integration of detailed and accurate chemistry 
-in combustion modeling. Some of the strategies I'm exploring include chemical mechanism simplification and the use of graphics hardware (GPU computing) to accelerate reactive flow calculations.
+My research to-date has focused on developing methods to ease the integration of detailed and accurate chemistry 
+in combustion modeling. Some of the strategies I've explored include chemical mechanism simplification and the use of graphics hardware (GPU computing) to accelerate reactive flow calculations. I'm also interested in developing new numerical methods that will allow us to better simulate all sorts of physical phenomena, including combustion, liquid sprays and droplet atomization, and the interaction of fluids with solid structures.
 
-See my [publications](/work/pubs) page for my journal and conference papers, as well as my master's thesis.
-
-I'm hoping to graduate in May 2013, and will be seeking a post-doc or full-time faculty position. You can check out my application documents here:
-
-- [Curriculum vitae](/cv)
-- [Research statement](/cv/research-statement)
-- [Teaching statement](/cv/teaching-statement)
+See my [publications](/work/pubs) page for my journal and conference papers, as well as my master's thesis and doctoral dissertation.  
 
 =--
 
@@ -55,15 +47,16 @@ Here are some of my favorite and popular pieces:
 +-- {.section}
 Blog
 =====
-I keep a [blog](/blog/) on personal and research topics.
-{% for post in site.categories.blog limit:3 %}
+I keep a [blog](/blog/) on personal and research topics. Here are some recent posts:
+
 <ul class="compact recent">
-<li>
-	<a href="{{ post.url }}" title="{{ post.excerpt }}">{{ post.title }}</a>
-	<span class="date">{{ post.date | date_to_string }}</span> 
-</li>
+  {% for post in site.categories.blog limit:3 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="date">{{ post.date | date_to_string }}</span>
+  </li>
+  {% endfor %}
 </ul>
-{% endfor %}
 =--
 
 +-- {.section}
@@ -80,7 +73,7 @@ I keep a [blog](/blog/) on personal and research topics.
     overflow: hidden;
   }
 </style>
-<script type="text/javascript" src="http://www.goodreads.com/review/grid_widget/1983734.Kyle's%20currently-reading%20book%20list?cover_size=small&hide_link=&hide_title=true&num_books=10&order=a&shelf=currently-reading&sort=date_added&widget_id=1349672197" charset="utf-8"> </script>
+<script type="text/javascript" src="http://www.goodreads.com/review/grid_widget/1983734.Kyle's%20currently-reading%20book%20list?cover_size=small&amp;hide_link=&amp;hide_title=true&amp;num_books=10&amp;order=a&amp;shelf=currently-reading&amp;sort=date_added&amp;widget_id=1349672197" charset="utf-8"> </script>
 
 =--
 

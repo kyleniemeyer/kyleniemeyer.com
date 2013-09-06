@@ -1,6 +1,6 @@
 --- 
 layout: blog-post
-title: Hello world!
+title: "Hello world!"
 ---
 
 Hello everyone---just getting the website set up, so it might take a while for more to appear here.

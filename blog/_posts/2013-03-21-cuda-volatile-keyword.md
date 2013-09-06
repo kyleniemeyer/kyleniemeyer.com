@@ -10,11 +10,11 @@ In particular, when one thread in the warp (I like to call it the "warp leader")
 For example:
 
 	__shared__ array[NUM_WARPS];
-    if (threadIdx.x == 0) {
+	if (threadIdx.x == 0) {
 		array[warpId] = 5;
 	}
 	
-	if (array[warpId] == 5) {
+	if (array[warpId] == 5) { 
 		do something
 	}
 

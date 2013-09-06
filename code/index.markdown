@@ -7,7 +7,7 @@ title: Code
 Code
 ====
 Here you can download some code I’m releasing open source.  I can’t release 
-all of the primaryI work on for research due to restrictions on some of the 
+all of the primary code I work on for research due to restrictions on some of the 
 components (at this time), but other smaller programs that I wrote as tools 
 I’m free to share.  If you use anything and find it helpful, or if you find 
 a bug or just make improvements, please let me know!

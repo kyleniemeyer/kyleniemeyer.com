@@ -1,11 +1,11 @@
 ---
 destination : /Users/kyleniemeyer/Sites/kyleniemeyer.com/_site
-auto        : false
 lsi         : false
 pygments    : true
 permalink   : none
 markdown    : maruku
-exclude			: rsync-site.sh, .git, .gitignore
+exclude	    : [rsync-site.sh, .git, .gitignore]
+baseurl     : "http://kyleniemeyer.com"
 
 author:
     name : Kyle Niemeyer
