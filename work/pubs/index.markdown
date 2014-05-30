@@ -11,53 +11,38 @@ Below are some of the papers I have published. Full information about my papers 
 - My [ResearcherID](http://www.researcherid.com/): [B-7902-2008](http://www.researcherid.com/rid/B-7902-2008)
 - My [Google Scholar profile](http://scholar.google.com/citations?user=dt0KRYoAAAAJ)
 - My [ORCid](https://orcid.org/): [0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)
+- My arXiv author page: [niemeyer_k_1](http://arxiv.org/a/niemeyer_k_1)
 
 
 ## Journal Articles ##
 
 +-- {.section}
-## 2013 ##
+## 2014 ##
 
-“Mechanism reduction strategies for multicomponent surrogate fuels.”  
+“Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-Under review, 2013.  
-{ [Abstract]() | [BibTeX]() }
+*Combustion and Flame*, accepted for publication, 2014.  
+{ [arXiv](http://arxiv.org/abs/1405.3745) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2014.05.001) }
 
  +-- {.abstract}
 ### Abstract ###
+Strategies and recommendations for performing skeletal reductions of multicomponent surrogate fuels are presented, through the generation and validation of skeletal mechanisms for a three-component toluene reference fuel. Using the directed relation graph with error propagation and sensitivity analysis method followed by a further unimportant reaction elimination stage, skeletal mechanisms valid over comprehensive and high-temperature ranges of conditions were developed at varying levels of detail. These skeletal mechanisms were generated based on autoignition simulations, and validation using ignition delay predictions showed good agreement with the detailed mechanism in the target range of conditions. When validated using phenomena other than autoignition, such as perfectly stirred reactor and laminar flame propagation, tight error control or more restrictions on the reduction during the sensitivity analysis stage were needed to ensure good agreement. In addition, tight error limits were needed for close prediction of ignition delay when varying the mixture composition away from that used for the reduction. In homogeneous compression-ignition engine simulations, the skeletal mechanisms closely matched the point of ignition and accurately predicted species profiles for lean to stoichiometric conditions. Furthermore, the efficacy of generating a multicomponent skeletal mechanism was compared to combining skeletal mechanisms produced separately for neat fuel components; using the same error limits, the latter resulted in a larger skeletal mechanism size that also lacked important cross reactions between fuel components. Based on the present results, general guidelines for reducing detailed mechanisms for multicomponent fuels are discussed.
  =--
 
  +-- {.bibtex}
 ### BibTeX ###
-    @unpublished{Niemeyer:2012,
+    @unpublished{Niemeyer:2014,
 	Author = {Kyle E Niemeyer and Chih-Jen Sung},
-	Title = {Mechanism reduction strategies for multicomponent surrogate fuels},
-	Note = {Under review},
-	Year = {2013}}
- =--
-
-“Accelerating moderately stiff chemical kinetics in reactive-flow simulations using GPUs.”  
-Kyle E. Niemeyer and Chih-Jen Sung.  
-Under review, 2013.  
-{ [Abstract]() | [BibTeX]() }
-
- +-- {.abstract}
-### Abstract ###
- =--
-
- +-- {.bibtex}
-### BibTeX ###
-    @unpublished{Niemeyer:2012,
-	Author = {Kyle E Niemeyer and Chih-Jen Sung},
-	Title = {Accelerating moderately stiff chemical kinetics in reactive-flow simulations using GPUs},
-	Note = {Under review},
-	Year = {2013}}
+	Title = {Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels},
+	Journal = {Combust. Flame}
+	Note = {Accepted},
+	Year = {2014}}
  =--
 
 “Recent progress and challenges in exploiting graphics processors in computational fluid dynamics.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-*Journal of Supercomputing*, in press, 2013.  
-{ [pdf]() | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s11227-013-1015-7) }
+*Journal of Supercomputing*, 67(2):528--564, 2014.  
+{ [arXiv](http://arxiv.org/abs/1309.3018) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s11227-013-1015-7) }
 
  +-- {.abstract}
 ### Abstract ###
@@ -66,13 +51,36 @@ The progress made in accelerating simulations of fluid flow using GPUs, and the 
 
  +-- {.bibtex}
 ### BibTeX ###
-    @unpublished{Niemeyer:2012,
+    @article{Niemeyer:2014js,
 	Author = {Kyle E Niemeyer and Chih-Jen Sung},
 	Title = {Recent progress and challenges in exploiting graphics processors in computational fluid dynamics},
 	Journal = {J. Supercomput.},
-	Note = {In press},
+	Pages = {528--564},
+	Volume = {67},
+	Number = {2},
 	Doi = {10.1007/s11227-013-1015-7},
-	Year = {2013}}
+	Year = {2014}}
+ =--
+
+“Accelerating moderately stiff chemical kinetics in reactive-flow simulations using GPUs.”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+*Journal of Computational Physics*, 256:854--871, 2014.  
+{ [arXiv](http://arxiv.org/abs/1309.2710) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.jcp.2013.09.025) }
+
+ +-- {.abstract}
+### Abstract ###
+The chemical kinetics ODEs arising from operator-split reactive-flow simulations were solved on GPUs using explicit integration algorithms. Nons- tiff chemical kinetics of a hydrogen oxidation mechanism (9 species and 38 irreversible reactions) were computed using the explicit fifth-order Runge--Kutta--Cash--Karp method, and the GPU-accelerated version performed faster than single- and six-core CPU versions by factors of 126 and 25, respectively, for 524,288 ODEs. Moderately stiff kinetics, represented with mechanisms for hydrogen/carbon-monoxide (13 species and 54 irreversible reactions) and methane (53 species and 634 irreversible reactions) oxidation, were computed using the stabilized explicit second-order Runge--Kutta--Chebyshev (RKC) algorithm. The GPU-based RKC implementation demonstrated an increase in performance of nearly 59 and 10 times, for problem sizes consisting of 262,144 ODEs and larger, than the single- and six-core CPU-based RKC algorithms using the hydrogen/carbon-monoxide mechanism. With the methane mechanism, RKC-GPU performed more than 65 and 11 times faster, for problem sizes consisting of 131,072 ODEs and larger, than the single- and six-core RKC-CPU versions, and up to 57 times faster than the six-core CPU-based implicit VODE algorithm on 65,536 ODEs. In the presence of more severe stiffness, such as ethylene oxidation (111 species and 1566 irreversible reactions), RKC-GPU performed more than 17 times faster than RKC-CPU on six cores for 32,768 ODEs and larger, and at best 4.5 times faster than VODE on six CPU cores for 65,536 ODEs. With a larger time step size, RKC-GPU performed at best 2.5 times slower than six-core VODE for 8192 ODEs and larger. Therefore, the need for developing new strategies for integrating stiff chemistry on GPUs was discussed.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @article{Niemeyer:2014jcp,
+	Author = {Kyle E Niemeyer and Chih-Jen Sung},
+	Title = {Accelerating moderately stiff chemical kinetics in reactive-flow simulations using GPUs},
+	Journal = {J. Comput. Phys.},
+	Pages = {854--871},
+	Volume = {256},
+	Year = {2014}}
  =--
 
 =--
@@ -97,7 +105,7 @@ The importance of graph search algorithm choice to the directed relation graph w
 	Title = {On the importance of graph search algorithms for {DRGEP}-based mechanism reduction methods},
 	Journal = {Combust. Flame},
 	Number = {8},
-	Pages = {1439-1443},
+	Pages = {1439--1443},
 	Volume = {158},
 	Year = {2011},
 	Doi = {10.1016/j.combustflame.2010.12.010}}
@@ -158,7 +166,86 @@ C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Stey
 
 =--
 
-## Conference Papers ##
+## Book Chapters ##
+
++-- {.section}
+
+# 2014 #
+
+“GPU-Based Parallel Integration of Large Numbers of Independent ODE Systems.”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+In V. Kindratenko (Ed.), *Numerical Computations with GPUs*, Springer, in press.  
+\{ [Abstract]() | [BibTeX]() | [doi]() \}
+
+ +-- {.abstract}
+### Abstract ###
+The task of integrating a large number of independent ODE systems arises in various scientific and engineering areas. For nonstiff systems, common explicit integration algorithms can be used on GPUs, where individual GPU threads concurrently integrate independent ODEs with different initial conditions or parameters. One example is the fifth-order adaptive Runge–Kutta–Cash–Karp (RKCK) algorithm. In the case of stiff ODEs, standard explicit algorithms require impractically small time-step sizes for stability reasons, and implicit algorithms are therefore commonly used instead to allow larger time steps and reduce the computational expense. However, typical high-order implicit algorithms based on backwards differentiation formulae (e.g., VODE, LSODE) involve complex logical flow that causes severe thread divergence when implemented on GPUs, limiting the performance. Therefore, alternate algorithms are needed. A GPU-based Runge–Kutta–Chebyshev (RKC) algorithm can handle moderate levels of stiffness and performs significantly faster than not only an equivalent CPU version but also a CPU-based implicit algorithm (VODE) based on results shown in the literature. In this chapter, we present the mathematical background, implementation details, and source code for the RKCK and RKC algorithms for use integrating large numbers of independent systems of ODEs on GPUs. In addition, brief performance comparisons are shown for each algorithm, demonstrating the potential benefit of moving to GPU-based ODE integrators.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @inbook{Niemeyer:2014bk,
+	Author = {Kyle E Niemeyer and Chih Jen Sung},
+	Title = {GPU-Based Parallel Integration of Large Numbers of Independent ODE Systems},
+	Editor = {V Kindratenko},
+	Booktitle = {Numerical Computations with GPUs},
+	Publisher = {Springer},
+	Address = {},
+	Note = {in press},
+	Year = {2014},
+	Doi = {}}
+ =--
+
+=--
+
+## Conference Papers / Presentations ##
+
++-- {.section}
+# 2014 #
+
+“Faster Kinetics: Accelerate Your Finite-Rate Combustion Simulations with GPUs.”  
+Christopher P. Stone and Kyle E. Niemeyer.  
+GPU Technology Conference, San Jose, CA, USA. 24--27 March 2014.  
+\{ [Slides](http://on-demand.gputechconf.com/gtc/2014/presentations/S4418-accelerate-finite-rate-combustion-sims-on-gpus.pdf) | [Abstract]() | [BibTeX]() \}
+
+ +-- {.abstract}
+### Abstract ###
+Explore the latest techniques for accelerating combustion simulations with finite-rate chemical kinetics using GPUs. In this session we will compare the performance of different numerical methods for solving stiff and non-stiff ODEs and discuss the compromises that must be made between parallel throughput and numerical efficiency. Learn techniques used to (1) manage variable integration costs across the concurrent ODEs and (2) reduce thread divergence caused by non-linear iterative solvers.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @inproceedings{Stone:2014,
+	Author = {Christopher P Stone and Kyle E Niemeyer},
+	Title = {Faster Kinetics: Accelerate Your Finite-Rate Combustion Simulations with GPUs},
+	Booktitle = {GPU Technology Conference},
+	Location = {San Jose, CA, USA},
+	Month = mar,
+	Year = {2014}}
+ =--
+
+“A new fuel index for LTC engines based on operating envelopes in light-duty driving cycle simulations: primary reference fuels.”  
+Kyle E. Niemeyer, William J. Cannella, and Christopher L. Hagen.  
+Spring 2014 Meeting of the Western States Section of the Combustion Institute, Pasadena, CA, USA. 24--25 March 2014.  
+\{ [pdf](/files/pubs/Niemeyer_etal_WSSCI2014.pdf) | [Abstract]() | [BibTeX]() \}
+
+ +-- {.abstract}
+### Abstract ###
+Low-temperature combustion (LTC) engine concepts such as homogeneous charge compression ignition (HCCI) offer the potential of improved efficiency and reduced emissions of NOx and particulates. However, engines can only successfully operate in HCCI mode for limited operating ranges that vary depending on the fuel composition. Unfortunately, traditional ratings such as octane number poorly predict the autoignition behavior of fuels in such engine modes, and metrics recently proposed for HCCI engines have areas of improvement when wide ranges of fuels are considered. In this study, a new index for ranking fuel suitability for LTC engines was defined, based on the fraction of potential fuel savings achieved in the FTP-75 light-duty vehicle driving cycle. Driving cycle simulations were performed using a typical light-duty passenger vehicle, providing pairs of engine speed and load points. Separately, single-zone naturally aspirated HCCI engine simulations were performed for a variety of fuels in order to determine the operating envelopes for each. These results were combined to determine the varying improvement in fuel economy offered by fuels, forming the basis for a fuel performance index. Results showed that, in general, lower octane fuels performed better, resulting in higher LTC fuel index values; however, octane number alone did not predict fuel performance.
+ =--
+ 
+ +-- {.bibtex}
+### BibTeX ###
+    @inproceedings{Niemeyer:2014ws,
+    Author = {Kyle E. Niemeyer and William J. Cannella and Christopher L. Hagen},
+    Title = {A new fuel index for LTC engines based on operating envelopes in light-duty driving cycle simulations: primary reference fuels},
+    Booktitle = {Spring 2014 Meeting of the Western States Section of the Combustion Institute},
+    Location = {Pasadena, CA, USA},
+    Month = mar,
+    Year = {2014}}
+ =--
+
+=--
 
 +-- {.section}
 # 2013 #
@@ -198,7 +285,7 @@ The evaluation of finite-rate chemical kinetics occupies the majority of the pro
 ### BibTeX ###
     @inproceedings{Niemeyer:2013,
     Author = {Kyle Evan Niemeyer and Chih-Jen Sung},
-    Title = {Accelerating stiff chemical kinetics in combustion simulations using {GPU}s},
+    Title = {Accelerating stiff chemical kinetics in combustion simulations using GPUs},
     Booktitle = {14th International Conference on Numerical Combustion},
     Location = {San Antonio, TX, USA},
     Month = apr,
@@ -298,7 +385,7 @@ Skeletal mechanism reduction based on the directed relation graph with error pro
     Author = {Kyle E Niemeyer and Chih-Jen Sung},
     Booktitle = {Proceedings of the 49th AIAA Aerospace Sciences Meeting},
     Number = {AIAA 2011-508},
-    Title = {\{DRGEP}-based mechanism reduction strategies: graph search algorithms and skeletal primary reference fuel mechanisms},
+    Title = {DRGEP-based mechanism reduction strategies: graph search algorithms and skeletal primary reference fuel mechanisms},
     Month = jan,
     Location = {Orlando, FL, USA},
     Year = {2011}}
