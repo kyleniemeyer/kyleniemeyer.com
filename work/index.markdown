@@ -20,7 +20,7 @@ I have [published][] papers on topics in combustion modeling, including chemical
 +-- {.section}
 Contact 
 =======
-I can be reached at by email at [niemeyer@case.edu](mailto:niemeyer@case.edu).
+I can be reached at by email at <Kyle.Niemeyer@oregonstate.edu>
 =--
 
 +-- {.section}
