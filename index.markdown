@@ -13,13 +13,27 @@ I'm Kyle Niemeyer, a postdoctoral researcher at Oregon State University studying
 You can find out more about me by poking around the links above and below.  
 
 +--	{.section}
+Contact
+========
+
+The easiest way to contact me is via email:  
+<Kyle.Niemeyer@oregonstate.edu>  
+
+Alternatively, try my office:  
+541-737-5614  
+308 Dearborn Hall  
+Oregon State University  
+Corvallis, OR, 97331
+
+=--
+
++--	{.section}
 Research
 ========
 
 My day job is as a [postdoctoral researcher](/work) in mechanical engineering at [Oregon State University](http://oregonstate.edu/), in the [School of Mechanical, Industrial, and Manufacturing Engineering](http://mime.oregonstate.edu).  
 
-My research to-date has focused on developing methods to ease the integration of detailed and accurate chemistry 
-in combustion modeling. Some of the strategies I've explored include chemical mechanism simplification and the use of graphics hardware (GPU computing) to accelerate reactive flow calculations. I'm also interested in developing new numerical methods that will allow us to better simulate all sorts of physical phenomena, including combustion, liquid sprays and droplet atomization, and the interaction of fluids with solid structures.
+My research to-date has focused on developing methods to ease the integration of detailed and accurate chemistry in combustion modeling. Some of the strategies I've explored include chemical mechanism simplification and the use of graphics hardware (GPU computing) to accelerate reactive flow calculations. I'm also interested in developing new numerical methods that will allow us to better simulate all sorts of physical phenomena, including combustion, liquid sprays and droplet atomization, and the interaction of fluids with solid structures.  
 
 See my [publications](/work/pubs) page for my journal and conference papers, as well as my master's thesis and doctoral dissertation.  
 
@@ -29,8 +43,7 @@ See my [publications](/work/pubs) page for my journal and conference papers, as 
 Science <br/> Writing
 ===============
 
-Since June 2011, I also work in my spare time (ha!) as a [science
-contributor][kylears] at [Ars Technica][ars], where I've reported on scientific articles covering a range of topics (e.g., energy, climate, technology) to a technically but not necessarily scientifically literate audience, with audiences of in the tens of thousands each month.
+Since June 2011 (but not as much recently), I also work in my spare time (ha!) as a [science contributor][kylears] at [Ars Technica][ars], where I've reported on scientific articles covering a range of topics (e.g., energy, climate, technology) to a technically but not necessarily scientifically literate audience, with audiences of in the tens of thousands each month.
 
 Here are some of my favorite and popular pieces:
 
