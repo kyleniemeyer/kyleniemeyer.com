@@ -21,7 +21,7 @@ Below are some of the papers I have published. Full information about my papers 
 
 “Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-*Combustion and Flame*, accepted for publication, 2014.  
+*Combustion and Flame*, 161(11):2752--2764, 2014.  
 { [arXiv](http://arxiv.org/abs/1405.3745) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2014.05.001) }
 
  +-- {.abstract}
@@ -31,11 +31,13 @@ Strategies and recommendations for performing skeletal reductions of multicompon
 
  +-- {.bibtex}
 ### BibTeX ###
-    @unpublished{Niemeyer:2014,
+    @article{Niemeyer:2014,
 	Author = {Kyle E Niemeyer and Chih-Jen Sung},
 	Title = {Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels},
 	Journal = {Combust. Flame}
-	Note = {Accepted},
+	Pages = {2752--2764},
+	Volume = {161},
+	Number = {11},
 	Year = {2014}}
  =--
 
