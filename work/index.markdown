@@ -6,7 +6,7 @@ section: Work
 
 Research
 ========
-I'm a postdoctoral researcher in the [School of Mechanical, Industrial, and Manufacturing Engineering][mime] 
+I'm an Assistant Professor, Senior Research, of mechanical engineering in the [School of Mechanical, Industrial, and Manufacturing Engineering][mime] 
 at [Oregon State University][osu] in Corvallis, Oregon.  
 
 I received my PhD in mechanical engineering at [Case Western Reserve University][case] in August 2013. My advisor was [Professor Jackie Sung][sung] of the [Combustion Diagnostics Laboratory][cdl] at the University of Connecticut.  

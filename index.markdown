@@ -9,7 +9,9 @@ section: Home
 Welcome
 =======
 
-I'm Kyle Niemeyer, a postdoctoral researcher at Oregon State University studying combustion modeling, numerical methods for simulations of various physical processes, and more. 
+I'm Kyle Niemeyer, an Assitant Professor (Senior Research) in mechanical engineering at Oregon State University.
+
+My research interests generally focus on computational modeling of multi-physics flows relevant to applications in aerospace, transportation, and energy systems. This includes both developing new tools and strategies to integrate accurate physical models into practical engineering simulations, as well as using these and existing computational models to study scientific and engineering problems in the above areas.
 You can find out more about me by poking around the links above and below.  
 
 +--	{.section}
@@ -31,7 +33,7 @@ Corvallis, OR, 97331
 Research
 ========
 
-My day job is as a [postdoctoral researcher](/work) in mechanical engineering at [Oregon State University](http://oregonstate.edu/), in the [School of Mechanical, Industrial, and Manufacturing Engineering](http://mime.oregonstate.edu).  
+My day job is as an [Assistant Professor, Senior Research,](/work) in mechanical engineering at [Oregon State University](http://oregonstate.edu/), in the [School of Mechanical, Industrial, and Manufacturing Engineering](http://mime.oregonstate.edu).  
 
 My research to-date has focused on developing methods to ease the integration of detailed and accurate chemistry in combustion modeling. Some of the strategies I've explored include chemical mechanism simplification and the use of graphics hardware (GPU computing) to accelerate reactive flow calculations. I'm also interested in developing new numerical methods that will allow us to better simulate all sorts of physical phenomena, including combustion, liquid sprays and droplet atomization, and the interaction of fluids with solid structures.  
 

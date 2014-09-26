@@ -6,7 +6,7 @@ top: Kyle Niemeyer
 ---
 
 +-- {.section}
-Download the most recent version of my CV here: \{ [pdf](https://www.dropbox.com/s/iyrojgeilotjdd4/KE_Niemeyer_CV.pdf) \}
+Download the most recent version of my CV here: \{ [pdf](https://www.dropbox.com/s/iyrojgeilotjdd4/KE_Niemeyer_CV.pdf?dl=0) \}
 =--
 
 +--	{.section}
@@ -43,7 +43,10 @@ Experience
 ==========
 
 **Oregon State University**, Corvallis, OR  
-Postdoctoral Researcher, 2013--
+Assistant Professor, Senior Research, 2014--
+
+**Oregon State University**, Corvallis, OR  
+Postdoctoral Researcher, 2013--2014
 
 **Case Western Reserve University**, Cleveland, Ohio  
 Graduate Research Assistant, 2008--2013  
