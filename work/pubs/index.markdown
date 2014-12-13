@@ -19,6 +19,90 @@ Below are some of the papers I have published. Full information about my papers 
 +-- {.section}
 ## 2014 ##
 
+“A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”  
+Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
+Submitted.  
+{ [Abstract]() | [BibTeX]() | doi }
+
+ +-- {.abstract}
+### Abstract ###
+Low-temperature combustion (LTC) engine concepts such as homogeneous charge compression ignition (HCCI) offer the potential of improved efficiency and reduced emissions of NOx and particulates. However, engines can only successfully operate in HCCI mode for limited operating ranges that vary depending on the fuel composition. Unfortunately, traditional ratings such as octane number poorly predict the autoignition behavior of fuels in such engine modes, and metrics recently proposed for HCCI engines have areas of improvement when wide ranges of fuels are considered. In this study, a new index for ranking fuel suitability for LTC engines was defined, based on the fraction of potential fuel savings achieved in the FTP-75 light-duty vehicle driving cycle. Driving cycle simulations were performed using a typical light-duty passenger vehicle, providing pairs of engine speed and load points. Separately, single-zone naturally aspirated HCCI engine simulations with a compression ratio of 9.5 were performed for a variety of fuels comprised of *n*-heptane, isooctane, toluene, and ethanol in order to determine the operating envelopes for each. These results were combined to determine the varying improvement in fuel economy offered by fuels, forming the basis for a fuel performance index. The resulting fuel performance indices ranged from 36.4 for neat *n*-heptane (PRF0) to 9.20 for a three-component blend of *n*-heptane, isooctane, and ethanol (ERF1). For the chosen engine and chosen conditions, in general lower-octane fuels performed better, resulting in higher LTC fuel index values; however, the fuel performance index correlated poorly with octane rating for less-reactive, higher-octane fuels.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @misc{Niemeyer:2014a,
+	Author = {Kyle E Niemeyer and Shane R. Daly and William J. Cannella and Christopher L. Hagen},
+	Title = {A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations},
+	Year = {2014},
+	Note = {Submitted}}
+ =--
+
+“Reduced chemistry for a gasoline surrogate valid at engine-relevant conditions.”  
+Kyle E. Niemeyer and Chih-Jen Sung.  
+Under review.  
+{ [arXiv](http://arxiv.org/abs/1410.0401) | [Abstract]() | [BibTeX]() | doi }
+
+ +-- {.abstract}
+### Abstract ###
+A detailed mechanism for the four-component gasoline surrogate developed by Lawrence Livermore National Laboratory has shown good agreement with experiments in engine-relevant conditions. However, with 1388 species and 5933 reversible reactions, this detailed mechanism is far too large to use in practical engine simulations. Therefore, reduction of the detailed mechanism was performed using a multi-stage approach consisting of the DRGEPSA method, unimportant reaction elimination, isomer lumping, and analytic QSS reduction based on CSP analysis. A new greedy sensitivity analysis algorithm was developed and demonstrated to be capable of removing more species for the same error limit compared to the conventional sensitivity analysis used in DRG-based skeletal reduction methods. Using this new greedy algorithm, several skeletal and reduced mechanisms were developed at varying levels of complexity and for different target condition ranges. The final skeletal and reduced mechanisms consisted of 213 and 148 species, respectively, for a lean, low-temperature HCCI-like range of conditions. For a lean-to-rich, high-temperature, SI/CI-like range of conditions, skeletal and reduced mechanisms were developed with 97 and 79 species, respectively. The skeletal and reduced mechanisms in this study were produced using an error limit of 10% and validated using homogeneous autoignition simulations over engine-relevant conditions---all showed good agreement in predicting ignition delay. Furthermore, extended validation was performed, including comparison of autoignition temperature profiles, PSR temperature response curves and extinction turning points, and laminar flame speed calculations.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @misc{Niemeyer:2014a,
+	Author = {Kyle E Niemeyer and Chih-Jen Sung},
+	Title = {Reduced chemistry for a gasoline surrogate valid at engine-relevant conditions},
+	Year = {2014},
+	Note = {Under review}}
+ =--
+
+“Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”  
+Fengquan Zhong, Sugang Ma, Xinyu Zhang, Chih-Jen Sung, and Kyle E. Niemeyer.  
+*Acta Mechanica Sinica*, in press, 2014.  
+{ [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s10409-014-0104-z) }
+
+ +-- {.abstract}
+### Abstract ###
+In this paper, the methodology of the directed relation graph with error propagation and sensitivity analysis (DRGEPSA), proposed by Niemeyer et al. \[Combustion and Flame 155 (2010) 1760--1770\], and its differences to the original directed relation graph method are described. Using DRGEPSA, the detailed mechanism of ethylene containing 71 species and 395 reaction steps is reduced to several skeletal mechanisms with different error thresholds. The 25 species and 131 steps mechanism and the 24 species and 115 steps mechanism are found to be accurate for the predictions of ignition delay time and laminar flame speed. Although further reduction leads to a smaller skeletal mechanism with 19 species and 68 steps, it is no longer able to represent the correct reaction processes. With the DRGEPSA method, a detailed mechanism for n-dodecane considering low-temperature chemistry and containing 2115 species and 8157 steps is reduced to a much smaller mechanism with 249 species and 910 steps while retaining good accuracy. If considering only high-temperature (higher than 1000 K) applications, the detailed mechanism can be simplified to even smaller mechanisms with 65 species and 340 steps or 48 species and 220 steps. Furthermore, a detailed mechanism for a kerosene surrogate having 207 species and 1592 steps is reduced with various error thresholds and the results show that the 72 species and 429 steps mechanism and the 66 species and 392 steps mechanism are capable of predicting correct combustion properties compared to those of the detailed mechanism. It is well recognized that kinetic mechanisms can be effectively used in computations only after they are reduced to an acceptable size level for computation capacity and at the same time retaining accuracy. Thus, the skeletal mechanisms generated from the present work are expected to be useful for the application of kinetic mechanisms of hydrocarbons to numerical simulations of turbulent or supersonic combustion.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @article{Zhong:2014,
+	Author = {Fengquan Zhong and Sugang Ma and Xinyu Zhang and Chih-Jen Sung and Kyle E Niemeyer},
+	Title = {Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate},
+	Journal = {Acta Mechanica Sinica},
+	Note = {In press},
+	Year = {2014}}
+ =--
+
+“An automated target species selection method for dynamic adaptive chemistry simulations.”  
+Nicholas J. Curtis, Kyle E. Niemeyer, and Chih-Jen Sung.  
+*Combustion and Flame*, in press, 2014.  
+{ [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2014.11.004) }
+
+ +-- {.abstract}
+### Abstract ###
+The relative importance index (RII) method for determining appropriate target species for dynamic adaptive chemistry (DAC) simulations using the directed relation graph with error propagation (DRGEP) method is developed. The adequacy and effectiveness of this RII method is validated for two fuels: n-heptane and isopentanol, representatives of a ground transportation fuel component and bio-alcohol, respectively.
+
+The conventional method of DRGEP target species selection involves picking an unchanging (static) set of target species based on the combustion processes of interest; however, these static target species may not remain important throughout the entire combustion simulation, adversely affecting the accuracy of the method. In particular, this behavior may significantly reduce the accuracy of the DRGEP-based DAC approach in complex multidimensional simulations where the encountered combustion conditions cannot be known a priori with high certainty. Moreover, testing multiple sets of static target species to ensure the accuracy of the method is generally computationally prohibitive. Instead, the RII method determines appropriate DRGEP target species solely from the local thermo-chemical state of the simulation, ensuring that accuracy will be maintained. Further, the RII method reduces the expertise required of users to select DRGEP target species sets appropriate to the combustion phenomena under consideration.
+
+Constant volume autoignition simulations run over a wide range of initial conditions using detailed reaction mechanisms for n-heptane and isopentanol show that the RII method is able to maintain accuracy even when traditional static target species sets fail, and are even more accurate than expert-selected target species sets. Additionally, the accuracy and efficiency of the RII method are compared to those of static target species sets in single-cell engine simulations under homogeneous charge compression ignition conditions. For simulations using more stringent DRGEP thresholds, the RII method performs similarly to that of the static target species sets. With a larger DRGEP threshold, the RII method is significantly more accurate than the static target species sets without imposing significant computational overhead.
+
+Furthermore, the applicability of the RII method to a DRG-based DAC scheme is discussed.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @article{Curtis:2014,
+	Author = {Nicholas J Curtis and Kyle E Niemeyer and Chih-Jen Sung},
+	Title = {An automated target species selection method for dynamic adaptive chemistry simulations},
+	Journal = {Combust. Flame},
+	Note = {In press},
+	Year = {2014}}
+ =--
+
 “Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Combustion and Flame*, 161(11):2752--2764, 2014.  
@@ -34,7 +118,7 @@ Strategies and recommendations for performing skeletal reductions of multicompon
     @article{Niemeyer:2014,
 	Author = {Kyle E Niemeyer and Chih-Jen Sung},
 	Title = {Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels},
-	Journal = {Combust. Flame}
+	Journal = {Combust. Flame},
 	Pages = {2752--2764},
 	Volume = {161},
 	Number = {11},
@@ -176,8 +260,8 @@ C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Stey
 
 “GPU-Based Parallel Integration of Large Numbers of Independent ODE Systems.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-In V. Kindratenko (Ed.), *Numerical Computations with GPUs*, Springer, in press.  
-\{ [Abstract]() | [BibTeX]() | [doi]() \}
+In V. Kindratenko (Ed.), *Numerical Computations with GPUs*, Springer International Publishing, Switzerland, Ch. 8, pp. 159--182.  
+\{ [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/978-3-319-06548-9_8) \}
 
  +-- {.abstract}
 ### Abstract ###
@@ -192,10 +276,40 @@ The task of integrating a large number of independent ODE systems arises in vari
 	Editor = {V Kindratenko},
 	Booktitle = {Numerical Computations with GPUs},
 	Publisher = {Springer},
-	Address = {},
-	Note = {in press},
+	Address = {Switzerland},
+	Chapter = {8},
+	Pages = {159--182},
 	Year = {2014},
-	Doi = {}}
+	Doi = {10.1007/978-3-319-06548-9_8}}
+ =--
+
+=--
+
+## Refereed Conference Papers ##
+
++-- {.section}
+# 2014 #
+
+“A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”  
+Kyle E. Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
+ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF), Columbus, IN, USA. 19--22 October 2014.  
+\{ [pdf](/files/pubs/Niemeyer_etal_ICEF2014.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1115/ICEF2014-5478) \}
+
+ +-- {.abstract}
+### Abstract ###
+Low-temperature combustion (LTC) engine concepts such as homogeneous charge compression ignition (HCCI) offer the potential of improved efficiency and reduced emissions of NOx and particulates. However, engines can only successfully operate in HCCI mode for limited operating ranges that vary depending on the fuel composition. Unfortunately, traditional ratings such as octane number poorly predict the autoignition behavior of fuels in such engine modes, and metrics recently proposed for HCCI engines have areas of improvement when wide ranges of fuels are considered. In this study, a new index for ranking fuel suitability for LTC engines was defined, based on the fraction of potential fuel savings achieved in the FTP-75 light-duty vehicle driving cycle. Driving cycle simulations were performed using a typical light-duty passenger vehicle, providing pairs of engine speed and load points. Separately, single-zone naturally aspirated HCCI engine simulations were performed for a variety of fuels in order to determine the operating envelopes for each. These results were combined to determine the varying improvement in fuel economy offered by fuels, forming the basis for a fuel performance index. Results showed that, in general, lower octane fuels performed better, resulting in higher LTC fuel index values; however, octane number alone did not predict fuel performance.
+ =--
+ 
+ +-- {.bibtex}
+### BibTeX ###
+    @inproceedings{Niemeyer:2014ic,
+    Author = {Kyle E. Niemeyer and Shane R. Daly and William J. Cannella and Christopher L. Hagen},
+    Title = {A new fuel index for LTC engines based on operating envelopes in light-duty driving cycle simulations: primary reference fuels},
+    Booktitle = {ASME 2014 Internal Combustion Engine Division Fall Technical Conference},
+    Location = {Columbus, IN, USA},
+    Month = oct,
+    Number = {ICEF2014-5478},
+    Year = {2014}}
  =--
 
 =--
