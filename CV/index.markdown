@@ -43,27 +43,28 @@ Experience
 ==========
 
 **Oregon State University**, Corvallis, OR  
-Assistant Professor, Senior Research, 2014--
+*Assistant Professor (Senior Research)* 2014--
+Efforts include performing research, teaching mechanical engineering courses, pursuing externally funded research programs, and advising students. Research interests focus on computational modeling for multi-physics fluid flows relevant to applications in aerospace, transportation, and
+energy systems.
 
 **Oregon State University**, Corvallis, OR  
-Postdoctoral Researcher, 2013--2014
+*Postdoctoral Researcher*, 2013--2014
+Performed research in various areas and taught a mechanical engineering course. Lead researcher on industrially supported project investigating the performance of various fuels in advanced combustion engines, responsible for monthly progress reports and ensuring progress under overall guidance of PI. In addition, performed research into chemical reaction mechanism reduction
 
 **Case Western Reserve University**, Cleveland, Ohio  
-Graduate Research Assistant, 2008--2013  
+*Graduate Research Assistant*, 2008--2013  
 Pursued research on methods to reduce the cost of detailed chemistry in 
-combustion modeling, including mechanism reduction approaches and GPU computing. 
-Helped advise a junior graduate student. Lead writer for multiple grant proposals, 
-including NSF and DOE.
+combustion modeling, including mechanism reduction approaches and GPU computing.  Helped advise a junior graduate student. Lead writer for multiple grant proposals, including NSF and DOE.
 
 **United Technologies Research Center**, East Hartford, Connecticut  
-Summer Research Intern, Summer 2011  
+*Summer Research Intern*, Summer 2011  
 Developed new method to accelerate reactive flow simulations for hypersonics
 using graphics processing units (GPUs). Presented results and future work, 
 as well as deliverables, to upper-level management. Worked with Drs. Jeremiah 
 C. Lee and Catalin G. Fotache in the Combustion Group. This work led to a [conference paper](/files/pubs/niemeyer_etal_essci2011.pdf).
 
 **[Ars Technica](http://arstechnica.com/)**  
-Associate Science Writer, June 2011--  
+*Associate Science Writer*, June 2011--  
 Reported on scientific articles covering a range of topics (e.g., energy, 
 climate, technology) to a technically but not necessarily scientifically 
 literate audience, with audiences of in the tens of thousands each month. 
@@ -72,7 +73,7 @@ down to be easily understandable. Readers participated in discussions and
 provided feedback through comments on articles.
 
 **Case Western Reserve University**, Cleveland, Ohio  
-Teaching Assistant, 2007--2010  
+*Teaching Assistant*, 2007--2010  
 Assisted instructors with homework and exam grading, class instruction, 
 and review sessions, and held regular office hours.
 
@@ -81,14 +82,14 @@ and review sessions, and held regular office hours.
 - EMAE 376, "Aerostructures", under [Prof. Christopher Hernandez](http://www.mae.cornell.edu/people/profile.cfm?netid=cjh275). Spring 2008
 
 **NASA Glenn Research Center**, Cleveland, Ohio  
-Summer Intern, Combustion Branch, May--August 2008  
+*Summer Intern*, Combustion Branch, May--August 2008  
 Assessed computational fluid dynamics software for Cryogenic Fluid 
 Management project development and validation under Dr. Jeffrey P. Moder. 
 Presented results of work to researchers in combustion group as well as
 peers.
 
 **Case Western Reserve University**, Cleveland, Ohio  
-Undergraduate Research Assistant, January--December 2007  
+*Undergraduate Research Assistant*, 2007  
 Worked under [Prof. Christopher Hernandez](http://www.mae.cornell.edu/people/profile.cfm?netid=cjh275) 
 with a team of undergraduate and graduate students to develop automated 
 algorithms to process and analyze high-resolution image samples. Also 
@@ -99,14 +100,78 @@ such as metal foams and trabecular bone.
 
 +-- {.section}
 Publications
-=====
+============
 
 (see my [publications page](/work/pubs/) for an up-to-date list)
 
 =--
 
 +-- {.section}
-Awards & Honors
+Teaching <br/> Experience
+===================
+
+**Oregon State University**  
+ME 331, Introductory Fluid Mechanics (undergraduate)  
+Junior-level course introducing concepts and applications of fluid mechanics and dimensional analysis.  
+--Fall 2013, Fall 2014  
+
+ESE 497, MIME Capstone Design (undergraduate)  
+Senior-level design capstone course for Energy Systems Engineering (ESE) students, covering real-world product design, project management, and professional communication skills.  
+--Fall 2014  
+
+**Case Western Reserve University** (as teaching assistant)  
+EMAE 350, Mechanical Engineering Analysis (undergraduate)  
+Junior-level course on mathematical methods (analytical and numerical) used in mechanical engineering, with a focus on ordinary and partial differential equations.  
+--Fall 2007, Fall 2009, Fall 2010  
+
+EMAE 359, Aero/Gas Dynamics (undergraduate)  
+Junior-level course on incompressible and compressible flow theory and applications.  
+--Spring 2010  
+
+EMAE 376, Aerostructures (undergraduate)  
+Junior-level course on solid mechanics of thin-walled aerospace structures, including introduction to finite element methods.  
+--Spring 2008  
+
+=--
+
++-- {.section}
+Advising <br/> Experience
+===================
+
+**Masters Students**
+
+ * Christopher Minar (co-advised with Belinda Batten)  
+
+=--
+
++-- {.section}
+Professional <br/> Service
+====================
+
+**Journal Reviewer**
+
+ * *Proceedings of the Combustion Institute*
+ * *Combustion and Flame*
+ * *SAE International Journal of Aerospace*
+ * *International Journal of Energetic Materials and Chemical Propulsion*
+ 
+**Conference Reviewer**
+
+ * SAE World Congress
+ * ASME Internal Combustion Engine Fall Meeting
+ * SAE 2014 International Powertrain, Fuels & Lubricants Meeting
+
+**Professional Affiliations**
+
+ * Member, The Combustion Institute
+ * Professional Member, American Institute of Aeronautics and Astronautics (AIAA)
+ * Member, American Society for Engineering Education (ASEE)
+ * Member, American Society of Mechanical Engineers (ASME)
+
+=--
+
++-- {.section}
+Awards & <br/> Honors
 ================
 
 - NSF Graduate Research Fellow, 2010--2013
@@ -121,16 +186,5 @@ Awards & Honors
 - Presidential Scholar, Case Western Reserve University, 2005--2008
 - Scholar-Athlete, Case Western Reserve University, 2005
 - Tau Beta Pi (Ohio Alpha Chapter)
-
-=--
-
-+-- {.section}
-Professional Affiliations
-==========================
-
-- Student member, The Combustion Institute
-- Professional member, American Institute of Aeronautics and Astronautics (AIAA)
-- Student Member, American Society for Engineering Education (ASEE)
-- Student Member, American Society of Mechanical Engineers (ASME)
 
 =--
