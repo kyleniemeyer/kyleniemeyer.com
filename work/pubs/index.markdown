@@ -19,28 +19,52 @@ Below are some of the papers I have published. Full information about my papers 
 +-- {.section}
 ## 2015 ##
 
-“A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”  
+“Investigation of the LTC fuel performance index for oxygenated reference fuel blends.”  
 Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
-Submitted.  
-{ [Abstract]() | [BibTeX]() | doi }
+*Fuel*, in press, 2015.  
+{ [pdf](/files/pubs/Niemeyer_etal_Fuel-2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.fuel.2015.04.010) }
 
  +-- {.abstract}
 ### Abstract ###
-Low-temperature combustion (LTC) engine concepts such as homogeneous charge compression ignition (HCCI) offer the potential of improved efficiency and reduced emissions of NOx and particulates. However, engines can only successfully operate in HCCI mode for limited operating ranges that vary depending on the fuel composition. Unfortunately, traditional ratings such as octane number poorly predict the autoignition behavior of fuels in such engine modes, and metrics recently proposed for HCCI engines have areas of improvement when wide ranges of fuels are considered. In this study, a new index for ranking fuel suitability for LTC engines was defined, based on the fraction of potential fuel savings achieved in the FTP-75 light-duty vehicle driving cycle. Driving cycle simulations were performed using a typical light-duty passenger vehicle, providing pairs of engine speed and load points. Separately, single-zone naturally aspirated HCCI engine simulations with a compression ratio of 9.5 were performed for a variety of fuels comprised of *n*-heptane, isooctane, toluene, and ethanol in order to determine the operating envelopes for each. These results were combined to determine the varying improvement in fuel economy offered by fuels, forming the basis for a fuel performance index. The resulting fuel performance indices ranged from 36.4 for neat *n*-heptane (PRF0) to 9.20 for a three-component blend of *n*-heptane, isooctane, and ethanol (ERF1). For the chosen engine and chosen conditions, in general lower-octane fuels performed better, resulting in higher LTC fuel index values; however, the fuel performance index correlated poorly with octane rating for less-reactive, higher-octane fuels.
+A new metric for ranking the suitability of fuels in LTC engines was recently introduced, based on the fraction of potential fuel savings achieved in the FTP-75 light-duty vehicle driving cycle. In the current study, this LTC fuel performance index was calculated and analyzed for a number of fuel blends comprised of n-heptane, isooctane, toluene, and ethanol in various combinations and ratios corresponding to octane numbers from 0 to 100. In order to calculate the LTC index for each fuel, driving cycle simulations were first performed using a typical light-duty passenger vehicle, providing pairs of engine speed and load points. Separately, for each fuel blend considered, single-zone naturally aspirated HCCI engine simulations with a compression ratio of 9.5 were performed in order to determine the operating envelopes. These results were combined to determine the varying improvement in fuel economy offered by fuels, forming the basis for the LTC fuel index. The resulting fuel performance indices ranged from 36.4 for neat n-heptane (PRF0) to 9.20 for a three-component blend of *n*-heptane, isooctane, and ethanol (ERF1). For the chosen engine and chosen conditions, in general lower-octane fuels performed better, resulting in higher LTC fuel index values; however, the fuel performance index correlated poorly with octane rating for less-reactive, higher-octane fuels.
  =--
 
  +-- {.bibtex}
 ### BibTeX ###
-    @misc{Niemeyer:2015b,
+    @misc{Niemeyer:2015c,
+	Author = {Kyle E Niemeyer and Shane R. Daly and William J. Cannella and Christopher L. Hagen},
+	Title = {Investigation of the LTC fuel performance index for oxygenated reference fuel blends},
+	Year = {2015},
+	Doi = {10.1016/j.fuel.2015.04.010},
+	Note = {In press}}
+ =--
+ 
+“A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”  
+Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
+*Journal of Engineering for Gas Turbines and Power*, 137(10):101601, 2015.  
+{ [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1115/1.4029948) }
+
+ +-- {.abstract}
+### Abstract ###
+Low-temperature combustion (LTC) engine concepts such as homogeneous charge compression ignition (HCCI) offer the potential of improved efficiency and reduced emissions of NOx and particulates. However, engines can only successfully operate in HCCI mode for limited operating ranges that vary depending on the fuel composition. Unfortunately, traditional ratings such as octane number poorly predict the autoignition behavior of fuels in such engine modes, and metrics recently proposed for HCCI engines have areas of improvement when wide ranges of fuels are considered. In this study, a new index for ranking fuel suitability for LTC engines was defined, based on the fraction of potential fuel savings achieved in the FTP-75 light-duty vehicle driving cycle. Driving cycle simulations were performed using a typical light-duty passenger vehicle, providing pairs of engine speed and load points. Separately, single-zone naturally aspirated HCCI engine simulations were performed for a variety of fuels in order to determine the operating envelopes for each. These results were combined to determine the varying improvement in fuel economy offered by fuels, forming the basis for a fuel performance index. Results showed that, in general, lower octane fuels performed better, resulting in higher LTC fuel index values; however, octane number alone did not predict fuel performance.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @article{Niemeyer:2015je,
 	Author = {Kyle E Niemeyer and Shane R. Daly and William J. Cannella and Christopher L. Hagen},
 	Title = {A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations},
+	Journal = {J. Eng. Gas Turbines Power},
 	Year = {2015},
-	Note = {Submitted}}
+	Doi = {10.1115/1.4029948},
+	Volume = {137},
+	Number = {10},
+	Pages = {101601}}
  =--
 
 “Reduced chemistry for a gasoline surrogate valid at engine-relevant conditions.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-*Energy & Fuels*, in press, 2015.  
+*Energy & Fuels*, 29(2):1172--1185, 2015.  
 { [arXiv](http://arxiv.org/abs/1410.0401) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1021/ef5022126) }
 
  +-- {.abstract}
@@ -50,13 +74,43 @@ A detailed mechanism for the four-component RD387 gasoline surrogate developed b
 
  +-- {.bibtex}
 ### BibTeX ###
-    @misc{Niemeyer:2015a,
+    @article{Niemeyer:2015ef,
 	Author = {Kyle E Niemeyer and Chih-Jen Sung},
 	Title = {Reduced chemistry for a gasoline surrogate valid at engine-relevant conditions},
-	Journal = {Energy and Fuels},
+	Journal = {Energy Fuels},
 	Year = {2015},
 	Doi = {10.1021/ef5022126},
-	Note = {in press}}
+	Volume = {29},
+	Number = {2},
+	Pages = {1172--1185}}
+ =--
+
+“An automated target species selection method for dynamic adaptive chemistry simulations.”  
+Nicholas J. Curtis, Kyle E. Niemeyer, and Chih-Jen Sung.  
+*Combustion and Flame*, 162(4):1358--1374, 2015.  
+{ [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2014.11.004) }
+
+ +-- {.abstract}
+### Abstract ###
+The relative importance index (RII) method for determining appropriate target species for dynamic adaptive chemistry (DAC) simulations using the directed relation graph with error propagation (DRGEP) method is developed. The adequacy and effectiveness of this RII method is validated for two fuels: n-heptane and isopentanol, representatives of a ground transportation fuel component and bio-alcohol, respectively.
+
+The conventional method of DRGEP target species selection involves picking an unchanging (static) set of target species based on the combustion processes of interest; however, these static target species may not remain important throughout the entire combustion simulation, adversely affecting the accuracy of the method. In particular, this behavior may significantly reduce the accuracy of the DRGEP-based DAC approach in complex multidimensional simulations where the encountered combustion conditions cannot be known a priori with high certainty. Moreover, testing multiple sets of static target species to ensure the accuracy of the method is generally computationally prohibitive. Instead, the RII method determines appropriate DRGEP target species solely from the local thermo-chemical state of the simulation, ensuring that accuracy will be maintained. Further, the RII method reduces the expertise required of users to select DRGEP target species sets appropriate to the combustion phenomena under consideration.
+
+Constant volume autoignition simulations run over a wide range of initial conditions using detailed reaction mechanisms for n-heptane and isopentanol show that the RII method is able to maintain accuracy even when traditional static target species sets fail, and are even more accurate than expert-selected target species sets. Additionally, the accuracy and efficiency of the RII method are compared to those of static target species sets in single-cell engine simulations under homogeneous charge compression ignition conditions. For simulations using more stringent DRGEP thresholds, the RII method performs similarly to that of the static target species sets. With a larger DRGEP threshold, the RII method is significantly more accurate than the static target species sets without imposing significant computational overhead.
+
+Furthermore, the applicability of the RII method to a DRG-based DAC scheme is discussed.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @article{Curtis:2015,
+	Author = {Nicholas J Curtis and Kyle E Niemeyer and Chih-Jen Sung},
+	Title = {An automated target species selection method for dynamic adaptive chemistry simulations},
+	Journal = {Combust. Flame},
+	Volume = {162},
+	Number = {4},
+	Pages = {1358--1374}
+	Year = {2015}}
  =--
 
 =--
@@ -82,32 +136,6 @@ In this paper, the methodology of the directed relation graph with error propaga
 	Journal = {Acta Mechanica Sinica},
 	Note = {In press},
 	Doi = {10.1007/s10409-014-0104-z},
-	Year = {2014}}
- =--
-
-“An automated target species selection method for dynamic adaptive chemistry simulations.”  
-Nicholas J. Curtis, Kyle E. Niemeyer, and Chih-Jen Sung.  
-*Combustion and Flame*, in press, 2014.  
-{ [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2014.11.004) }
-
- +-- {.abstract}
-### Abstract ###
-The relative importance index (RII) method for determining appropriate target species for dynamic adaptive chemistry (DAC) simulations using the directed relation graph with error propagation (DRGEP) method is developed. The adequacy and effectiveness of this RII method is validated for two fuels: n-heptane and isopentanol, representatives of a ground transportation fuel component and bio-alcohol, respectively.
-
-The conventional method of DRGEP target species selection involves picking an unchanging (static) set of target species based on the combustion processes of interest; however, these static target species may not remain important throughout the entire combustion simulation, adversely affecting the accuracy of the method. In particular, this behavior may significantly reduce the accuracy of the DRGEP-based DAC approach in complex multidimensional simulations where the encountered combustion conditions cannot be known a priori with high certainty. Moreover, testing multiple sets of static target species to ensure the accuracy of the method is generally computationally prohibitive. Instead, the RII method determines appropriate DRGEP target species solely from the local thermo-chemical state of the simulation, ensuring that accuracy will be maintained. Further, the RII method reduces the expertise required of users to select DRGEP target species sets appropriate to the combustion phenomena under consideration.
-
-Constant volume autoignition simulations run over a wide range of initial conditions using detailed reaction mechanisms for n-heptane and isopentanol show that the RII method is able to maintain accuracy even when traditional static target species sets fail, and are even more accurate than expert-selected target species sets. Additionally, the accuracy and efficiency of the RII method are compared to those of static target species sets in single-cell engine simulations under homogeneous charge compression ignition conditions. For simulations using more stringent DRGEP thresholds, the RII method performs similarly to that of the static target species sets. With a larger DRGEP threshold, the RII method is significantly more accurate than the static target species sets without imposing significant computational overhead.
-
-Furthermore, the applicability of the RII method to a DRG-based DAC scheme is discussed.
- =--
-
- +-- {.bibtex}
-### BibTeX ###
-    @article{Curtis:2014,
-	Author = {Nicholas J Curtis and Kyle E Niemeyer and Chih-Jen Sung},
-	Title = {An automated target species selection method for dynamic adaptive chemistry simulations},
-	Journal = {Combust. Flame},
-	Note = {In press},
 	Year = {2014}}
  =--
 
