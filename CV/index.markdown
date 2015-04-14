@@ -64,7 +64,7 @@ as well as deliverables, to upper-level management. Worked with Drs. Jeremiah
 C. Lee and Catalin G. Fotache in the Combustion Group. This work led to a [conference paper](/files/pubs/niemeyer_etal_essci2011.pdf).
 
 **[Ars Technica](http://arstechnica.com/)**  
-*Associate Science Writer*, June 2011--  
+*Associate Science Writer*, June 2011--November 2012
 Reported on scientific articles covering a range of topics (e.g., energy, 
 climate, technology) to a technically but not necessarily scientifically 
 literate audience, with audiences of in the tens of thousands each month. 
@@ -111,6 +111,10 @@ Teaching <br/> Experience
 ===================
 
 **Oregon State University**  
+ME 373, Mechanical Engineering Methods (undergraduate)  
+Junior-level course covering analytical and numerical methods for solving ordinary and partial differential equations.  
+--Winter 2015  
+
 ME 331, Introductory Fluid Mechanics (undergraduate)  
 Junior-level course introducing concepts and applications of fluid mechanics and dimensional analysis.  
 --Fall 2013, Fall 2014  
@@ -154,12 +158,17 @@ Professional <br/> Service
  * *Combustion and Flame*
  * *SAE International Journal of Aerospace*
  * *International Journal of Energetic Materials and Chemical Propulsion*
+ * *Journal of Computational Physics*
  
 **Conference Reviewer**
 
  * SAE World Congress
  * ASME Internal Combustion Engine Fall Meeting
  * SAE 2014 International Powertrain, Fuels & Lubricants Meeting
+ 
+**Proposal/Award Referee**
+
+ * National Defense Science and Engineering Graduate (NDSEG) Fellowship 2015
 
 **Professional Affiliations**
 
