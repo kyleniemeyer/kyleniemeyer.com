@@ -12,35 +12,39 @@ at [Oregon State University][osu] in Corvallis, Oregon.
 I received my PhD in mechanical engineering at [Case Western Reserve University][case] in August 2013. My advisor was [Professor Jackie Sung][sung] of the [Combustion Diagnostics Laboratory][cdl] at the University of Connecticut.  
 
 +-- {.section}
-[Publications](/work/pubs/)
-============
-I have [published][] papers on topics in combustion modeling, including chemical mechanism reduction and GPU computing.
-=--
-
-+-- {.section}
 Contact 
 =======
 I can be reached at by email at <Kyle.Niemeyer@oregonstate.edu>
 =--
 
 +-- {.section}
+[Publications](/work/pubs/)
+============
+I have [published][] papers on topics in combustion modeling, including chemical reaction mechanism reduction and GPU computing.
+=--
+
++-- {.section}
+Students
+=======
+I'm currently advising one MS student: Christopher Minar.
+=--
+
++-- {.section}
 News
 ====
-_27 August 2013:_ An article written by my PhD advisor, [Professor Chih-Jen Sung][sung], and myself about our work in GPU computing for combustion modeling made the front pages of the Combustion Energy Frontier Research Center (CEFRC) [newsletter](http://www.princeton.edu/cefrc/Newsletters/CEFRCnewsVol4Issue1.pdf).
 
-_19 August 2013:_ Successfully defended my PhD dissertation, titled "Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units."
+_20--22 April 2015:_ Attending and presenting talk on using GPUs for chemical kinetics in combustion simulations at the [15th International Conference on Numerical Combustion](http://www.nc15.ecp.fr/) in Avignon, France.
 
-_19--22 May 2013:_ Presented at the 10th US National Combustion Meeting in Park City, Utah. Here, I presented some new developments in our mechanism reduction algorithm as well as skeletal mechanisms for gasoline surrogates.
+_11 April 2015:_ My [paper](http://dx.doi.org/10.1016/j.fuel.2015.04.010) on a new fuel performance index for low-temperature combustion with Shane Daly, William Cannella, and [Christopher Hagen](http://mime.oregonstate.edu/people/hagen) has been accepted for publication in [*Fuel*](http://www.sciencedirect.com/science/journal/00162361).
 
-_8--10 April 2013:_ Presented at the SIAM 14th International Conference on Numerical Combustion in San Antonio, Texas. This talk presented some new results in addition to those I presented at the ASM in January. I was part of the minisymposium on GPU computing, which was recorded and will be available on the SIAM website [here](https://client.blueskybroadcast.com/SIAM13/NC/siam_nc13_MS8_2/).
+_24--26 March 2015:_ Attended High Pressure High Reynolds Number Combustion workshop at KAUST in Saudi Arabia.
 
-_6--10 January 2013:_ Attended and presented at the 51st AIAA Aerospace Sciences Meeting in Grapevine, Texas. My talk was on our efforts to accelerate reactive flow simulations using GPUs; check out my [paper](/files/pubs/Niemeyer-Sung-ASM_2013.pdf) for some background information and keep an eye out for an upcoming paper with the most recent results.
+_(apologies for the lack of updates... plenty happened in this time!)_
 
-_16--17 October 2012:_ Attended [OpenACC GPU Programming Workshop](http://www.psc.edu/index.php/training/openacc-gpu-programming) at [Pittsburgh Supercomputing Center](http://www.psc.edu)
+_27 August 2013:_ An article written by my PhD advisor, [Chih-Jen Sung][sung], and myself about our work in GPU computing for combustion modeling made the front pages of the Combustion Energy Frontier Research Center (CEFRC) [newsletter](http://www.princeton.edu/cefrc/Newsletters/CEFRCnewsVol4Issue1.pdf).
 
-_8 October 2012:_ Coauthored a feature article at [Ars Technica][ars] on future engine technology: ["The road ahead: How we'll get to 54.5 mpg by 2025"](http://arstechnica.com/features/2012/10/the-road-ahead-how-well-get-to-54-5-mpg-by-2025/)
 
-_14 September 2012:_ Gave presentation at [Case Western Reserve][case] on how to apply and tips on getting the [NSF Graduate Research Fellowship](http://www.nsfgrfp.org/) and [National Defense Science and Engineering Fellowship](http://ndseg.asee.org/); check out my [presentation](/files/KNiemeyer_NSF_GRFP_presentation.pdf).
+[Older News →](/work/news/)
 
 =--
 

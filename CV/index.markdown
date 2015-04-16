@@ -42,14 +42,13 @@ GPA: 4.0 / 4.0
 Experience
 ==========
 
-**Oregon State University**, Corvallis, OR  
-*Assistant Professor (Senior Research)* 2014--
-Efforts include performing research, teaching mechanical engineering courses, pursuing externally funded research programs, and advising students. Research interests focus on computational modeling for multi-physics fluid flows relevant to applications in aerospace, transportation, and
-energy systems.
+**Oregon State University**, Corvallis, Oregon  
+*Assistant Professor (Senior Research)* 2014--  
+Efforts include performing research, teaching mechanical engineering courses, pursuing externally funded research programs, and advising students. Research interests focus on computational modeling for multi-physics fluid flows relevant to applications in aerospace, transportation, and energy systems.
 
-**Oregon State University**, Corvallis, OR  
-*Postdoctoral Researcher*, 2013--2014
-Performed research in various areas and taught a mechanical engineering course. Lead researcher on industrially supported project investigating the performance of various fuels in advanced combustion engines, responsible for monthly progress reports and ensuring progress under overall guidance of PI. In addition, performed research into chemical reaction mechanism reduction
+**Oregon State University**, Corvallis, Oregon  
+*Postdoctoral Researcher*, 2013--2014  
+Performed research in various areas and taught a mechanical engineering course. Lead researcher on industrially supported project investigating the performance of various fuels in advanced combustion engines, responsible for monthly progress reports and ensuring progress under overall guidance of PI. In addition, performed research into chemical reaction mechanism reduction.
 
 **Case Western Reserve University**, Cleveland, Ohio  
 *Graduate Research Assistant*, 2008--2013  
@@ -64,7 +63,7 @@ as well as deliverables, to upper-level management. Worked with Drs. Jeremiah
 C. Lee and Catalin G. Fotache in the Combustion Group. This work led to a [conference paper](/files/pubs/niemeyer_etal_essci2011.pdf).
 
 **[Ars Technica](http://arstechnica.com/)**  
-*Associate Science Writer*, June 2011--November 2012
+*Associate Science Writer*, June 2011--November 2012  
 Reported on scientific articles covering a range of topics (e.g., energy, 
 climate, technology) to a technically but not necessarily scientifically 
 literate audience, with audiences of in the tens of thousands each month. 
@@ -156,19 +155,22 @@ Professional <br/> Service
 
  * *Proceedings of the Combustion Institute*
  * *Combustion and Flame*
- * *SAE International Journal of Aerospace*
- * *International Journal of Energetic Materials and Chemical Propulsion*
  * *Journal of Computational Physics*
+ * *Energy Conversion and Management*
+ * *International Journal of Energetic Materials and Chemical Propulsion*
+ * *SAE International Journal of Aerospace*
  
 **Conference Reviewer**
 
  * SAE World Congress
  * ASME Internal Combustion Engine Fall Meeting
  * SAE 2014 International Powertrain, Fuels & Lubricants Meeting
+ * ASME 2015 International Design Engineering Technical Conferences
  
 **Proposal/Award Referee**
 
  * National Defense Science and Engineering Graduate (NDSEG) Fellowship 2015
+ * Air Force Summer Faculty Fellowship Program 2015
 
 **Professional Affiliations**
 
@@ -176,6 +178,11 @@ Professional <br/> Service
  * Professional Member, American Institute of Aeronautics and Astronautics (AIAA)
  * Member, American Society for Engineering Education (ASEE)
  * Member, American Society of Mechanical Engineers (ASME)
+
+**University Service**
+
+ * “Discovering the Scientist Within” outreach event for middle-school girls, 8 March 2015
+ * “Explore Engineering Careers” speaker for Energy Systems Engineering, 14 January 2015
 
 =--
 

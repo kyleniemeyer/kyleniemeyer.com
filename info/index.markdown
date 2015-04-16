@@ -10,7 +10,7 @@ top: Kyle Niemeyer
 About Me
 ========
 
-In my free time, I enjoy running with my wife, immersive video games, and training in Muay Thai (Thai boxing).
+In my free time, I enjoy running and weightlifting with my wife, immersive video games, training in Muay Thai (Thai boxing), and discovering the Northwest's multitude of IPAs.
 
 About This Site
 ===============
