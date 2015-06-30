@@ -21,7 +21,7 @@ Below are some of the papers I have published. Full information about my papers 
 
 “Investigation of the LTC fuel performance index for oxygenated reference fuel blends.”  
 Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
-*Fuel*, in press, 2015.  
+*Fuel*, 155:14--24, 2015.  
 { [pdf](/files/pubs/Niemeyer_etal_Fuel-2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.fuel.2015.04.010) }
 
  +-- {.abstract}
@@ -31,12 +31,14 @@ A new metric for ranking the suitability of fuels in LTC engines was recently in
 
  +-- {.bibtex}
 ### BibTeX ###
-    @misc{Niemeyer:2015c,
+    @article{Niemeyer:2015c,
 	Author = {Kyle E Niemeyer and Shane R. Daly and William J. Cannella and Christopher L. Hagen},
 	Title = {Investigation of the LTC fuel performance index for oxygenated reference fuel blends},
 	Year = {2015},
-	Doi = {10.1016/j.fuel.2015.04.010},
-	Note = {In press}}
+	Journal = {Fuel},
+	Volume = {155},
+	Pages = {14--24},
+	Doi = {10.1016/j.fuel.2015.04.010}}
  =--
  
 “A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”  
@@ -351,6 +353,32 @@ Low-temperature combustion (LTC) engine concepts such as homogeneous charge comp
 =--
 
 ## Conference Papers / Presentations ##
+
++-- {.section}
+# 2015 #
+
+“Using GPUs to accelerate nonstiff and stiff chemical kinetics in combustion simulations.”  
+Kyle E. Niemeyer.  
+15th International Conference on Numerical Combustion, Avignon, France. 19--22 April 2015.  
+\{ [Slides](http://www.slideshare.net/kyleniemeyer/icnc15-niemeyer-talk) | [Abstract]() | [BibTeX]() \}
+
+ +-- {.abstract}
+### Abstract ###
+Combustion simulations with detailed chemical kinetics require the integration of a large number of ordinary differential equation (ODEs), with at least one ODE system per spatial location solved every time step. This task is well-suited to the massively parallel processing capabilities of graphics processing units (GPUs), where individual GPU threads concurrently integrate independent ODE systems for different spatial locations. However, the typical high-order implicit algorithms used in combustion modeling applications (e.g., VODE, LSODE) to handle stiffness involve complex logical flow that causes severe thread divergence when implemented on GPUs, thus limiting performance. Alternate algorithms are therefore needed. This talk will discuss strategies and results using integration algorithms for nonstiff and stiff chemical kinetics on GPUs.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @inproceedings{Niemeyer:2015nc,
+	Author = {Kyle E Niemeyer},
+	Title = {Using GPUs to accelerate nonstiff and stiff chemical kinetics in combustion simulations},
+	Booktitle = {15th International Conference on Numerical Combustion},
+	Location = {Avignon, France},
+	Month = apr,
+	Year = {2015}}
+ =--
+
+=--
 
 +-- {.section}
 # 2014 #
