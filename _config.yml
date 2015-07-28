@@ -1,5 +1,5 @@
 ---
-destination : /Users/Kyle/Sites/kyleniemeyer.com/_site
+destination : ~/Sites/kyleniemeyer.com/_site
 lsi         : false
 highlighter : pygments
 permalink   : none
