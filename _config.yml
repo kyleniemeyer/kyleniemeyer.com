@@ -1,7 +1,7 @@
 ---
-destination : /Users/kyleniemeyer/Sites/kyleniemeyer.com/_site
+destination : /Users/Kyle/Sites/kyleniemeyer.com/_site
 lsi         : false
-pygments    : true
+highlighter : pygments
 permalink   : none
 markdown    : maruku
 exclude	    : [rsync-site.sh, .git, .gitignore]
