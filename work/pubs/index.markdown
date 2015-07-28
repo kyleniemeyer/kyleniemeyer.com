@@ -19,6 +19,48 @@ Below are some of the papers I have published. Full information about my papers 
 +-- {.section}
 ## 2015 ##
 
+“Counterflow ignition of *n*-butanol at atmospheric and elevated pressures.”  
+Kyle B. Brady, Xin Hui, Chih-Jen Sung, and Kyle E. Niemeyer.  
+*Combustion and Flame*, in press, 2015.  
+{ [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2015.06.017) }
+
+ +-- {.abstract}
+### Abstract ###
+Critical to the development of predictive combustion models is a robust understanding of the coupled effects of chemical kinetics and convective–diffusive transport at both atmospheric and elevated pressures. The present study describes a new variable-pressure non-premixed counterflow ignition experiment designed to address the need for well-characterized reference data to validate such models under conditions sensitive to both chemical and transport processes. A comprehensive characterization of system behavior is provided to demonstrate boundary condition and ignition quality as well as adherence to the assumption of quasi-one-dimensionality, and suggest limitations and best practices for counterflow ignition experiments. This effort reveals that the counterflow ignition experiment requires special attention to ignition location in order to ensure that the assumption of quasi-one-dimensionality is valid, particularly at elevated pressures. This experimental tool is then applied to the investigation of *n*-butanol for pressures of 1–4 atm, pressure-weighted strain rates of 200–400 s<sup>−1</sup>, and fuel mole fractions of 0.05–0.25. Results are simulated using two *n*-butanol models available in the literature and used to validate and assess model performance. Comparison of experimental and numerical ignition results for *n*-butanol demonstrates that while existing models largely capture the trends observed with varying pressure, strain rate, and fuel loading, the models universally over-predict experimental ignition temperatures. While several transport coefficients are found to exhibit order-of-magnitude or greater sensitivities relative to reaction rates, variation of transport parameters is not able to account for the large deviations observed between experimental and numerical results. Further comparison of ignition kernel structure and fuel breakdown pathways between two literature models suggests that an under-prediction in the radical pool growth with respect to temperature variation may be responsible for both the deviation from the experimental results and the discrepancy in ignition temperature results observed between models.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @article{Brady:2015,
+	Author = {Kyle B Brady and Xin Hui and Chih-Jen Sung and Kyle E Niemeyer},
+	Title = {Counterflow ignition of n-butanol at atmospheric and elevated pressures},
+	Journal = {Combust. Flame},
+	Note = {In press},
+	Doi = {10.1016/j.combustflame.2015.06.017},
+	Year = {2015}}
+ =--
+
+“Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”  
+Fengquan Zhong, Sugang Ma, Xinyu Zhang, Chih-Jen Sung, and Kyle E. Niemeyer.  
+*Acta Mechanica Sinica*, in press, 2015.  
+{ [pdf](/files/pubs/Zhong_etal_Acta_Mech_Sin_2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007_s10409-015-0434-5) }
+
+ +-- {.abstract}
+### Abstract ###
+In this paper, the methodology of the directed relation graph with error propagation and sensitivity analysis (DRGEPSA), proposed by Niemeyer et al. \[Combustion and Flame 155 (2010) 1760--1770\], and its differences to the original directed relation graph method are described. Using DRGEPSA, the detailed mechanism of ethylene containing 71 species and 395 reaction steps is reduced to several skeletal mechanisms with different error thresholds. The 25 species and 131 steps mechanism and the 24 species and 115 steps mechanism are found to be accurate for the predictions of ignition delay time and laminar flame speed. Although further reduction leads to a smaller skeletal mechanism with 19 species and 68 steps, it is no longer able to represent the correct reaction processes. With the DRGEPSA method, a detailed mechanism for n-dodecane considering low-temperature chemistry and containing 2115 species and 8157 steps is reduced to a much smaller mechanism with 249 species and 910 steps while retaining good accuracy. If considering only high-temperature (higher than 1000 K) applications, the detailed mechanism can be simplified to even smaller mechanisms with 65 species and 340 steps or 48 species and 220 steps. Furthermore, a detailed mechanism for a kerosene surrogate having 207 species and 1592 steps is reduced with various error thresholds and the results show that the 72 species and 429 steps mechanism and the 66 species and 392 steps mechanism are capable of predicting correct combustion properties compared to those of the detailed mechanism. It is well recognized that kinetic mechanisms can be effectively used in computations only after they are reduced to an acceptable size level for computation capacity and at the same time retaining accuracy. Thus, the skeletal mechanisms generated from the present work are expected to be useful for the application of kinetic mechanisms of hydrocarbons to numerical simulations of turbulent or supersonic combustion.
+ =--
+
+ +-- {.bibtex}
+### BibTeX ###
+    @article{Zhong:2015,
+	Author = {Fengquan Zhong and Sugang Ma and Xinyu Zhang and Chih-Jen Sung and Kyle E Niemeyer},
+	Title = {Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate},
+	Journal = {Acta Mechanica Sinica},
+	Note = {In press},
+	Doi = {10.1007_s10409-015-0434-5},
+	Year = {2015}}
+ =--
+
 “Investigation of the LTC fuel performance index for oxygenated reference fuel blends.”  
 Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
 *Fuel*, 155:14--24, 2015.  
@@ -119,27 +161,6 @@ Furthermore, the applicability of the RII method to a DRG-based DAC scheme is di
 
 +-- {.section}
 ## 2014 ##
-
-“Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”  
-Fengquan Zhong, Sugang Ma, Xinyu Zhang, Chih-Jen Sung, and Kyle E. Niemeyer.  
-*Acta Mechanica Sinica*, in press, 2014.  
-{ [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s10409-014-0104-z) }
-
- +-- {.abstract}
-### Abstract ###
-In this paper, the methodology of the directed relation graph with error propagation and sensitivity analysis (DRGEPSA), proposed by Niemeyer et al. \[Combustion and Flame 155 (2010) 1760--1770\], and its differences to the original directed relation graph method are described. Using DRGEPSA, the detailed mechanism of ethylene containing 71 species and 395 reaction steps is reduced to several skeletal mechanisms with different error thresholds. The 25 species and 131 steps mechanism and the 24 species and 115 steps mechanism are found to be accurate for the predictions of ignition delay time and laminar flame speed. Although further reduction leads to a smaller skeletal mechanism with 19 species and 68 steps, it is no longer able to represent the correct reaction processes. With the DRGEPSA method, a detailed mechanism for n-dodecane considering low-temperature chemistry and containing 2115 species and 8157 steps is reduced to a much smaller mechanism with 249 species and 910 steps while retaining good accuracy. If considering only high-temperature (higher than 1000 K) applications, the detailed mechanism can be simplified to even smaller mechanisms with 65 species and 340 steps or 48 species and 220 steps. Furthermore, a detailed mechanism for a kerosene surrogate having 207 species and 1592 steps is reduced with various error thresholds and the results show that the 72 species and 429 steps mechanism and the 66 species and 392 steps mechanism are capable of predicting correct combustion properties compared to those of the detailed mechanism. It is well recognized that kinetic mechanisms can be effectively used in computations only after they are reduced to an acceptable size level for computation capacity and at the same time retaining accuracy. Thus, the skeletal mechanisms generated from the present work are expected to be useful for the application of kinetic mechanisms of hydrocarbons to numerical simulations of turbulent or supersonic combustion.
- =--
-
- +-- {.bibtex}
-### BibTeX ###
-    @article{Zhong:2014,
-	Author = {Fengquan Zhong and Sugang Ma and Xinyu Zhang and Chih-Jen Sung and Kyle E Niemeyer},
-	Title = {Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate},
-	Journal = {Acta Mechanica Sinica},
-	Note = {In press},
-	Doi = {10.1007/s10409-014-0104-z},
-	Year = {2014}}
- =--
 
 “Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
