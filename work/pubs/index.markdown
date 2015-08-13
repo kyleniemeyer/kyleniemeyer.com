@@ -43,7 +43,7 @@ Critical to the development of predictive combustion models is a robust understa
 “Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”  
 Fengquan Zhong, Sugang Ma, Xinyu Zhang, Chih-Jen Sung, and Kyle E. Niemeyer.  
 *Acta Mechanica Sinica*, in press, 2015.  
-{ [pdf](/files/pubs/Zhong_etal_Acta_Mech_Sin_2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007_s10409-015-0434-5) }
+{ [pdf](/files/pubs/Zhong_etal_Acta_Mech_Sin_2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s10409-015-0434-5) }
 
  +-- {.abstract}
 ### Abstract ###
@@ -57,7 +57,7 @@ In this paper, the methodology of the directed relation graph with error propaga
 	Title = {Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate},
 	Journal = {Acta Mechanica Sinica},
 	Note = {In press},
-	Doi = {10.1007_s10409-015-0434-5},
+	Doi = {10.1007/s10409-015-0434-5},
 	Year = {2015}}
  =--
 
