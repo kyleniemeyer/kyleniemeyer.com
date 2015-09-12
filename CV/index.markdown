@@ -5,18 +5,18 @@ section: CV
 top: Kyle Niemeyer
 ---
 
-+-- {.section}
+<div class="section">
 Download the most recent version of my CV here: \{ [pdf](https://www.dropbox.com/s/iyrojgeilotjdd4/KE_Niemeyer_CV.pdf?dl=0) \}
-=--
+</div>
 
-+--	{.section}
+<div class="section">
 Research <br/> Interests
 ==================
 
 My research interests generally include developing tools and strategies to integrate accurate physical models into practical engineering simulations; my current work involves developing chemical mechanism reduction methods and algorithms to use graphics processing units (GPUs) to enable the use of detailed, predictive chemical models in combustion and reactive-flow simulations. More generally, I am also interested in developing strategies to accelerate science and engineering computations with GPUs.
-=--
+</div>
 
-+--	{.section}
+<div class="section">
 Education
 =========
 
@@ -36,9 +36,9 @@ B.S., Aerospace Engineering, January 2009
 *summa cum laude*  
 GPA: 4.0 / 4.0
 
-=--
+</div>
 
-+--	{.section}
+<div class="section">
 Experience
 ==========
 
@@ -95,17 +95,17 @@ algorithms to process and analyze high-resolution image samples. Also
 performed individual research studying size effects in cellular solids 
 such as metal foams and trabecular bone.
 
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 Publications
 ============
 
-(see my [publications page](/work/pubs/) for an up-to-date list)
+(see my [publications page](/research/pubs/) for an up-to-date list)
 
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 Teaching <br/> Experience
 ===================
 
@@ -135,9 +135,9 @@ EMAE 376, Aerostructures (undergraduate)
 Junior-level course on solid mechanics of thin-walled aerospace structures, including introduction to finite element methods.  
 --Spring 2008  
 
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 Advising <br/> Experience
 ===================
 
@@ -145,9 +145,9 @@ Advising <br/> Experience
 
  * Christopher Minar (co-advised with Belinda Batten)  
 
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 Professional <br/> Service
 ====================
 
@@ -184,9 +184,9 @@ Professional <br/> Service
  * “Discovering the Scientist Within” outreach event for middle-school girls, 8 March 2015
  * “Explore Engineering Careers” speaker for Energy Systems Engineering, 14 January 2015
 
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 Awards & <br/> Honors
 ================
 
@@ -203,4 +203,4 @@ Awards & <br/> Honors
 - Scholar-Athlete, Case Western Reserve University, 2005
 - Tau Beta Pi (Ohio Alpha Chapter)
 
-=--
+</div>

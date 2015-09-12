@@ -1,7 +1,7 @@
 ---
 layout: name
 title: Research
-section: Work
+section: Research
 ---
 
 Research
@@ -11,25 +11,25 @@ at [Oregon State University][osu] in Corvallis, Oregon.
 
 I received my PhD in mechanical engineering at [Case Western Reserve University][case] in August 2013. My advisor was [Professor Jackie Sung][sung] of the [Combustion Diagnostics Laboratory][cdl] at the University of Connecticut.  
 
-+-- {.section}
+<div class="section">
 Contact 
 =======
 I can be reached at by email at <Kyle.Niemeyer@oregonstate.edu>
-=--
+</div>
 
-+-- {.section}
-[Publications](/work/pubs/)
+<div class="section">
+[Publications](/research/pubs/)
 ============
 I have [published][] papers on topics in combustion modeling, including chemical reaction mechanism reduction and GPU computing.
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 Students
 =======
-I'm currently advising one MS student: Christopher Minar.
-=--
+I'm currently advising two MS student: Christopher Minar and Miguel Soler.
+</div>
 
-+-- {.section}
+<div class="section">
 News
 ====
 
@@ -44,18 +44,18 @@ _(apologies for the lack of updates... plenty happened in this time!)_
 _27 August 2013:_ An article written by my PhD advisor, [Chih-Jen Sung][sung], and myself about our work in GPU computing for combustion modeling made the front pages of the Combustion Energy Frontier Research Center (CEFRC) [newsletter](http://www.princeton.edu/cefrc/Newsletters/CEFRCnewsVol4Issue1.pdf).
 
 
-[Older News →](/work/news/)
+[Older News →](/research/news/)
 
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 Activities
 ==========
 
-=--
+</div>
 
-[research]: /work/
-[published]: /work/pubs
+[research]: /research/
+[published]: /research/pubs
 [personal]: /
 [code]: /code/
 

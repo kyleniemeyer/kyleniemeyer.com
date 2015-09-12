@@ -3,7 +3,7 @@ destination : ~/Sites/kyleniemeyer.com/_site
 lsi         : false
 highlighter : pygments
 permalink   : none
-markdown    : maruku
+markdown    : kramdown
 exclude	    : [rsync-site.sh, .git, .gitignore]
 baseurl     : "http://kyleniemeyer.com"
 
@@ -19,3 +19,6 @@ maruku:
     png_engine : blahtex
     png_dir    : /images/latex/
     png_url    : /images/latex/
+
+kramdown:
+    parse_block_html: true

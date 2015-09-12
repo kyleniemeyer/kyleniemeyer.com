@@ -5,9 +5,9 @@ section: CV
 top: Kyle Niemeyer
 ---
 
-+-- {.section}
+<div class="section">
 Download the most recent version of my research statement here: \{[pdf](https://www.dropbox.com/s/u3v0o0o0x9oy1rd/kyle-niemeyer-research-statement.pdf?dl=0)\}
-=--
+</div>
 
 Research Statement
 ==================

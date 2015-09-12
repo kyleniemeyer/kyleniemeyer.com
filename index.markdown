@@ -16,7 +16,7 @@ My research interests generally focus on computational modeling of multi-physics
 
 You can find out more about me by poking around the links above and below.  
 
-+--	{.section}
+<div class="section">
 Contact
 ========
 
@@ -29,21 +29,21 @@ Alternatively, try my office:
 Oregon State University  
 Corvallis, OR, 97331
 
-=--
+</div>
 
-+--	{.section}
+<div class="section">
 Research
 ========
 
-My day job is as an [Assistant Professor, Senior Research,](/work) in mechanical engineering at [Oregon State University](http://oregonstate.edu/), in the [School of Mechanical, Industrial, and Manufacturing Engineering](http://mime.oregonstate.edu).  
+My day job is as an [Assistant Professor, Senior Research,](/research) in mechanical engineering at [Oregon State University](http://oregonstate.edu/), in the [School of Mechanical, Industrial, and Manufacturing Engineering](http://mime.oregonstate.edu).  
 
 My research to-date has focused on developing methods to ease the integration of detailed and accurate chemistry in combustion modeling. Some of the strategies I've explored include chemical mechanism simplification and the use of graphics hardware (GPU computing) to accelerate reactive flow calculations. I'm also interested in developing new numerical methods that will allow us to better simulate important physical phenomena, including combustion,  turbulence-chemistry interactions, and the interaction of fluids with solid structures.  
 
-See my [publications](/work/pubs) page for my journal and conference papers, as well as my master's thesis and doctoral dissertation.  
+See my [publications](/research/pubs) page for my journal and conference papers, as well as my master's thesis and doctoral dissertation.  
 
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 Science <br/> Writing
 ===============
 
@@ -59,9 +59,9 @@ Here are some of my favorite and popular pieces:
 - ["The spice must flow: new model describes the evolution of desert dunes"](http://arstechnica.com/science/2012/02/the-spice-must-flow-describing-the-evolution-of-desert-dunes/)
 - ["What makes the fuel go boom? Turbulence!"](http://arstechnica.com/science/2011/07/what-makes-the-fuel-go-boom-turbulence/)
 
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 Blog
 =====
 I keep a [blog](/blog/) on personal and research topics. Here are some recent posts:
@@ -74,9 +74,9 @@ I keep a [blog](/blog/) on personal and research topics. Here are some recent po
   </li>
   {% endfor %}
 </ul>
-=--
+</div>
 
-+-- {.section}
+<div class="section">
 [Reading](http://www.goodreads.com/kyleniemeyer)
 ==============================================
 
@@ -93,7 +93,7 @@ I keep a [blog](/blog/) on personal and research topics. Here are some recent po
 </style>
 <script type="text/javascript" charset="utf-8" src="https://www.goodreads.com/review/grid_widget/1983734?cover_size=medium&amp;hide_link=&amp;hide_title=true&amp;num_books=20&amp;order=a&amp;shelf=currently-reading&amp;sort=date_added&amp;widget_id=1429216460"> </script>
 
-=--
+</div>
 
 [kylears]: http://arstechnica.com/author/kyle-niemeyer/
 [ars]: http://arstechnica.com/
