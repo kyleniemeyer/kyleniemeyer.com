@@ -1,7 +1,7 @@
 /* Special notes revealed by jQuery calls 
  * Used in:
- *    `/work/pubs.html`
- *    `/work/vita.html`
+ *    `/research/pubs.html`
+ *    `/research/vita.html`
  */
 .annote, .abstract, .bibtex { display: none; }
 .annote p, .details p {
