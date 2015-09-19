@@ -21,7 +21,7 @@ Below are some of the papers my group and I have published. Full information abo
 
 “Counterflow ignition of *n*-butanol at atmospheric and elevated pressures.”  
 Kyle B. Brady, Xin Hui, Chih-Jen Sung, and Kyle E. Niemeyer.  
-*Combustion and Flame*, in press, 2015.  
+*Combustion and Flame*, 162(10):3596--3611, 2015.  
 { [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2015.06.017) }
 
  <div class="abstract">
@@ -35,7 +35,9 @@ Critical to the development of predictive combustion models is a robust understa
 	Author = {Kyle B Brady and Xin Hui and Chih-Jen Sung and Kyle E Niemeyer},
 	Title = {Counterflow ignition of n-butanol at atmospheric and elevated pressures},
 	Journal = {Combust. Flame},
-	Note = {In press},
+	Volume = {162},
+    Number = {10},
+    Pages = {3596--3611},
 	Doi = {10.1016/j.combustflame.2015.06.017},
 	Year = {2015}}
  </div>

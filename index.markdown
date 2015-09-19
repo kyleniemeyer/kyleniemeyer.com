@@ -9,7 +9,7 @@ Welcome
 
 <img class='inset right' src='/images/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />
 
-I'm Kyle Niemeyer, an Assitant Professor (Senior Research) in mechanical engineering at Oregon State University.  
+I'm Kyle Niemeyer, an Assitant Professor of mechanical engineering in the [School of Mechanical, Industrial, and Manufacturing Engineering](http://mime.oregonstate.edu) at [Oregon State University](http://oregonstate.edu/).  
 
 
 My research interests generally focus on computational modeling of multi-physics fluid flows relevant to applications in aerospace, transportation, and energy systems. My specific expertise is mainly in reacting flows, and more recently in fluid-structure interaction.  
@@ -25,7 +25,7 @@ The easiest way to contact me is via email:
 
 Alternatively, try my office:  
 541-737-5614  
-308 Dearborn Hall  
+320 Rogers Hall  
 Oregon State University  
 Corvallis, OR, 97331
 
@@ -35,9 +35,7 @@ Corvallis, OR, 97331
 Research
 ========
 
-My day job is as an [Assistant Professor, Senior Research,](/research) in mechanical engineering at [Oregon State University](http://oregonstate.edu/), in the [School of Mechanical, Industrial, and Manufacturing Engineering](http://mime.oregonstate.edu).  
-
-My research to-date has focused on developing methods to ease the integration of detailed and accurate chemistry in combustion modeling. Some of the strategies I've explored include chemical mechanism simplification and the use of graphics hardware (GPU computing) to accelerate reactive flow calculations. I'm also interested in developing new numerical methods that will allow us to better simulate important physical phenomena, including combustion,  turbulence-chemistry interactions, and the interaction of fluids with solid structures.  
+My [research](/research) focuses on developing methods to ease the integration of detailed and accurate chemistry in combustion modeling. Some of the strategies I've explored include chemical mechanism simplification and the use of graphics hardware (GPU computing) to accelerate reactive flow calculations. I'm also interested in developing new numerical methods that will allow us to better simulate important physical phenomena, including combustion,  turbulence-chemistry interactions, and the interaction of fluids with solid structures.  
 
 See my [publications](/research/pubs) page for my journal and conference papers, as well as my master's thesis and doctoral dissertation.  
 

@@ -43,57 +43,30 @@ Experience
 ==========
 
 **Oregon State University**, Corvallis, Oregon  
-*Assistant Professor (Senior Research)* 2014--  
-Efforts include performing research, teaching mechanical engineering courses, pursuing externally funded research programs, and advising students. Research interests focus on computational modeling for multi-physics fluid flows relevant to applications in aerospace, transportation, and energy systems.
-
-**Oregon State University**, Corvallis, Oregon  
+School of Mechanical, Industrial, and Manufacturing Engineering  
+*Assistant Professor* 2015--  
+*Assistant Professor (Senior Research)* 2014--2015  
 *Postdoctoral Researcher*, 2013--2014  
-Performed research in various areas and taught a mechanical engineering course. Lead researcher on industrially supported project investigating the performance of various fuels in advanced combustion engines, responsible for monthly progress reports and ensuring progress under overall guidance of PI. In addition, performed research into chemical reaction mechanism reduction.
+
 
 **Case Western Reserve University**, Cleveland, Ohio  
+Department of Mechanical and Aerospace Engineering  
 *Graduate Research Assistant*, 2008--2013  
-Pursued research on methods to reduce the cost of detailed chemistry in 
-combustion modeling, including mechanism reduction approaches and GPU computing.  Helped advise a junior graduate student. Lead writer for multiple grant proposals, including NSF and DOE.
+*Teaching Assistant*, 2007--2010  
+*Undergraduate Research Assistant*, 2007  
+
 
 **United Technologies Research Center**, East Hartford, Connecticut  
-*Summer Research Intern*, Summer 2011  
-Developed new method to accelerate reactive flow simulations for hypersonics
-using graphics processing units (GPUs). Presented results and future work, 
-as well as deliverables, to upper-level management. Worked with Drs. Jeremiah 
-C. Lee and Catalin G. Fotache in the Combustion Group. This work led to a [conference paper](/files/pubs/niemeyer_etal_essci2011.pdf).
+*Summer Research Intern*, Combustion Group, Summer 2011  
+
 
 **[Ars Technica](http://arstechnica.com/)**  
 *Associate Science Writer*, June 2011--November 2012  
-Reported on scientific articles covering a range of topics (e.g., energy, 
-climate, technology) to a technically but not necessarily scientifically 
-literate audience, with audiences of in the tens of thousands each month. 
-Articles took complex ideas from scholarly papers and broke the concepts 
-down to be easily understandable. Readers participated in discussions and 
-provided feedback through comments on articles.
 
-**Case Western Reserve University**, Cleveland, Ohio  
-*Teaching Assistant*, 2007--2010  
-Assisted instructors with homework and exam grading, class instruction, 
-and review sessions, and held regular office hours.
-
-- EMAE, "Engineering Analysis", under [Prof. J. Iwan D. Alexander](http://engineering.case.edu/emae/faculty/Iwan_Alexander). Fall 2007, 2009, 2010
-- EMAE 359, “Aero/Gas Dynamics”, under [Prof. James T’ien](http://engineering.case.edu/emae/Faculty/James_T'ien). Spring 2010
-- EMAE 376, "Aerostructures", under [Prof. Christopher Hernandez](http://www.mae.cornell.edu/people/profile.cfm?netid=cjh275). Spring 2008
 
 **NASA Glenn Research Center**, Cleveland, Ohio  
 *Summer Intern*, Combustion Branch, May--August 2008  
-Assessed computational fluid dynamics software for Cryogenic Fluid 
-Management project development and validation under Dr. Jeffrey P. Moder. 
-Presented results of work to researchers in combustion group as well as
-peers.
 
-**Case Western Reserve University**, Cleveland, Ohio  
-*Undergraduate Research Assistant*, 2007  
-Worked under [Prof. Christopher Hernandez](http://www.mae.cornell.edu/people/profile.cfm?netid=cjh275) 
-with a team of undergraduate and graduate students to develop automated 
-algorithms to process and analyze high-resolution image samples. Also 
-performed individual research studying size effects in cellular solids 
-such as metal foams and trabecular bone.
 
 </div>
 
@@ -143,7 +116,9 @@ Advising <br/> Experience
 
 **Masters Students**
 
- * Christopher Minar (co-advised with Belinda Batten)  
+ * Shane Daly, coadvised with [Chrisopher Hagen](http://osucascades.edu/energy-systems-lab)
+ * Christopher Minar
+ * Miguel Soler
 
 </div>
 
