@@ -57,15 +57,15 @@ Department of Mechanical and Aerospace Engineering
 
 
 **United Technologies Research Center**, East Hartford, Connecticut  
-*Summer Research Intern*, Combustion Group, Summer 2011  
+*Summer Research Intern*, Combustion Group, 2011  
 
 
 **[Ars Technica](http://arstechnica.com/)**  
-*Associate Science Writer*, June 2011--November 2012  
+*Associate Science Writer*, 2011--2013  
 
 
 **NASA Glenn Research Center**, Cleveland, Ohio  
-*Summer Intern*, Combustion Branch, May--August 2008  
+*Summer Intern*, Combustion Branch, 2008  
 
 
 </div>
@@ -134,14 +134,14 @@ Professional <br/> Service
  * *Energy Conversion and Management*
  * *International Journal of Energetic Materials and Chemical Propulsion*
  * *SAE International Journal of Aerospace*
- 
+
 **Conference Reviewer**
 
  * SAE World Congress
  * ASME Internal Combustion Engine Fall Meeting
  * SAE 2014 International Powertrain, Fuels & Lubricants Meeting
  * ASME 2015 International Design Engineering Technical Conferences
- 
+
 **Proposal/Award Referee**
 
  * National Defense Science and Engineering Graduate (NDSEG) Fellowship 2015
