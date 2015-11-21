@@ -369,7 +369,7 @@ Low-temperature combustion (LTC) engine concepts such as homogeneous charge comp
     Booktitle = {ASME 2014 Internal Combustion Engine Division Fall Technical Conference},
     Location = {Columbus, IN, USA},
     Month = oct,
-    Number = {ICEF2014-5478},
+    Note = {Paper No. ICEF2014-5478},
     Year = {2014}}
  </div>
 
@@ -379,6 +379,28 @@ Low-temperature combustion (LTC) engine concepts such as homogeneous charge comp
 
 <div class="section">
 # 2015 #
+
+“Initial investigation of `pyJac`: an analytical Jacobian generator for chemical kinetics.”  
+Kyle E. Niemeyer, Nicholas J. Curtis, and Chih-Jen Sung.  
+Fall 2015 Meeting of the Western States Section of the Combustion Institute, Provo, UT, USA. 5--6 October 2015. Paper 134CK-0019.  
+\{ [pdf](/files/pubs/Niemeyer_etal_WSSCI2015.pdf) |  [Slides](http://www.slideshare.net/kyleniemeyer/initial-investigation-of-pyjac-an-analytical-jacobian-generator-for-chemical-kinetics) | [Abstract]() | [BibTeX]() }
+
+ <div class="abstract">
+### Abstract ###
+Accurate simulations of combustion phenomena require the use of detailed chemical kinetics in order to capture limit phenomena such as ignition and extinction as well as predict pollutant formation. However, the chemical kinetic models for hydrocarbon fuels of practical interest exhibit both mathematical stiffness in the governing differential equations and large numbers of species and reactions, particularly for larger molecules. In order to integrate the stiff equations governing chemical kinetics, generally reactive-flow simulations rely on implicit algorithms that require frequent Jacobian matrix evaluations; in addition, various computational combustion diagnostics methods require accurate Jacobian matrices. Typically, finite differences numerically approximate these, but for larger chemical kinetic models this poses significant computational demands since the number of chemical source term evaluations scales with the square of species count. Furthermore, existing analytical Jacobian tools do not optimize evaluations or support emerging SIMD processors such as GPUs. Here we introduce `pyJac`, a Python-based open-source program that generates analytical Jacobian matrices for use in chemical kinetics modeling and analysis. In addition to producing the necessary customized source code for evaluating reaction rates (including all modern reaction rate formulations), the chemical source terms, and the Jacobian matrix, `pyJac` uses an optimized evaluation order to minimize computational and memory operations. First, we establish the correctness of the Jacobian matrices for kinetic models of hydrogen, methane, and ethylene oxidation (number of species ranging 13--111) by showing agreement within 1% of high-order finite difference approximations. We then demonstrate the performance, via matrix evaluation timing comparisons, achievable on CPUs and GPUs using `pyJac`. The Jacobian matrix generator we describe here will be useful for reducing the cost of integrating chemical source terms with implicit algorithms in particular and algorithms that require an accurate Jacobian matrix in general. Furthermore, the open-source release of the program and Python-based implementation will enable wide adoption.
+ </div>
+ 
+ <div class="bibtex">
+### BibTeX ###
+    @inproceedings{Niemeyer:2015ws,
+    Author = {Kyle E. Niemeyer and Nicholas J. Curtis and Chih-Jen Sung},
+    Title = {Initial investigation of pyJac: an analytical Jacobian generator for chemical kinetics},
+    Booktitle = {Fall 2015 Meeting of the Western States Section of the Combustion Institute},
+    Location = {Provo, UT, USA},
+    Month = oct,
+    Note = {Paper No. 134CK-0019},
+    Year = {2015}}
+ </div>
 
 “Using GPUs to accelerate nonstiff and stiff chemical kinetics in combustion simulations.”  
 Kyle E. Niemeyer.  
@@ -429,7 +451,7 @@ Explore the latest techniques for accelerating combustion simulations with finit
 
 “A new fuel index for LTC engines based on operating envelopes in light-duty driving cycle simulations: primary reference fuels.”  
 Kyle E. Niemeyer, William J. Cannella, and Christopher L. Hagen.  
-Spring 2014 Meeting of the Western States Section of the Combustion Institute, Pasadena, CA, USA. 24--25 March 2014.  
+Spring 2014 Meeting of the Western States Section of the Combustion Institute, Pasadena, CA, USA. 24--25 March 2014. Paper 14S-20.  
 \{ [pdf](/files/pubs/Niemeyer_etal_WSSCI2014.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
@@ -445,6 +467,7 @@ Low-temperature combustion (LTC) engine concepts such as homogeneous charge comp
     Booktitle = {Spring 2014 Meeting of the Western States Section of the Combustion Institute},
     Location = {Pasadena, CA, USA},
     Month = mar,
+    Note = {Paper 14S-20},
     Year = {2014}}
  </div>
 
