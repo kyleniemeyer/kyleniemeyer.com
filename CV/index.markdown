@@ -83,6 +83,10 @@ Teaching <br/> Experience
 ===================
 
 **Oregon State University**  
+MIME 101, Introduction to MIME (undergraduate)  
+Freshman-level course providing an overview of mechanical, industrial, and manufacturing engineering as well as academic success skills.  
+--Fall 2015  
+
 ME 373, Mechanical Engineering Methods (undergraduate)  
 Junior-level course covering analytical and numerical methods for solving ordinary and partial differential equations.  
 --Winter 2015  
@@ -116,9 +120,9 @@ Advising <br/> Experience
 
 **Masters Students**
 
- * Shane Daly, coadvised with [Chrisopher Hagen](http://osucascades.edu/energy-systems-lab)
- * Christopher Minar
- * Miguel Soler
+ * Shane Daly, “Chemometrics-based Approach for Predicting Low Temperature Combustion Engine Fuel Performance,” Mechanical Engineering; co-advised with [Chrisopher Hagen](http://osucascades.edu/energy-systems-lab) (Fall 2015)
+ * Christopher Minar, Mechanical Engineering (in progress)
+ * Miguel Soler, Mechanical Engineering (in progress)
 
 </div>
 
@@ -131,6 +135,9 @@ Professional <br/> Service
  * *Proceedings of the Combustion Institute*
  * *Combustion and Flame*
  * *Journal of Computational Physics*
+ * *Energy and Fuels*
+ * *Fuel*
+ * *Combustion Science and Technology*
  * *Energy Conversion and Management*
  * *International Journal of Energetic Materials and Chemical Propulsion*
  * *SAE International Journal of Aerospace*
