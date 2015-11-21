@@ -19,6 +19,29 @@ Below are some of the papers my group and I have published. Full information abo
 <div class="section">
 ## 2015 ##
 
+“Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”  
+Fengquan Zhong, Sugang Ma, Xinyu Zhang, Chih-Jen Sung, and Kyle E. Niemeyer.  
+*Acta Mechanica Sinica*, 31(5):732--740, 2015.  
+{ [pdf](/files/pubs/Zhong_etal_Acta_Mech_Sin_2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s10409-015-0434-5) }
+
+ <div class="abstract">
+### Abstract ###
+In this paper, the methodology of the directed relation graph with error propagation and sensitivity analysis (DRGEPSA), proposed by Niemeyer et al. \[Combustion and Flame 155 (2010) 1760--1770\], and its differences to the original directed relation graph method are described. Using DRGEPSA, the detailed mechanism of ethylene containing 71 species and 395 reaction steps is reduced to several skeletal mechanisms with different error thresholds. The 25 species and 131 steps mechanism and the 24 species and 115 steps mechanism are found to be accurate for the predictions of ignition delay time and laminar flame speed. Although further reduction leads to a smaller skeletal mechanism with 19 species and 68 steps, it is no longer able to represent the correct reaction processes. With the DRGEPSA method, a detailed mechanism for n-dodecane considering low-temperature chemistry and containing 2115 species and 8157 steps is reduced to a much smaller mechanism with 249 species and 910 steps while retaining good accuracy. If considering only high-temperature (higher than 1000 K) applications, the detailed mechanism can be simplified to even smaller mechanisms with 65 species and 340 steps or 48 species and 220 steps. Furthermore, a detailed mechanism for a kerosene surrogate having 207 species and 1592 steps is reduced with various error thresholds and the results show that the 72 species and 429 steps mechanism and the 66 species and 392 steps mechanism are capable of predicting correct combustion properties compared to those of the detailed mechanism. It is well recognized that kinetic mechanisms can be effectively used in computations only after they are reduced to an acceptable size level for computation capacity and at the same time retaining accuracy. Thus, the skeletal mechanisms generated from the present work are expected to be useful for the application of kinetic mechanisms of hydrocarbons to numerical simulations of turbulent or supersonic combustion.
+ </div>
+
+ <div class="bibtex">
+### BibTeX ###
+    @article{Zhong:2015,
+	Author = {Fengquan Zhong and Sugang Ma and Xinyu Zhang and Chih-Jen Sung and Kyle E Niemeyer},
+	Title = {Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate},
+	Journal = {Acta Mech. Sin.},
+	Volume = {31},
+    Number = {5},
+    Pages = {732--740},
+	Doi = {10.1007/s10409-015-0434-5},
+	Year = {2015}}
+ </div>
+
 “Counterflow ignition of *n*-butanol at atmospheric and elevated pressures.”  
 Kyle B. Brady, Xin Hui, Chih-Jen Sung, and Kyle E. Niemeyer.  
 *Combustion and Flame*, 162(10):3596--3611, 2015.  
@@ -39,27 +62,6 @@ Critical to the development of predictive combustion models is a robust understa
     Number = {10},
     Pages = {3596--3611},
 	Doi = {10.1016/j.combustflame.2015.06.017},
-	Year = {2015}}
- </div>
-
-“Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”  
-Fengquan Zhong, Sugang Ma, Xinyu Zhang, Chih-Jen Sung, and Kyle E. Niemeyer.  
-*Acta Mechanica Sinica*, in press, 2015.  
-{ [pdf](/files/pubs/Zhong_etal_Acta_Mech_Sin_2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s10409-015-0434-5) }
-
- <div class="abstract">
-### Abstract ###
-In this paper, the methodology of the directed relation graph with error propagation and sensitivity analysis (DRGEPSA), proposed by Niemeyer et al. \[Combustion and Flame 155 (2010) 1760--1770\], and its differences to the original directed relation graph method are described. Using DRGEPSA, the detailed mechanism of ethylene containing 71 species and 395 reaction steps is reduced to several skeletal mechanisms with different error thresholds. The 25 species and 131 steps mechanism and the 24 species and 115 steps mechanism are found to be accurate for the predictions of ignition delay time and laminar flame speed. Although further reduction leads to a smaller skeletal mechanism with 19 species and 68 steps, it is no longer able to represent the correct reaction processes. With the DRGEPSA method, a detailed mechanism for n-dodecane considering low-temperature chemistry and containing 2115 species and 8157 steps is reduced to a much smaller mechanism with 249 species and 910 steps while retaining good accuracy. If considering only high-temperature (higher than 1000 K) applications, the detailed mechanism can be simplified to even smaller mechanisms with 65 species and 340 steps or 48 species and 220 steps. Furthermore, a detailed mechanism for a kerosene surrogate having 207 species and 1592 steps is reduced with various error thresholds and the results show that the 72 species and 429 steps mechanism and the 66 species and 392 steps mechanism are capable of predicting correct combustion properties compared to those of the detailed mechanism. It is well recognized that kinetic mechanisms can be effectively used in computations only after they are reduced to an acceptable size level for computation capacity and at the same time retaining accuracy. Thus, the skeletal mechanisms generated from the present work are expected to be useful for the application of kinetic mechanisms of hydrocarbons to numerical simulations of turbulent or supersonic combustion.
- </div>
-
- <div class="bibtex">
-### BibTeX ###
-    @article{Zhong:2015,
-	Author = {Fengquan Zhong and Sugang Ma and Xinyu Zhang and Chih-Jen Sung and Kyle E Niemeyer},
-	Title = {Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate},
-	Journal = {Acta Mechanica Sinica},
-	Note = {In press},
-	Doi = {10.1007/s10409-015-0434-5},
 	Year = {2015}}
  </div>
 
@@ -84,7 +86,7 @@ A new metric for ranking the suitability of fuels in LTC engines was recently in
 	Pages = {14--24},
 	Doi = {10.1016/j.fuel.2015.04.010}}
  </div>
- 
+
 “A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”  
 Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
 *Journal of Engineering for Gas Turbines and Power*, 137(10):101601, 2015.  
@@ -360,7 +362,7 @@ ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF), 
 ### Abstract ###
 Low-temperature combustion (LTC) engine concepts such as homogeneous charge compression ignition (HCCI) offer the potential of improved efficiency and reduced emissions of NOx and particulates. However, engines can only successfully operate in HCCI mode for limited operating ranges that vary depending on the fuel composition. Unfortunately, traditional ratings such as octane number poorly predict the autoignition behavior of fuels in such engine modes, and metrics recently proposed for HCCI engines have areas of improvement when wide ranges of fuels are considered. In this study, a new index for ranking fuel suitability for LTC engines was defined, based on the fraction of potential fuel savings achieved in the FTP-75 light-duty vehicle driving cycle. Driving cycle simulations were performed using a typical light-duty passenger vehicle, providing pairs of engine speed and load points. Separately, single-zone naturally aspirated HCCI engine simulations were performed for a variety of fuels in order to determine the operating envelopes for each. These results were combined to determine the varying improvement in fuel economy offered by fuels, forming the basis for a fuel performance index. Results showed that, in general, lower octane fuels performed better, resulting in higher LTC fuel index values; however, octane number alone did not predict fuel performance.
  </div>
- 
+
  <div class="bibtex">
 ### BibTeX ###
     @inproceedings{Niemeyer:2014ic,
@@ -389,7 +391,7 @@ Fall 2015 Meeting of the Western States Section of the Combustion Institute, Pro
 ### Abstract ###
 Accurate simulations of combustion phenomena require the use of detailed chemical kinetics in order to capture limit phenomena such as ignition and extinction as well as predict pollutant formation. However, the chemical kinetic models for hydrocarbon fuels of practical interest exhibit both mathematical stiffness in the governing differential equations and large numbers of species and reactions, particularly for larger molecules. In order to integrate the stiff equations governing chemical kinetics, generally reactive-flow simulations rely on implicit algorithms that require frequent Jacobian matrix evaluations; in addition, various computational combustion diagnostics methods require accurate Jacobian matrices. Typically, finite differences numerically approximate these, but for larger chemical kinetic models this poses significant computational demands since the number of chemical source term evaluations scales with the square of species count. Furthermore, existing analytical Jacobian tools do not optimize evaluations or support emerging SIMD processors such as GPUs. Here we introduce `pyJac`, a Python-based open-source program that generates analytical Jacobian matrices for use in chemical kinetics modeling and analysis. In addition to producing the necessary customized source code for evaluating reaction rates (including all modern reaction rate formulations), the chemical source terms, and the Jacobian matrix, `pyJac` uses an optimized evaluation order to minimize computational and memory operations. First, we establish the correctness of the Jacobian matrices for kinetic models of hydrogen, methane, and ethylene oxidation (number of species ranging 13--111) by showing agreement within 1% of high-order finite difference approximations. We then demonstrate the performance, via matrix evaluation timing comparisons, achievable on CPUs and GPUs using `pyJac`. The Jacobian matrix generator we describe here will be useful for reducing the cost of integrating chemical source terms with implicit algorithms in particular and algorithms that require an accurate Jacobian matrix in general. Furthermore, the open-source release of the program and Python-based implementation will enable wide adoption.
  </div>
- 
+
  <div class="bibtex">
 ### BibTeX ###
     @inproceedings{Niemeyer:2015ws,
@@ -458,7 +460,7 @@ Spring 2014 Meeting of the Western States Section of the Combustion Institute, P
 ### Abstract ###
 Low-temperature combustion (LTC) engine concepts such as homogeneous charge compression ignition (HCCI) offer the potential of improved efficiency and reduced emissions of NOx and particulates. However, engines can only successfully operate in HCCI mode for limited operating ranges that vary depending on the fuel composition. Unfortunately, traditional ratings such as octane number poorly predict the autoignition behavior of fuels in such engine modes, and metrics recently proposed for HCCI engines have areas of improvement when wide ranges of fuels are considered. In this study, a new index for ranking fuel suitability for LTC engines was defined, based on the fraction of potential fuel savings achieved in the FTP-75 light-duty vehicle driving cycle. Driving cycle simulations were performed using a typical light-duty passenger vehicle, providing pairs of engine speed and load points. Separately, single-zone naturally aspirated HCCI engine simulations were performed for a variety of fuels in order to determine the operating envelopes for each. These results were combined to determine the varying improvement in fuel economy offered by fuels, forming the basis for a fuel performance index. Results showed that, in general, lower octane fuels performed better, resulting in higher LTC fuel index values; however, octane number alone did not predict fuel performance.
  </div>
- 
+
  <div class="bibtex">
 ### BibTeX ###
     @inproceedings{Niemeyer:2014ws,
@@ -485,7 +487,7 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 ### Abstract ###
 A detailed mechanism for four-component gasoline surrogates, developed by Lawrence Livermore National Laboratory (LLNL), showed good agreement with experiments in engine-relevant conditions. However, with 1389 species and 5935 reversible reactions, the mechanism is far too large to use in practical engine simulations. Therefore, reduction of the mechanism was performed. First, the directed relation graph with error propagation and sensitivity analysis (DRGEPSA) method was used to generate skeletal mechanisms at varying levels of detail. This step produced significantly reduced skeletal mechanisms, but those with tight error limits were still too sizable for practical use. Therefore, a second reduction step was employed, using the quasi-steady-state (QSS) approximation based on computational singular perturbation (CSP) analysis. The QSS species concentrations were solved analytically, rather than through an iterative solution approach. For error constraints of 10% and 30%, the final reduced mechanisms consist of 245 and 178 species, respectively. Both reduced mechanisms (and the corresponding skeletal mechanisms) were validated with homogeneous autoignition simulations over engine-relevant conditions, and both showed good agreement in predicting ignition delay.
  </div>
- 
+
  <div class="bibtex">
 ### BibTeX ###
     @inproceedings{Niemeyer:2013,
@@ -506,7 +508,7 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 ### Abstract ###
 The evaluation of finite-rate chemical kinetics occupies the majority of the processing time in combustion simulations, due to the stiffness of the governing rate equations. Graphics processing units (GPUs) offer the massive parallelism and processing power of a CPU cluster at a fraction of the cost and power consumption, in a single device. A novel stiff solver will be presented that accelerates the solution of chemical kinetics on GPUs.
  </div>
- 
+
  <div class="bibtex">
 ### BibTeX ###
     @inproceedings{Niemeyer:2013,
@@ -527,7 +529,7 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 ### Abstract ###
 The progress made in accelerating simulations of fluid flow using GPUs is surveyed. The review first provides an introduction to GPU computing and programming. A case study of simulating incompressible flow in a lid-driven cavity is performed, comparing the performance of CPU- and GPU-based solvers to demonstrate the potential improvement even with simple codes. Recent efforts to accelerate CFD simulations using GPUs are reviewed for reactive flow solvers. Finally, recommendations for implementing CFD codes on GPUs are given and remaining challenges are discussed, such as the need to develop new strategies and redesign algorithms to enable GPU acceleration.
  </div>
- 
+
  <div class="bibtex">
 ### BibTeX ###
     @inproceedings{Niemeyer:2013,
@@ -735,7 +737,7 @@ The first part of this dissertation studied mechanism reduction methods. First, 
 
 In the second part, the use of GPUs for accelerating reactive-flow simulation was studied. Strategies for optimizing CFD applications on GPUs were demonstrated using case studies solving the Laplace equation and flow in a lid-driven cavity. In addition, a comprehensive survey of efforts to date using GPUs to accelerate laminar, turbulent, and reactive flow solvers, including approaches based on the lattice Boltzmann method, was performed, and general findings and specific recommendations were made. Following this, a new strategy for integrating chemical kinetics with little-to-moderate stiffness on GPUs was presented. This approach used the Runge–Kutta–Cash–Karp algorithm to handle nonstiff hydrogen chemistry and the stabilized Runge–Kutta–Chebyshev algorithm to handle moderately stiff chemistry for hydrogen/carbon monoxide, methane, and ethylene kinetics. Speedup factors of between one and two orders of magnitude were shown compared to CPU-based integration algorithms. In the presence of more severe stiffness, the current algorithms were less effective, demonstrating the need for GPU-appropriate stiff method.
  </div>
- 
+
  <div class="bibtex">
 ### BibTeX ###
 	@phdthesis{Niemeyer:2013,
@@ -746,7 +748,7 @@ In the second part, the use of GPUs for accelerating reactive-flow simulation wa
 	Title = {Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units},
 	Year = {2013}}
  </div>
- 
+
 </div>
 
 ## Master's Thesis ##
@@ -783,7 +785,7 @@ The Mechanism Automatic Reduction Software (MARS) implementation for chemical re
 <script type="text/javascript" src="/files/js/jquery.js"> </script>
 <script type="text/javascript">
 	$(document).ready(function(){
-		$("a:contains('BibTeX')").click(function(event) { 
+		$("a:contains('BibTeX')").click(function(event) {
 			$(this).parent().nextAll(".bibtex").first().slideToggle("fast"); });
 
 		$("a:contains('BibTeX')").toggle(
@@ -791,7 +793,7 @@ The Mechanism Automatic Reduction Software (MARS) implementation for chemical re
 			function(){ $(this).text("BibTeX") }
 		);
 
-		$("a:contains('Abstract')").click(function(event) { 
+		$("a:contains('Abstract')").click(function(event) {
 			$(this).parent().nextAll(".abstract").first().slideToggle("fast"); });
 
 		$("a:contains('Abstract')").toggle(
