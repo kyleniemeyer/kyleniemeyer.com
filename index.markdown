@@ -4,40 +4,66 @@ title: Home
 section: Home
 ---
 
-Welcome
-=======
+Kyle Niemeyer
+=============
 
 <img class='inset right' src='/images/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />
 
-I'm Kyle Niemeyer, an Assistant Professor of mechanical engineering in the [School of Mechanical, Industrial, and Manufacturing Engineering](http://mime.oregonstate.edu) at [Oregon State University](http://oregonstate.edu/).  
-
-
-My research interests generally focus on computational modeling of multi-physics fluid flows relevant to applications in aerospace, transportation, and energy systems. My specific expertise is mainly in reacting flows, and more recently in fluid-structure interaction.  
-
-You can find out more about me by poking around the links above and below.  
+**Assistant Professor** of Mechanical Engineering  
+[School of MIME](http://mime.oregonstate.edu)  
+[Oregon State University](http://oregonstate.edu/)  
+320 Rogers Hall  
+Corvallis, OR 97331  
 
 <div class="section">
 Contact
-========
-
-The easiest way to contact me is via email:  
-<Kyle.Niemeyer@oregonstate.edu>  
-
-Alternatively, try my office:  
-541-737-5614  
-320 Rogers Hall  
-Oregon State University  
-Corvallis, OR, 97331
-
+=======
+email: <Kyle.Niemeyer@oregonstate.edu>  
+office: 541-737-7498  
 </div>
+
 
 <div class="section">
 Research
 ========
 
-My [research](/research) focuses on developing methods to ease the integration of detailed and accurate chemistry in combustion modeling. Some of the strategies I've explored include chemical mechanism simplification and the use of graphics hardware (GPU computing) to accelerate reactive flow calculations. I'm also interested in developing new numerical methods that will allow us to better simulate important physical phenomena, including combustion,  turbulence-chemistry interactions, and the interaction of fluids with solid structures.  
+My group's [research](/research) focuses on developing new numerical methods that will allow us to better simulate important physical phenomena, including combustion,  turbulence-chemistry interactions, and the interaction of fluids with solid structures.  
 
-See my [publications](/research/pubs) page for my journal and conference papers, as well as my master's thesis and doctoral dissertation.  
+Some recent and ongoing projects include: 
+
+ * Strategies for chemical kinetic model reduction
+ * Algorithms that can exploit graphics processing units (GPUs) to accelerate reactive-flow simulations
+ * A software library for the adaptive and efficient solution of chemical kinetics
+ * GPU-based swept time-space decomposition scheme for accelerating parallel CFD simulations
+ * Computational modeling of coupled detonation-magnetohydrodynamic systems for power generation
+ * Computational investigation of vacuum arc remelting (VAR) furnaces
+ * Development of efficient solvers for fluid-structure interaction
+
+See our [research page](/research) for more details.
+
+</div>
+
+<div class="section">
+Join Us!
+========
+
+I am currently recruiting PhD students with interests in computational modeling and numerical methods for fluid dynamics and combustion. Competitive candidates will possess strong computer programming skills and experience in command-line/UNIX systems and parallel computing. You can see more about my [primary research areas](/research), but I'm also open to other related areas.  
+
+Information about applying to the School of MIME's graduate program can be found [here](http://mime.oregonstate.edu/school-mime-graduate-school-admissions-faq). Note that the yearly deadline to be considered is **January 15**.  
+
+I am also happy to talk to postdoctoral candidates, and undergraduate students interested in research are always welcome.  
+
+</div>
+
+<div class="section">
+Teaching
+========
+
+**Mechanical Engineering Methods** (ME 373): Winter 2015, 2016  
+
+**Introduction to Fluid Mechanics** (ME 331): Fall 2013, 2014  
+
+**Introduction to MIME** (MIME 101): Fall 2015  
 
 </div>
 
