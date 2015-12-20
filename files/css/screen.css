@@ -525,3 +525,6 @@ span.maruku-inline { }
 img.maruku-png { }
 /* @end */
 
+.img-circle {
+    border-radius: 50%;
+}
