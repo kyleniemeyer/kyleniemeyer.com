@@ -7,7 +7,7 @@ section: Home
 Kyle Niemeyer
 =============
 
-<img class='inset right' src='/images/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />
+<img class='inset right img-circle' src='/images/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />
 
 **Assistant Professor** of Mechanical Engineering  
 [School of MIME](http://mime.oregonstate.edu)  
@@ -18,8 +18,12 @@ Corvallis, OR 97331
 <div class="section">
 Contact
 =======
-email: <Kyle.Niemeyer@oregonstate.edu>  
-office: 541-737-7498  
+{% icon fa-envelope-o fa-fw%} <Kyle.Niemeyer@oregonstate.edu>  
+{% icon fa-phone fa-fw%} 541-737-7498  
+{% icon fa-twitter fa-fw%} [@kyle_niemeyer](https://twitter.com/kyle_niemeyer)  
+{% icon fa-github fa-fw%} [kyleniemeyer](https://github.com/kyleniemeyer)  
+{% icon fa-linkedin fa-fw%} [kyleniemeyer](https://www.linkedin.com/in/kyleniemeyer) 
+
 </div>
 
 
@@ -27,7 +31,7 @@ office: 541-737-7498
 Research
 ========
 
-My group's [research](/research) focuses on developing new numerical methods that will allow us to better simulate important physical phenomena, including combustion,  turbulence-chemistry interactions, and the interaction of fluids with solid structures.  
+My group's [research](/research) focuses on developing new numerical methods that will allow us to better simulate important physical phenomena, including combustion, turbulence-chemistry interactions, and the interaction of fluids with solid structures.  
 
 Some recent and ongoing projects include: 
 

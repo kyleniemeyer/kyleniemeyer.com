@@ -9,12 +9,17 @@ top: Niemeyer Group
 Director
 ========
 
-<img class='inset right' src='/images/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' alt='Photo of Kyle Niemeyer' width='150px'/>
+<img class='inset right img-circle' src='/images/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' alt='Photo of Kyle Niemeyer' width='150px'/>
 
 **Dr. Kyle Niemeyer**  
 Assistant Professor  
-Email: <kyle.niemeyer@oregonstate.edu>  
-Office: 541-737-5614  
+{% icon fa-envelope-o fa-fw%} <Kyle.Niemeyer@oregonstate.edu>  
+{% icon fa-phone fa-fw%} 541-737-7498  
+
+[![](/images/cv_icon.svg){:width="36px"}](/CV) 
+[![](/images/twitter_icon.png){:width="36px"}](https://twitter.com/kyle_niemeyer){:target="_blank"} 
+[![](/images/github_icon.svg){:width="36px"}](https://github.com/kyleniemeyer){:target="_blank"} 
+[![](/images/linkedin_icon.png){:width="36px"}](https://www.linkedin.com/in/kyleniemeyer){:target="_blank"}
 
 In my free time, I enjoy running and weightlifting, immersive video games, training in Muay Thai (Thai boxing), and discovering the Northwest's multitude of IPAs.
 
@@ -28,7 +33,13 @@ Christopher Minar, MS student.
 
 Miguel Soler, MS student.
 
-[Shane Daly](http://osucascades.edu/energy-systems-lab/people/student-researchers), MS student. Co-advised with [Prof. Christopher Hagen](http://osucascades.edu/energy-systems-lab/dr-christopher-hagen).
+</div>
+
+<div class="section">
+Alumni
+==============
+
+[Shane Daly](http://osucascades.edu/energy-systems-lab/people/student-researchers), MS in Mechanical Engineering, Sept. 2015. Co-advised with [Prof. Christopher Hagen](http://osucascades.edu/energy-systems-lab/dr-christopher-hagen).
 
 </div>
 

@@ -1,8 +1,8 @@
 ---
 layout: name
 title: CV
-section: CV
-top: Kyle Niemeyer
+section: Team
+top: Team
 ---
 
 <div class="section">
