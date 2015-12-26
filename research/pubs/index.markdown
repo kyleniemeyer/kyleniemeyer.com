@@ -779,7 +779,7 @@ The Mechanism Automatic Reduction Software (MARS) implementation for chemical re
 </div>
 
 -------------------
-**Copyright info:** Follow the DOI link for the official published version of the journal articles. The PDF articles posted are the final, accepted manuscript versions since most publishers do not allow the open release of the official version. If you would like such an official version (as published in the journal) and you do not have access, just [email me](mailto:niemeyer@case.edu).
+**Copyright info:** Follow the DOI link for the official published version of the journal articles. The PDF articles posted are the final, accepted manuscript versions since most publishers do not allow the open release of the official version. If you would like such an official version (as published in the journal) and you do not have access, just [email me](mailto:kyle.niemeyer@oregonstate.edu).
 
 
 <script type="text/javascript" src="/files/js/jquery.js"> </script>
