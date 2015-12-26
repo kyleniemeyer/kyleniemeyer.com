@@ -4,8 +4,9 @@ lsi         : false
 highlighter : pygments
 permalink   : none
 markdown    : kramdown
-exclude	    : [rsync-site.sh, .git, .gitignore]
-baseurl     : "http://kyleniemeyer.com"
+include     : [".htaccess"]
+exclude	    : ["rsync-site.sh", ".git", ".gitignore"]
+url         : "http://kyle.niemeyer.com"
 
 author:
     name : Kyle Niemeyer
