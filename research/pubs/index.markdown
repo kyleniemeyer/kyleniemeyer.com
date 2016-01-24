@@ -17,6 +17,30 @@ Below are some of the papers my group and I have published. Full information abo
 ## Journal Articles ##
 
 <div class="section">
+## 2016 ##
+
+“The challenge and promise of software citation for credit, identification, discovery, and reuse.”  
+Kyle E. Niemeyer, Arfon M. Smith, and Daniel S. Katz.  
+Under review.  
+{ [arXiv](http://arxiv.org/abs/1601.04734) | [BibTeX]() }
+
+ <div class="bibtex">
+### BibTeX ###
+    @article{Niemeyer:2016,
+	Author = {Kyle E. Niemeyer Arfon M. Smith and Daniel S. Katz},
+	Title = {The challenge and promise of software citation for credit, identification, discovery, and reuse},
+	Journal = {},
+	Volume = {},
+    Number = {},
+    Pages = {},
+	Doi = {},
+	Year = {2016},
+	Note = {Under review. Available at \url{http://arxiv.org/abs/1601.04734}.}}
+ </div>
+
+</div>
+
+<div class="section">
 ## 2015 ##
 
 “Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”  
