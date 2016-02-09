@@ -409,7 +409,7 @@ Low-temperature combustion (LTC) engine concepts such as homogeneous charge comp
 “Initial investigation of `pyJac`: an analytical Jacobian generator for chemical kinetics.”  
 Kyle E. Niemeyer, Nicholas J. Curtis, and Chih-Jen Sung.  
 Fall 2015 Meeting of the Western States Section of the Combustion Institute, Provo, UT, USA. 5--6 October 2015. Paper 134CK-0019.  
-\{ [pdf](/files/pubs/Niemeyer_etal_WSSCI2015.pdf) |  [Slides](http://www.slideshare.net/kyleniemeyer/initial-investigation-of-pyjac-an-analytical-jacobian-generator-for-chemical-kinetics) | [Abstract]() | [BibTeX]() }
+\{ [pdf](/files/pubs/Niemeyer_etal_WSSCI2015.pdf) |  [Slides](http://www.slideshare.net/kyleniemeyer/initial-investigation-of-pyjac-an-analytical-jacobian-generator-for-chemical-kinetics) | [Abstract]() | [BibTeX]() | [doi](https://dx.doi.org/10.6084/m9.figshare.2075515.v1) }
 
  <div class="abstract">
 ### Abstract ###
