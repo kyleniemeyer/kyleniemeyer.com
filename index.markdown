@@ -7,7 +7,7 @@ section: Home
 Kyle Niemeyer
 =============
 
-<img class='inset right img-circle' src='/images/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />
+<img class='inset right img-circle' src='/assets/img/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />
 
 **Assistant Professor** of Mechanical Engineering  
 [School of MIME](http://mime.oregonstate.edu)  

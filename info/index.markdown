@@ -5,7 +5,7 @@ section: Info
 top: Kyle Niemeyer
 ---
 
-<img class='inset right' src='/images/kyle-niemeyer_face.png' title='Kyle Niemeyer' alt='Photo of Kyle Niemeyer' width='200px' />
+<img class='inset right' src='/assets/img/kyle-niemeyer_face.png' title='Kyle Niemeyer' alt='Photo of Kyle Niemeyer' width='200px' />
 
 About Me
 ========

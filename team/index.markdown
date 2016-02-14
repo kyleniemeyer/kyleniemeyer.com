@@ -9,17 +9,17 @@ top: Niemeyer Group
 Director
 ========
 
-<img class='inset right img-circle' src='/images/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' alt='Photo of Kyle Niemeyer' width='150px'/>
+<img class='inset right img-circle' src='/assets/img/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' alt='Photo of Kyle Niemeyer' width='150px'/>
 
 **Dr. Kyle Niemeyer**  
 Assistant Professor  
 {% icon fa-envelope-o fa-fw%} <Kyle.Niemeyer@oregonstate.edu>  
 {% icon fa-phone fa-fw%} 541-737-7498  
 
-[![](/images/cv_icon.svg){:width="36px"}](/CV) 
-[![](/images/twitter_icon.png){:width="36px"}](https://twitter.com/kyle_niemeyer){:target="_blank"} 
-[![](/images/github_icon.svg){:width="36px"}](https://github.com/kyleniemeyer){:target="_blank"} 
-[![](/images/linkedin_icon.png){:width="36px"}](https://www.linkedin.com/in/kyleniemeyer){:target="_blank"}
+[![](/assets/img/cv_icon.svg){:width="36px"}](/CV) 
+[![](/assets/img/twitter_icon.png){:width="36px"}](https://twitter.com/kyle_niemeyer){:target="_blank"} 
+[![](/assets/img/github_icon.svg){:width="36px"}](https://github.com/kyleniemeyer){:target="_blank"} 
+[![](/assets/img/linkedin_icon.png){:width="36px"}](https://www.linkedin.com/in/kyleniemeyer){:target="_blank"}
 
 In my free time, I enjoy running and weightlifting, immersive video games, training in Muay Thai (Thai boxing), and discovering the Northwest's multitude of IPAs.
 
@@ -29,9 +29,11 @@ In my free time, I enjoy running and weightlifting, immersive video games, train
 Graduate <br/> Students
 ==============
 
-Christopher Minar, MS student.
+Himakar Ganti, PhD student.  
 
-Miguel Soler, MS student.
+Christopher Minar, MS student.  
+
+Miguel Soler, MS student.  
 
 </div>
 

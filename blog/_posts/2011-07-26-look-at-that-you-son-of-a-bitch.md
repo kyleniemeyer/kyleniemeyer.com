@@ -11,4 +11,4 @@ title: "Look at that, you son of a bitch."
 
 -- Edgar Mitchell, Apollo 14 astronaut, via [Daring Fireball](http://daringfireball.net/linked/2011/07/25/mitchell-son-of-a-bitch)
 
-![Earth from Apollo 14](/images/earth-from-apollo-141.jpeg)
+![Earth from Apollo 14](/assets/img/earth-from-apollo-141.jpeg)

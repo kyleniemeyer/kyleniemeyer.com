@@ -24,5 +24,5 @@ EDIT: Immediately after posting this, I came across this great Instructable for 
 
 Below is a nifty infographic that summarizes why sitting all day is so bad as well as some easy fixes:
 
-![Sitting is kill you](/images/sitting-is-killing-you.jpg)
+![Sitting is kill you](/assets/img/sitting-is-killing-you.jpg)
 Via: [Medical Billing And Coding](http://www.medicalbillingandcoding.org/)
