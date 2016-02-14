@@ -11,9 +11,7 @@ Kyle Niemeyer
 
 **Assistant Professor** of Mechanical Engineering  
 [School of MIME](http://mime.oregonstate.edu)  
-[Oregon State University](http://oregonstate.edu/)  
-320 Rogers Hall  
-Corvallis, OR 97331  
+[Oregon State University](http://oregonstate.edu/)
 
 <div class="section">
 Contact
@@ -22,7 +20,8 @@ Contact
 {% icon fa-phone fa-fw%} 541-737-7498  
 {% icon fa-twitter fa-fw%} [@kyle_niemeyer](https://twitter.com/kyle_niemeyer)  
 {% icon fa-github fa-fw%} [kyleniemeyer](https://github.com/kyleniemeyer)  
-{% icon fa-linkedin fa-fw%} [kyleniemeyer](https://www.linkedin.com/in/kyleniemeyer) 
+{% icon fa-linkedin fa-fw%} [kyleniemeyer](https://www.linkedin.com/in/kyleniemeyer)  
+{% icon fa-building fa-fw%} [320 Rogers Hall](https://www.google.com/maps/place/OSU+School+of+Mechanical,+Industrial,+and+Manufacturing/@44.5675738,-123.277663,17z/data=!3m1!4b1!4m2!3m1!1s0x54c040bdc9746961:0x79d039cd19351b81), Corvallis, OR 97331-6001  
 
 </div>
 
