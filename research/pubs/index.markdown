@@ -6,12 +6,14 @@ section: Research
 
 Publications
 ============
-Below are some of the papers my group and I have published. Full information about my papers and citations can be found here:
+Below are some of the papers my group and I have published. Additional information about my papers and citations can be found here:
 
-- My [ResearcherID](http://www.researcherid.com/): [B-7902-2008](http://www.researcherid.com/rid/B-7902-2008)
-- My [Google Scholar profile](http://scholar.google.com/citations?user=dt0KRYoAAAAJ)
-- My [ORCid](https://orcid.org/): [0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)
-- My arXiv author page: [niemeyer_k_1](http://arxiv.org/a/niemeyer_k_1)
+<i class="ai ai-orcid fa-fw"></i> [ORCID: 0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)  
+<i class="ai ai-google-scholar fa-fw"></i> [Google Scholar profile](http://scholar.google.com/citations?user=dt0KRYoAAAAJ)  
+<i class="ai ai-arxiv fa-fw"></i> arXiv: [niemeyer_k_1](http://arxiv.org/a/niemeyer_k_1)  
+<i class="ai ai-researchgate fa-fw"></i> [ResearchGate profile](https://www.researchgate.net/profile/Kyle_Niemeyer)  
+<i class="ai ai-figshare fa-fw"></i> [figShare](https://figshare.com/authors/Kyle_Niemeyer/459510)  
+{% icon fa-empire fa-fw%} [ResearcherID: B-7902-2008](http://www.researcherid.com/rid/B-7902-2008)  
 
 
 ## Journal Articles ##
