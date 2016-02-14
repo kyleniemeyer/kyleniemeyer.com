@@ -72,7 +72,7 @@ Under review.
 “Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”  
 Fengquan Zhong, Sugang Ma, Xinyu Zhang, Chih-Jen Sung, and Kyle E. Niemeyer.  
 *Acta Mechanica Sinica*, 31(5):732--740, 2015.  
-{ [pdf](/files/pubs/Zhong_etal_Acta_Mech_Sin_2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s10409-015-0434-5) }
+{ [pdf](/assets/pubs/Zhong_etal_Acta_Mech_Sin_2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1007/s10409-015-0434-5) }
 
  <div class="abstract">
 ### Abstract ###
@@ -118,7 +118,7 @@ Critical to the development of predictive combustion models is a robust understa
 “Investigation of the LTC fuel performance index for oxygenated reference fuel blends.”  
 Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
 *Fuel*, 155:14--24, 2015.  
-{ [pdf](/files/pubs/Niemeyer_etal_Fuel-2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.fuel.2015.04.010) }
+{ [pdf](/assets/pubs/Niemeyer_etal_Fuel-2015.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.fuel.2015.04.010) }
 
  <div class="abstract">
 ### Abstract ###
@@ -290,7 +290,7 @@ The chemical kinetics ODEs arising from operator-split reactive-flow simulations
 “On the importance of graph search algorithms for DRGEP-based mechanism reduction methods.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Combustion and Flame*, 158 (8):1439--1443, August 2011.  
-{ [pdf](/files/pubs/niemeyer_sung_cnf_2011.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2010.12.010) }
+{ [pdf](/assets/pubs/niemeyer_sung_cnf_2011.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2010.12.010) }
 
  <div class="abstract">
 ### Abstract ###
@@ -318,7 +318,7 @@ The importance of graph search algorithm choice to the directed relation graph w
 “Skeletal mechanism generation for surrogate fuels using directed relation graph with error propagation and sensitivity analysis.”  
 Kyle E. Niemeyer, Chih-Jen Sung, and Mandhapati P. Raju.  
 *Combustion and Flame*, 157 (9):1760--1770, September 2010.  
-\{ [pdf](/files/pubs/niemeyer_sung_raju_cnf_2010.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2009.12.022) \}
+\{ [pdf](/assets/pubs/niemeyer_sung_raju_cnf_2010.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1016/j.combustflame.2009.12.022) \}
 
  <div class="abstract">
 ### Abstract ###
@@ -406,7 +406,7 @@ The task of integrating a large number of independent ODE systems arises in vari
 “A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”  
 Kyle E. Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
 ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF), Columbus, IN, USA. 19--22 October 2014.  
-\{ [pdf](/files/pubs/Niemeyer_etal_ICEF2014.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1115/ICEF2014-5478) \}
+\{ [pdf](/assets/pubs/Niemeyer_etal_ICEF2014.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1115/ICEF2014-5478) \}
 
  <div class="abstract">
 ### Abstract ###
@@ -435,7 +435,7 @@ Low-temperature combustion (LTC) engine concepts such as homogeneous charge comp
 “Initial investigation of `pyJac`: an analytical Jacobian generator for chemical kinetics.”  
 Kyle E. Niemeyer, Nicholas J. Curtis, and Chih-Jen Sung.  
 Fall 2015 Meeting of the Western States Section of the Combustion Institute, Provo, UT, USA. 5--6 October 2015. Paper 134CK-0019.  
-\{ [pdf](/files/pubs/Niemeyer_etal_WSSCI2015.pdf) |  [Slides](http://www.slideshare.net/kyleniemeyer/initial-investigation-of-pyjac-an-analytical-jacobian-generator-for-chemical-kinetics) | [Abstract]() | [BibTeX]() | [doi](https://dx.doi.org/10.6084/m9.figshare.2075515.v1) }
+\{ [pdf](/assets/pubs/Niemeyer_etal_WSSCI2015.pdf) |  [Slides](http://www.slideshare.net/kyleniemeyer/initial-investigation-of-pyjac-an-analytical-jacobian-generator-for-chemical-kinetics) | [Abstract]() | [BibTeX]() | [doi](https://dx.doi.org/10.6084/m9.figshare.2075515.v1) }
 
  <div class="abstract">
 ### Abstract ###
@@ -504,7 +504,7 @@ Explore the latest techniques for accelerating combustion simulations with finit
 “A new fuel index for LTC engines based on operating envelopes in light-duty driving cycle simulations: primary reference fuels.”  
 Kyle E. Niemeyer, William J. Cannella, and Christopher L. Hagen.  
 Spring 2014 Meeting of the Western States Section of the Combustion Institute, Pasadena, CA, USA. 24--25 March 2014. Paper 14S-20.  
-\{ [pdf](/files/pubs/Niemeyer_etal_WSSCI2014.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [pdf](/assets/pubs/Niemeyer_etal_WSSCI2014.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
 ### Abstract ###
@@ -531,7 +531,7 @@ Low-temperature combustion (LTC) engine concepts such as homogeneous charge comp
 “Reduced mechanisms for gasoline surrogates valid at engine conditions.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 10th US National Combustion Meeting, Park City, UT, USA. 19--21 May 2013.  
-\{ [pdf](/files/pubs/Niemeyer-Sung-NCM-2013.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [pdf](/assets/pubs/Niemeyer-Sung-NCM-2013.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
 ### Abstract ###
@@ -573,7 +573,7 @@ The evaluation of finite-rate chemical kinetics occupies the majority of the pro
 “Accelerating reactive-flow simulations using graphics processing units.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 51st AIAA Aerospace Sciences Meeting, Grapevine, TX, USA. 6--10 January, 2013.  
-\{ [pdf](/files/pubs/Niemeyer-Sung-ASM_2013.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.2514/6.2013-371) \}
+\{ [pdf](/assets/pubs/Niemeyer-Sung-ASM_2013.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.2514/6.2013-371) \}
 
  <div class="abstract">
 ### Abstract ###
@@ -608,7 +608,7 @@ Fourth International Symposium on Jet Propulsion and Power Engineering, Xi’an,
 “Turbulence-chemistry closure method using graphics processing units: a preliminary test.”  
 Kyle E. Niemeyer, Chih-Jen Sung, Catalin G. Fotache, and Jeremiah C. Lee.  
 7th Fall Technical Meeting of the Eastern States Section of the Combustion Institute, Storrs, CT, USA, 9--12 October 2011.  
-\{ [pdf](/files/pubs/niemeyer_etal_essci2011.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [pdf](/assets/pubs/niemeyer_etal_essci2011.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
 ### Abstract ###
@@ -629,7 +629,7 @@ Graphics processing units (GPUs) are attractive for high-performance computing d
 “Mechanism reduction strategies for multicomponent gasoline surrogate fuels.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 7th National Combustion Meeting, Atlanta, GA, USA, 20--23 March 2011.  
-\{ [pdf](/files/pubs/niemeyer_sung_ncm2011.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [pdf](/assets/pubs/niemeyer_sung_ncm2011.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
 ### Abstract ###
@@ -650,7 +650,7 @@ Skeletal mechanisms for TRF mixtures were generated using DRGEPSA followed by un
 “DRGEP-based mechanism reduction strategies: graph search algorithms and skeletal primary reference fuel mechanisms.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 49th AIAA Aerospace Sciences Meeting, Orlando, FL, USA, 4--7 January 2011.  
-\{ [pdf](/files/pubs/niemeyer_sung_asm2011.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [pdf](/assets/pubs/niemeyer_sung_asm2011.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
 ### Abstract ###
@@ -678,7 +678,7 @@ Skeletal mechanism reduction based on the directed relation graph with error pro
 Chih-Jen Sung and Kyle E. Niemeyer.  
 2nd International Symposium on Computational Mechanics and the 12th International Conference on the Enhancement and Promotion of Computational Methods in Engineering and Science (ISCM-EPMESC), Hong Kong--Macau, China, 30 November--3 December 2009.  
 _AIP Conference Proceedings_, 1233 (1):1412--1417, 2010.  
-\{ [pdf](/files/pubs/Sung-Niemeyer-ISCM-EPMESC-2009.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1063/1.3452113) \}
+\{ [pdf](/assets/pubs/Sung-Niemeyer-ISCM-EPMESC-2009.pdf) | [Abstract]() | [BibTeX]() | [doi](http://dx.doi.org/10.1063/1.3452113) \}
 
  <div class="abstract">
 ### Abstract ###
@@ -710,7 +710,7 @@ A novel implementation for the skeletal reduction of large detailed reaction mec
 “Skeletal Mechanism Generation of Surrogate Fuels Using Directed Relation Graph with Error Propagation and Sensitivity Analysis.”  
 Kyle E. Niemeyer, Mandhapati P. Raju, and Chih-Jen Sung.  
 45th AIAA/ASME/SAE/ASEE Joint Propulsion Conference and Exhibit, Denver, CO, USA, 2--5 August 2009.  
-\{ [pdf](/files/pubs/niemeyer_raju_sung_jpc2009.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [pdf](/assets/pubs/niemeyer_raju_sung_jpc2009.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
 ### Abstract ###
@@ -732,7 +732,7 @@ A novel implementation for the skeletal reduction of large detailed reaction mec
 “Skeletal Mechanism Generation for Surrogate Fuels Using Directed Relation Graph with Error Propagation and Sensitivity Analysis.”  
 Kyle E. Niemeyer, Mandhapati P. Raju, and Chih-Jen Sung.  
 6th National Combustion Meeting, Ann Arbor, MI, USA, 17--20 May 2009.  
-\{ [pdf](/files/pubs/niemeyer_raju_sung_ncm2009.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [pdf](/assets/pubs/niemeyer_raju_sung_ncm2009.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
 ### Abstract ###
@@ -761,12 +761,12 @@ A novel implementation, using directed relation graph with error propagation and
 “Mechanism reduction strategies for gasoline surrogate fuels”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 24th International Colloquium on the Dynamics of Explosions and Reactive Systems, Taipei, Taiwan. 28 July--2 August 2013.  
-\{ [pdf](/files/pubs/Niemeyer-Sung-ICDERS-poster-gasoline.pdf) \}
+\{ [pdf](/assets/pubs/Niemeyer-Sung-ICDERS-poster-gasoline.pdf) \}
 
 “GPU-based explicit integration algorithms for accelerating chemical kinetics in CFD simulations”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 24th International Colloquium on the Dynamics of Explosions and Reactive Systems, Taipei, Taiwan. 28 July--2 August 2013.  
-\{ [pdf](/files/pubs/Niemeyer-Sung-ICDERS-poster-GPU.pdf) \}
+\{ [pdf](/assets/pubs/Niemeyer-Sung-ICDERS-poster-GPU.pdf) \}
 
 </div>
 
@@ -777,7 +777,7 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 _Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units_  
 Kyle E. Niemeyer  
 Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, Ohio.  
-\{ [link](http://rave.ohiolink.edu/etdc/view?acc_num=case1378393709) | [pdf](/files/pubs/KE-Niemeyer-dissertation.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [link](http://rave.ohiolink.edu/etdc/view?acc_num=case1378393709) | [pdf](/assets/pubs/KE-Niemeyer-dissertation.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
 ### Abstract ###
@@ -808,7 +808,7 @@ In the second part, the use of GPUs for accelerating reactive-flow simulation wa
 _Skeletal mechanism generation for surrogate fuels_  
 Kyle E. Niemeyer  
 Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, Ohio.  
-\{ [link](http://rave.ohiolink.edu/etdc/view?acc_num=case1259018155) | [pdf](/files/pubs/Niemeyer_thesis.pdf) | [Abstract]() | [BibTeX]() \}
+\{ [link](http://rave.ohiolink.edu/etdc/view?acc_num=case1259018155) | [pdf](/assets/pubs/Niemeyer_thesis.pdf) | [Abstract]() | [BibTeX]() \}
 
  <div class="abstract">
 ### Abstract ###
@@ -832,7 +832,7 @@ The Mechanism Automatic Reduction Software (MARS) implementation for chemical re
 **Copyright info:** Follow the DOI link for the official published version of the journal articles. The PDF articles posted are the final, accepted manuscript versions since most publishers do not allow the open release of the official version. If you would like such an official version (as published in the journal) and you do not have access, just [email me](mailto:kyle.niemeyer@oregonstate.edu).
 
 
-<script type="text/javascript" src="/files/js/jquery.js"> </script>
+<script type="text/javascript" src="/assets/js/jquery.js"> </script>
 <script type="text/javascript">
 	$(document).ready(function(){
 		$("a:contains('BibTeX')").click(function(event) {

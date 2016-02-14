@@ -24,12 +24,12 @@ Education
 
 Ph.D. Mechanical Engineering, August 2013  
 Advisor: [Chih-Jen Sung](http://www.engr.uconn.edu/me/cms/people/87-chihsung)  
-Dissertation Title: ["Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units"](/files/pubs/KE-Niemeyer-dissertation.pdf)  
+Dissertation Title: ["Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units"](/assets/pubs/KE-Niemeyer-dissertation.pdf)  
 GPA: 4.0 / 4.0
 
 M.S., Aerospace Engineering, January 2010  
 Advisor: [Chih-Jen Sung](http://www.engr.uconn.edu/me/cms/people/87-chihsung)  
-Thesis: ["Skeletal Mechanism Generation for Surrogate Fuels"](/files/pubs/Niemeyer_thesis.pdf)  
+Thesis: ["Skeletal Mechanism Generation for Surrogate Fuels"](/assets/pubs/Niemeyer_thesis.pdf)  
 GPA: 4.0 / 4.0
 
 B.S., Aerospace Engineering, January 2009  
