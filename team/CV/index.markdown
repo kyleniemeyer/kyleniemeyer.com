@@ -74,7 +74,7 @@ Department of Mechanical and Aerospace Engineering
 Publications
 ============
 
-(see my [publications page](/research/pubs/) for an up-to-date list)
+(see my [publications page](/pubs/) for an up-to-date list)
 
 </div>
 

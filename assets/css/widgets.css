@@ -1,6 +1,6 @@
-/* Special notes revealed by jQuery calls 
+/* Special notes revealed by jQuery calls
  * Used in:
- *    `/research/pubs.html`
+ *    `/pubs.html`
  *    `/research/vita.html`
  */
 .annote, .abstract, .bibtex { display: none; }
@@ -16,7 +16,7 @@
 	line-height: 1.3em;
 }
 .note {
-	padding-top: 0.5em; 
+	padding-top: 0.5em;
 	background-color: #fafaff;
 	border-top: 1px solid silver;
 	border-bottom: 1px solid silver;
@@ -26,7 +26,7 @@
 /* The show/hide widget - Generic behaviour */
 .showhide, .all { display:none; color: gray; }
 .showhide:hover, .all:hover { color: #772222; cursor: pointer; }
-.showhide:before { content: '☓'; } 
+.showhide:before { content: '☓'; }
 .hide .showhide:before { content: '☞'; }
 .hide .showhide:hover:before { content: '☟'; }
 
@@ -48,4 +48,3 @@ h1:hover .all { display: inline; }
 /* Reveal widgets when hovering over a section */
 .section:hover .showhide { display: inline; }
 p .showhide {  padding-left: 1ex; line-height: 1ex; }
-

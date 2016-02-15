@@ -1,7 +1,7 @@
 ---
 layout: name
 title: Publications
-section: Research
+section: Publications
 ---
 
 Publications

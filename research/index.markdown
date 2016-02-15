@@ -12,7 +12,7 @@ at [Oregon State University][osu] in Corvallis, Oregon.
 I received my PhD in mechanical engineering at [Case Western Reserve University][case] in August 2013. My advisor was [Professor Jackie Sung][sung] of the [Combustion Diagnostics Laboratory][cdl] at the University of Connecticut.  
 
 <div class="section">
-[Publications](/research/pubs/)
+[Publications](/pubs/)
 ============
 I have [published][] papers on topics in combustion modeling, including chemical reaction mechanism reduction and GPU computing.
 </div>
@@ -45,7 +45,7 @@ Activities
 </div>
 
 [research]: /research/
-[published]: /research/pubs
+[published]: /pubs/
 [personal]: /
 [code]: /code/
 
