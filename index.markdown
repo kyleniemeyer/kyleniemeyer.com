@@ -1,11 +1,10 @@
 ---
-layout: name
-title: Home
+layout: default
+title: Niemeyer Research Group
 section: Home
 ---
 
-Kyle Niemeyer
-=============
+## Kyle Niemeyer
 
 <img class='inset right img-circle' src='/assets/img/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />
 
@@ -13,26 +12,21 @@ Kyle Niemeyer
 [School of MIME](http://mime.oregonstate.edu)  
 [Oregon State University](http://oregonstate.edu/)
 
-<div class="section">
-Contact
-=======
-{% icon fa-envelope-o fa-fw%} <Kyle.Niemeyer@oregonstate.edu>  
+## Contact
+
+{% icon fa-envelope-o fa-fw%} <script type="text/javascript" src="/assets/js/obfuscate-email.js"></script><noscript>Sorry, you need Javascript on to email me.</noscript>  
 {% icon fa-phone fa-fw%} 541-737-7498  
 {% icon fa-twitter fa-fw%} [@kyle_niemeyer](https://twitter.com/kyle_niemeyer)  
 {% icon fa-github fa-fw%} [kyleniemeyer](https://github.com/kyleniemeyer)  
 {% icon fa-linkedin fa-fw%} [kyleniemeyer](https://www.linkedin.com/in/kyleniemeyer)  
-{% icon fa-building fa-fw%} [320 Rogers Hall](https://www.google.com/maps/place/OSU+School+of+Mechanical,+Industrial,+and+Manufacturing/@44.5675738,-123.277663,17z/data=!3m1!4b1!4m2!3m1!1s0x54c040bdc9746961:0x79d039cd19351b81), Corvallis, OR 97331-6001  
-
-</div>
+{% icon fa-building fa-fw%} [320 Rogers Hall](https://www.google.com/maps/place/OSU+School+of+Mechanical,+Industrial,+and+Manufacturing/@44.5675738,-123.277663,17z/data=!3m1!4b1!4m2!3m1!1s0x54c040bdc9746961:0x79d039cd19351b81), Corvallis, OR 97331-6001
 
 
-<div class="section">
-Research
-========
+## Research
 
 My group's [research](/research) focuses on developing new numerical methods that will allow us to better simulate important physical phenomena, including combustion, turbulence-chemistry interactions, and the interaction of fluids with solid structures.  
 
-Some recent and ongoing projects include: 
+Some recent and ongoing projects include:
 
  * Strategies for chemical kinetic model reduction
  * Algorithms that can exploit graphics processing units (GPUs) to accelerate reactive-flow simulations
@@ -44,11 +38,7 @@ Some recent and ongoing projects include:
 
 See our [research page](/research) for more details.
 
-</div>
-
-<div class="section">
-Join Us!
-========
+## Join Us!
 
 I am currently recruiting PhD students with interests in computational modeling and numerical methods for fluid dynamics and combustion. Competitive candidates will possess strong computer programming skills and experience in command-line/UNIX systems and parallel computing. You can see more about my [primary research areas](/research), but I'm also open to other related areas.  
 
@@ -56,11 +46,7 @@ Information about applying to the School of MIME's graduate program can be found
 
 I am also happy to talk to postdoctoral candidates, and undergraduate students interested in research are always welcome.  
 
-</div>
-
-<div class="section">
-Teaching
-========
+## Teaching
 
 **Mechanical Engineering Methods** (ME 373): Winter 2015, 2016  
 
@@ -68,11 +54,8 @@ Teaching
 
 **Introduction to MIME** (MIME 101): Fall 2015  
 
-</div>
+## Blog
 
-<div class="section">
-Blog
-=====
 I keep a [blog](/blog/) on personal and research topics. Here are some recent posts:
 
 <ul class="compact recent">
@@ -83,30 +66,8 @@ I keep a [blog](/blog/) on personal and research topics. Here are some recent po
   </li>
   {% endfor %}
 </ul>
-</div>
 
-<div class="section">
-[Reading](http://www.goodreads.com/kyleniemeyer)
-==============================================
-
-<style type="text/css" media="screen">
-  .gr_grid_container { /* customize grid container div here. eg: width: 500px; */ }
-  .gr_grid_book_container {
-    /* customize book cover container div here */
-    float: left;
-    width: 98px;
-    height: 160px;
-    padding: 0px 0px;
-    overflow: hidden;
-  }
-</style>
-<script type="text/javascript" charset="utf-8" src="https://www.goodreads.com/review/grid_widget/1983734?cover_size=medium&amp;hide_link=&amp;hide_title=true&amp;num_books=20&amp;order=a&amp;shelf=currently-reading&amp;sort=date_added&amp;widget_id=1429216460"> </script>
-
-</div>
-
-<div class="section">
-Science <br/> Writing
-===============
+## Science Writing
 
 From 2011 to 2013, I also [contributed][kylears] in my spare time (ha!) to [The Scientific Method](http://arstechnica.com/science/), the science section of [Ars Technica][ars], where I reported on scientific articles covering a range of topics (e.g., energy, climate, technology) to a technically---but not necessarily scientifically---literate audience, with audiences in the tens of thousands each month.
 
@@ -119,8 +80,6 @@ Here are some of my favorite and popular pieces:
 - ["Chain reaction: the (slow) revival of US nuclear power"](http://arstechnica.com/science/2012/03/chain-reaction-the-slow-revival-of-us-nuclear-power/)
 - ["The spice must flow: new model describes the evolution of desert dunes"](http://arstechnica.com/science/2012/02/the-spice-must-flow-describing-the-evolution-of-desert-dunes/)
 - ["What makes the fuel go boom? Turbulence!"](http://arstechnica.com/science/2011/07/what-makes-the-fuel-go-boom-turbulence/)
-
-</div>
 
 [kylears]: http://arstechnica.com/author/kyle-niemeyer/
 [ars]: http://arstechnica.com/

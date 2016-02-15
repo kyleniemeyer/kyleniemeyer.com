@@ -1,10 +1,8 @@
 ---
 layout: name
-
 title: Colophon
 top: Kyle Niemeyer
 section: Info
-
 ---
 
 Colophon

@@ -1,0 +1,44 @@
+<!-- Navbar  ================================================== -->
+
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/info/"><i class="fa fa-info-circle"></i></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+
+                <li {% if page.url == "/" %} class="active" {% endif %} >
+                <a href="/">Home</a></li>
+                <li {% if page.url == "/research/" %} class="active"{% endif %} >
+                <a href="/research/">Research</a></li>
+                <li {% if page.url == "/team/" %} class="active"{% endif %} >
+                <a href="/team/">Team</a></li>
+                <li {% if page.url == "/code/" %} class="active" {% endif %} >
+                <a href="/code/">Code</a></li>
+                <li {% if page.url == "/pubs/" %} class="active" {% endif %} >
+                <a href="/pubs/">Publications</a></li>
+
+            </ul>
+
+            <!-- Search site using Google's index -->
+            <form class="navbar-form navbar-right" role="search" method="get" action="http://google.com/search">
+                <div class="form-group">
+                    <input type="hidden" name="q" value="site:kyleniemeyer.com" />
+                    <input type="text" class="form-control search-query" name="q" placeholder="Search"/>
+                </div>
+                <button class="btn btn-mini" type="submit"><i class="fa fa-search"></i></button>
+            </form>
+
+        </div><!--/.nav-collapse -->
+    </div> <!-- /container -->
+</nav>
