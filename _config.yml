@@ -2,10 +2,10 @@
 destination : _site
 lsi         : false
 highlighter : pygments
-permalink   : none
+permalink   : pretty
 markdown    : kramdown
 include     : [".htaccess"]
-exclude	    : ["rsync-site.sh", ".git", ".gitignore"]
+exclude	    : ["rsync-site.sh", ".git", ".gitignore", "Gemfile", "Gemfile.lock"]
 url         : "http://kyle.niemeyer.com"
 
 author:
