@@ -10,12 +10,12 @@ keywords: Blog, Research, Academia
 My Personal and Research Blog
 ==========================================
 
-This is [Kyle Niemeyer](/)'s personal and research blog, 
+This is [Kyle Niemeyer](/)'s personal and research blog,
 
-More [information](info.html) about this blog and a complete archive 
+More [information](info.html) about this blog and a complete archive
 of [past](past.html) posts are available via links at the top of the page.
 
-[![Feed icon](/assets/css/feed-icon-14x14.png){:title="Atom feed of recent posts" .right}][feed]
+[{% icon fa-rss %}{:title="Atom feed of recent posts" .right}][feed]
 A [feed][] of the most recent posts is also available.
 
 [feed]: /blog/atom.xml
