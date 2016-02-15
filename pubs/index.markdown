@@ -24,7 +24,8 @@ Below are some of the papers my group and I have published. Additional informati
 "Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3)."  
 Daniel S. Katz, Sou-Cheng T. Choi, Kyle E. Niemeyer, James Hetherington, Frank Löffler, Dan Gunter, Ray Idaszak, Steven R. Brandt, Mark A. Miller, Sandra Gesing, Nick D. Jones, Nic Weber, Suresh Marru, Gabrielle Allen, Birgit Penzenstadler, Colin C. Venters, Ethan Davis, Lorraine Hwang, Ilian Todorov, Abani Patra, and Miguel de Val-Borro.  
 Under review.  
-{ [Abstract]() | [BibTeX]() | [arXiv](http://arxiv.org/abs/1602.02296) }
+{ [Abstract]() | [BibTeX]() | [arXiv](http://arxiv.org/abs/1602.02296) }  
+[details](/pubs/wssspe3_report)
 
 <div class="abstract">
 ### Abstract ###
