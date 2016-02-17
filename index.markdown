@@ -49,8 +49,10 @@ Mechanical Engineering
 <dt><i class="fa fa-linkedin fa-fw"></i> LinkedIn:</dt>
 <dd><a href="https://www.linkedin.com/in/kyleniemeyer">kyleniemeyer</a></dd>
 <dt><i class="fa fa-building fa-fw"></i> Address:</dt>
-<dd><a href="https://www.google.com/maps/place/OSU+School+of+Mechanical,+Industrial,+and+Manufacturing/@44.5675738,-123.277663,17z/data=!3m1!4b1!4m2!3m1!1s0x54c040bdc9746961:0x79d039cd19351b81">320 Rogers Hall</a><br/>
-Corvallis, OR 97331-6001</dd>
+<dd><address>
+<a href="https://www.google.com/maps/place/OSU+School+of+Mechanical,+Industrial,+and+Manufacturing/@44.5675738,-123.277663,17z/data=!3m1!4b1!4m2!3m1!1s0x54c040bdc9746961:0x79d039cd19351b81">320 Rogers Hall</a><br/>
+Corvallis, OR 97331-6001
+</address></dd>
 </dl>
 </div> <!-- END col-md-4-->
 </div> <!-- END row-->
