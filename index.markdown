@@ -4,25 +4,8 @@ title: Niemeyer Research Group
 section: Home
 ---
 
-## Kyle Niemeyer
-
-<img class='inset right img-circle' src='/assets/img/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />
-
-**Assistant Professor** of Mechanical Engineering  
-[School of MIME](http://mime.oregonstate.edu)  
-[Oregon State University](http://oregonstate.edu/)
-
-## Contact
-
-{% icon fa-envelope-o fa-fw%} <script type="text/javascript" src="/assets/js/obfuscate-email.js"></script><noscript>Sorry, you need Javascript on to email me.</noscript>  
-{% icon fa-phone fa-fw%} 541-737-7498  
-{% icon fa-twitter fa-fw%} [@kyle_niemeyer](https://twitter.com/kyle_niemeyer)  
-{% icon fa-github fa-fw%} [kyleniemeyer](https://github.com/kyleniemeyer)  
-{% icon fa-linkedin fa-fw%} [kyleniemeyer](https://www.linkedin.com/in/kyleniemeyer)  
-{% icon fa-building fa-fw%} [320 Rogers Hall](https://www.google.com/maps/place/OSU+School+of+Mechanical,+Industrial,+and+Manufacturing/@44.5675738,-123.277663,17z/data=!3m1!4b1!4m2!3m1!1s0x54c040bdc9746961:0x79d039cd19351b81), Corvallis, OR 97331-6001
-
-
-## Research
+<div class="row">
+<div class="col-md-6">
 
 My group's [research](/research) focuses on developing new numerical methods that will allow us to better simulate important physical phenomena, including combustion, turbulence-chemistry interactions, and the interaction of fluids with solid structures.  
 
@@ -37,6 +20,40 @@ Some recent and ongoing projects include:
  * Development of efficient solvers for fluid-structure interaction
 
 See our [research page](/research) for more details.
+
+</div> <!-- END col-md-6-->
+<div class="col-md-4" style="font-size:20px; text-align:center;">
+
+<img class='inset right img-circle' src='/assets/img/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />  
+
+Kyle Niemeyer  
+**Assistant Professor**  
+Mechanical Engineering  
+[School of MIME](http://mime.oregonstate.edu)  
+[Oregon State University](http://oregonstate.edu/)
+
+</div> <!-- END col-md-4-->
+</div> <!-- END row-->
+
+## Contact
+
+<div class="row" markdown="0">
+<div class="col-md-6">
+<dl class="dl-horizontal">
+<dt><i class="fa fa-envelope-o fa-fw"></i> Email:</dt>
+<dd><script type="text/javascript" src="/assets/js/obfuscate-email.js"></script></dd>
+<dt><i class="fa fa-twitter fa-fw"></i> Twitter:</dt>
+<dd><a href="https://twitter.com/kyle_niemeyer">@kyle_niemeyer</a></dd>
+<dt><i class="fa fa-github fa-fw"></i> GitHub:</dt>
+<dd><a href="https://github.com/kyleniemeyer">kyleniemeyer</a></dd>
+<dt><i class="fa fa-linkedin fa-fw"></i> LinkedIn:</dt>
+<dd><a href="https://www.linkedin.com/in/kyleniemeyer">kyleniemeyer</a></dd>
+<dt><i class="fa fa-building fa-fw"></i> Address:</dt>
+<dd><a href="https://www.google.com/maps/place/OSU+School+of+Mechanical,+Industrial,+and+Manufacturing/@44.5675738,-123.277663,17z/data=!3m1!4b1!4m2!3m1!1s0x54c040bdc9746961:0x79d039cd19351b81">320 Rogers Hall</a><br/>
+Corvallis, OR 97331-6001</dd>
+</dl>
+</div> <!-- END col-md-4-->
+</div> <!-- END row-->
 
 ## Join Us!
 
