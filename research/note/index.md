@@ -1,8 +1,7 @@
 ---
 title: Notebooks
-section: Work
-layout: name
-
+section: Research
+layout: page
 ---
 
 Notebooks

@@ -1,5 +1,5 @@
 ---
-layout: name
+layout: pub
 section: Publications
 top: Publications
 permalink: /pubs/paper-LTC-index-oxygenated/

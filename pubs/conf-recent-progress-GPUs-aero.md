@@ -1,5 +1,5 @@
 ---
-layout: name
+layout: pub
 section: Publications
 top: Publications
 permalink: /pubs/conf-recent-progress-GPUs-aero/

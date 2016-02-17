@@ -1,5 +1,5 @@
 ---
-layout: name
+layout: page
 title: Teaching Statement
 section: CV
 top: Kyle Niemeyer
@@ -14,8 +14,8 @@ Teaching Statement
 
 My teaching philosophy consists of three primary tenets:
 
- * Applying fundamental theory and numerical methods to practical problems, emphasizing programming skills, 
- * Developing students' critical engineering thinking and problem-solving skills, and 
+ * Applying fundamental theory and numerical methods to practical problems, emphasizing programming skills,
+ * Developing students' critical engineering thinking and problem-solving skills, and
  * Using a science communication methodology to teach complex engineering concepts.
 
 These ideas are based on my experiences thus far as an instructor, combined with my earlier experiences as a student.

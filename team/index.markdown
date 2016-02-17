@@ -1,8 +1,8 @@
 ---
-layout: name
+layout: page
 title: Team
 section: Team
-top: Niemeyer Group
+top: Niemeyer Research Group
 members:
   - niemeyer:
     name:

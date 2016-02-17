@@ -1,11 +1,8 @@
 ---
-layout: name
+layout: page
 title: Publications
 section: Publications
 ---
-
-Publications
-============
 
 Below are some of the papers my group and I have published. Additional information about my papers and citations can be found here:
 

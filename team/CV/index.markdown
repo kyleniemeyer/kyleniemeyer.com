@@ -1,5 +1,5 @@
 ---
-layout: name
+layout: page
 title: CV
 section: Team
 top: Team

@@ -1,5 +1,5 @@
 ---
-layout: name
+layout: page
 title: Research Statement
 section: CV
 top: Kyle Niemeyer

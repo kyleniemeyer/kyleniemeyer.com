@@ -1,7 +1,7 @@
 ---
-layout: name
+layout: page
 title: Colophon
-top: Kyle Niemeyer
+top: Niemeyer Research Group
 section: Info
 ---
 
