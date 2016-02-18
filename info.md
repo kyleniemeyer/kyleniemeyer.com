@@ -5,9 +5,6 @@ top: Niemeyer Research Group
 section: Info
 ---
 
-Colophon
-========
-
 Site Features & Credits
 -----------------------
 

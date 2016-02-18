@@ -12,7 +12,7 @@ members:
     homepage: "http://kyleniemeyer.com"
     email: "Kyle.Niemeyer@oregonstate.edu"
     phone: "541-737-7498"
-    cv: "http://kyleniemeyer.com/CV"
+    cv: "http://kyleniemeyer.com/team/CV"
     github: "kyleniemeyer"
     twitter: "kyle_niemeyer"
     orcid: "0000-0003-4425-7097"
@@ -32,6 +32,17 @@ members:
     email: "gantih@oregonstate.edu"
     github: "himakarganti"
     linkedin: "himakar-ganti-8ab319a"
+  - fillo:
+    name:
+      first: "Aaron"
+      last: "Fillo"
+    photo: "fillo.jpg"
+    title: "PhD candidate"
+    email: "filloa@oregonstate.edu"
+    linkedin: "aaron-fillo-63789b94"
+    researchgate: "Aaron_Fillo"
+    interests: >
+        Co-advised with [Prof. David Blunck](http://research.engr.oregonstate.edu/blunckgroup/)
   - minar:
     name:
       first: "Christopher"
@@ -59,14 +70,11 @@ alumni:
         Co-advised with [Prof. Christopher Hagen](http://osucascades.edu/energy-systems-lab/dr-christopher-hagen).
 ---
 
-Members
-========
-
 {% for member in page.members %}
 
 <div
  about="{{member.homepage}}"
- style="font-size:15px; text-align: center;">
+ style="font-size:20px; text-align: center;">
 
 <p>
 {% if member.photo != nil %}

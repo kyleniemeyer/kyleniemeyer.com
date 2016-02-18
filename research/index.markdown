@@ -4,8 +4,6 @@ title: Research
 section: Research
 ---
 
-Research
-========
 I'm an Assistant Professor of mechanical engineering in the [School of Mechanical, Industrial, and Manufacturing Engineering][mime]
 at [Oregon State University][osu] in Corvallis, Oregon.  
 

@@ -2,15 +2,15 @@
 layout: page
 title: CV
 section: Team
-top: Team
+top: Niemeyer Research Group
 ---
 
 <div class="section">
-Download the most recent version of my CV here: \{ [pdf](https://www.dropbox.com/s/iyrojgeilotjdd4/KE_Niemeyer_CV.pdf?dl=0) \}
+Download the most recent version of my CV here: [{% icon fa-file-pdf-o fa-fw %}](https://www.dropbox.com/s/iyrojgeilotjdd4/KE_Niemeyer_CV.pdf?dl=0)
 </div>
 
 <div class="section">
-Research <br/> Interests
+Research Interests
 ==================
 
 My research interests generally include developing tools and strategies to integrate accurate physical models into practical engineering simulations; my current work involves developing chemical mechanism reduction methods and algorithms to use graphics processing units (GPUs) to enable the use of detailed, predictive chemical models in combustion and reactive-flow simulations. More generally, I am also interested in developing strategies to accelerate science and engineering computations with GPUs.
@@ -79,7 +79,7 @@ Publications
 </div>
 
 <div class="section">
-Teaching <br/> Experience
+Teaching Experience
 ===================
 
 **Oregon State University**  
@@ -115,7 +115,7 @@ Junior-level course on solid mechanics of thin-walled aerospace structures, incl
 </div>
 
 <div class="section">
-Advising <br/> Experience
+Advising Experience
 ===================
 
 **Masters Students**
@@ -127,7 +127,7 @@ Advising <br/> Experience
 </div>
 
 <div class="section">
-Professional <br/> Service
+Professional Service
 ====================
 
 **Journal Reviewer**
@@ -169,7 +169,7 @@ Professional <br/> Service
 </div>
 
 <div class="section">
-Awards & <br/> Honors
+Awards & Honors
 ================
 
 - NSF Graduate Research Fellow, 2010--2013
