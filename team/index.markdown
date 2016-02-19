@@ -57,7 +57,24 @@ members:
       last: "Soler"
     title: "MS student"
     email: "solerm@oregonstate.edu"
+    orcid: "0000-0003-1398-5171"
+    github: "solerm"
     linkedin: "miguel-soler-5ba76066"
+    photo: "soler-miguel.jpg"
+  - brian:
+    name:
+      first: "Brian"
+      last: "Butcher"
+    title: "Undergraduate research assistant"
+    email: "butchebr@oregonstate.edu"
+  - parker:
+    name:
+      first: "Parker"
+      last: "Clayton"
+    title: "Undergraduate research assistant"
+    email: "claytonp@oregonstate.edu"
+    homepage: "http://parkerclayton.net/"
+    linkedin: "parkerdclayton"
 alumni:
   - shane:
     name:
