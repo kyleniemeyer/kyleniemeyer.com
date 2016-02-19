@@ -42,6 +42,8 @@ Mechanical Engineering
 <dl class="dl-horizontal">
 <dt><i class="fa fa-envelope-o fa-fw"></i> Email:</dt>
 <dd><script type="text/javascript" src="/assets/js/obfuscate-email.js"></script></dd>
+<dt><i class="fa fa-phone fa-fw"></i> Office:</dt>
+<dd>541-737-5614</dd>
 <dt><i class="fa fa-twitter fa-fw"></i> Twitter:</dt>
 <dd><a href="https://twitter.com/kyle_niemeyer">@kyle_niemeyer</a></dd>
 <dt><i class="fa fa-github fa-fw"></i> GitHub:</dt>
