@@ -20,7 +20,7 @@ members:
     linkedin: "kyleniemeyer"
     researchgate: "Kyle_Niemeyer"
     photo: "kyle-niemeyer-web.jpg"
-    interests: >
+    details: >
         In my free time, I enjoy running and weightlifting, immersive video
         games, training in Muay Thai (Thai boxing), and discovering the
         Northwest's multitude of IPAs.
@@ -42,7 +42,9 @@ members:
     linkedin: "aaron-fillo-63789b94"
     researchgate: "Aaron_Fillo"
     interests: >
-        Co-advised with [Prof. David Blunck](http://research.engr.oregonstate.edu/blunckgroup/)
+        Turbulent premixed combustion experiments and modeling.
+    details: >
+        Co-advised with [Prof. David Blunck](http://research.engr.oregonstate.edu/blunckgroup/). Recipient of the NSF Graduate Research Fellowship.
   - minar:
     name:
       first: "Christopher"
@@ -83,15 +85,14 @@ alumni:
     title: "MS in Mechanical Engineering, Sept. 2015."
     email: "dalys@oregonstate.edu"
     homepage: "http://osucascades.edu/energy-systems-lab/people/student-researchers"
-    interests: >
+    details: >
         Co-advised with [Prof. Christopher Hagen](http://osucascades.edu/energy-systems-lab/dr-christopher-hagen).
 ---
 
 {% for member in page.members %}
 
-<div
- about="{{member.homepage}}"
- style="font-size:20px; text-align: center;">
+<div class="row">
+<div class="col-md-4" about="{{member.homepage}}" style="text-align: center;">
 
 <p>
 {% if member.photo != nil %}
@@ -129,24 +130,28 @@ alumni:
 <a type="application/atom+xml" href="{{member.googlescholar}}" title="Publications"><i class="ai ai-google-scholar"></i></a>
 {% endif %}  
 
-{{member.interests}}
-
 </span>
 </p>
 
-</div>
+</div> <!-- END col-md-4-->
+<div class="col-md-8">
+
+{{member.interests}}
+
+{{member.details}}
+
+</div> <!-- END col-md-8-->
+</div> <!-- END row-->
 
 {% endfor %}
 
 
-Alumni
-======
+## Alumni
 
 {% for member in page.alumni %}
 
-<div
- about="{{member.homepage}}"
- style="font-size:15px; text-align: center;">
+<div class="row">
+<div class="col-md-4" about="{{member.homepage}}" style="text-align: center;">
 
 <p>
 {% if member.photo != nil %}
@@ -184,18 +189,22 @@ Alumni
 <a type="application/atom+xml" href="{{member.googlescholar}}" title="Publications"><i class="ai ai-google-scholar"></i></a>
 {% endif %}  
 
-{{member.interests}}
-
 </span>
 </p>
 
-</div>
+</div> <!-- END col-md-4-->
+<div class="col-md-8">
+
+{{member.interests}}
+
+{{member.details}}
+
+</div> <!-- END col-md-8-->
+</div> <!-- END row-->
 
 {% endfor %}
 
-<div class="section">
-Collaborators
-=============
+## Collaborators
 
 [Prof. Chih-Jen Sung](http://www.engr.uconn.edu/me/cms/people/9-people/people/87-chihsung)   
 [Combustion Diagnostics Laboratory](http://combdiaglab.engr.uconn.edu/), University of Connecticut.
@@ -205,5 +214,3 @@ Collaborators
 
 [Prof. David Blunck](http://research.engr.oregonstate.edu/blunckgroup/dr-david-blunck)  
 [Combustion, Ignition, Radiation, and Energy Laboratory](http://research.engr.oregonstate.edu/blunckgroup/), Oregon State University
-
-</div>
