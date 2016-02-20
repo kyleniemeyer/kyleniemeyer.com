@@ -11,9 +11,6 @@ citation: "Christopher P. Stone and Kyle E. Niemeyer (2014), Faster Kinetics: Ac
 slides: "http://on-demand.gputechconf.com/gtc/2014/presentations/S4418-accelerate-finite-rate-combustion-sims-on-gpus.pdf"
 ---
 
-{{page.title}}
-==============
-
 ## Abstract
 
 Explore the latest techniques for accelerating combustion simulations with finite-rate chemical kinetics using GPUs. In this session we will compare the performance of different numerical methods for solving stiff and non-stiff ODEs and discuss the compromises that must be made between parallel throughput and numerical efficiency. Learn techniques used to (1) manage variable integration costs across the concurrent ODEs and (2) reduce thread divergence caused by non-linear iterative solvers.

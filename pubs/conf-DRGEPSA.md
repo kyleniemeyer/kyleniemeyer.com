@@ -11,9 +11,6 @@ citation: "Kyle E. Niemeyer, Mandhapati P. Raju, and Chih-Jen Sung (2009), Skele
 pdf: "/assets/pubs/niemeyer_raju_sung_ncm2009.pdf"
 ---
 
-{{page.title}}
-==============
-
 ## Abstract
 
 A novel implementation, using directed relation graph with error propagation and sensitivity analysis (DRGEPSA), for the skeletal reduction of large detailed reaction mechanisms was developed and presented. DRGEPSA integrates two previous methods, directed relation graph with error propagation (DRGEP) and directed relation graph aided sensitivity analysis (DRGASA), by first applying DRGEP to efficiently remove many unimportant species prior to sensitivity analysis to further eliminate unimportant species. A skeletal reduction of a detailed n-heptane mechanism was performed to illustrate the individual weaknesses of DRGEP and DRGASA and to show that DRGEPSA diminished these weaknesses. Furthermore, a comprehensive skeletal mechanism for n-decane was generated using DRGEPSA to demonstrate the applicability of the DRGEP method to the skeletal reduction of large surrogate fuel mechanisms. Specifically, the detailed mechanism of n-decane containing 940 species and 3887 reactions was reduced to a skeletal mechanism containing 211 species and 794 reactions, which exhibits good performance in predicting ignition delays over a wide range of equivalence ratios, temperatures, and pressures.

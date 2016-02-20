@@ -11,9 +11,6 @@ link: "http://rave.ohiolink.edu/etdc/view?acc_num=case1378393709"
 pdf: "/assets/pubs/KE-Niemeyer-dissertation.pdf"
 ---
 
-{{page.title}}
-==============
-
 ## Abstract
 
 Two approaches for reducing the cost of detailed and accurate chemistry in reactive- flow simulations were studied and developed, specifically based on reaction mechanism reduction and GPU computing.  

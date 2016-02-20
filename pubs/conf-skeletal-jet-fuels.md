@@ -12,9 +12,6 @@ doi: "10.1063/1.3452113"
 pdf: "/assets/pubs/Sung-Niemeyer-ISCM-EPMESC-2009.pdf"
 ---
 
-{{page.title}}
-==============
-
 ## Abstract
 
 A novel implementation for the skeletal reduction of large detailed reaction mechanisms using the directed relation graph with error propagation and sensitivity analysis (DRGEPSA) is developed and presented with skeletal reductions of two important hydrocarbon components, n‐heptane and n‐decane, relevant to surrogate jet fuel development. DRGEPSA integrates two previously developed methods, directed relation graph‐aided sensitivity analysis (DRGASA) and directed relation graph with error propagation (DRGEP), by first applying DRGEP to efficiently remove many unimportant species prior to sensitivity analysis to further remove unimportant species, producing an optimally small skeletal mechanism for a given error limit. It is illustrated that the combination of the DRGEP and DRGASA methods allows the DRGEPSA approach to overcome the weaknesses of each previous method, specifically that DRGEP cannot identify all unimportant species and that DRGASA shields unimportant species from removal.

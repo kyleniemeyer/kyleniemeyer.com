@@ -13,9 +13,6 @@ citation: "Kyle E. Niemeyer and Chih-Jen Sung (2015), Reduced chemistry for a ga
 pdf:
 ---
 
-{{page.title}}
-==============
-
 ## Abstract
 
 The relative importance index (RII) method for determining appropriate target species for dynamic adaptive chemistry (DAC) simulations using the directed relation graph with error propagation (DRGEP) method is developed. The adequacy and effectiveness of this RII method is validated for two fuels: n-heptane and isopentanol, representatives of a ground transportation fuel component and bio-alcohol, respectively.

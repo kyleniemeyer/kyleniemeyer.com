@@ -10,9 +10,6 @@ conference: "Fourth International Symposium on Jet Propulsion and Power Engineer
 citation: "Kyle E. Niemeyer and Chih-Jen Sung (2012), Recent Progress and Challenges in Exploiting Graphics Processors for Aeropropulsion Simulations, Fourth International Symposium on Jet Propulsion and Power Engineering, Xi’an, China, 10--12 September."
 ---
 
-{{page.title}}
-==============
-
 ## BibTeX
 
     @inproceedings{Niemeyer:2012,

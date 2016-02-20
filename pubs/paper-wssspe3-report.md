@@ -13,9 +13,6 @@ citation: "Daniel S. Katz, Sou-Cheng T. Choi, Kyle E. Niemeyer, James Hetheringt
 repository: "WSSSPE/meetings/tree/master/WSSSPE3/report"
 ---
 
-{{page.title}}
-==============
-
 ## Abstract
 
 This report records and discusses the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3). The report includes a description of the keynote presentation of the workshop, which served as an overview of sustainable scientific software. It also summarizes a set of lightning talks in which speakers highlighted to-the-point lessons and challenges pertaining to sustaining scientific software. The final and main contribution of the report is a summary of the discussions, future steps, and future organization for a set of self-organized working groups on topics including developing pathways to funding scientific software; constructing useful common metrics for crediting software stakeholders; identifying principles for sustainable software engineering design; reaching out to research software organizations around the world; and building communities for software sustainability. For each group, we include a point of contact and a landing page that can be used by those who want to join that group's future activities. The main challenge left by the workshop is to see if the groups will execute these activities that they have scheduled, and how the WSSSPE community can encourage this to happen.

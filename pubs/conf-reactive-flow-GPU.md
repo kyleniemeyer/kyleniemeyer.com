@@ -12,9 +12,6 @@ doi: "10.2514/6.2013-371"
 pdf: "/assets/pubs/Niemeyer-Sung-ASM_2013.pdf"
 ---
 
-{{page.title}}
-==============
-
 ## Abstract
 
 The progress made in accelerating simulations of fluid flow using GPUs is surveyed. The review first provides an introduction to GPU computing and programming. A case study of simulating incompressible flow in a lid-driven cavity is performed, comparing the performance of CPU- and GPU-based solvers to demonstrate the potential improvement even with simple codes. Recent efforts to accelerate CFD simulations using GPUs are reviewed for reactive flow solvers. Finally, recommendations for implementing CFD codes on GPUs are given and remaining challenges are discussed, such as the need to develop new strategies and redesign algorithms to enable GPU acceleration.

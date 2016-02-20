@@ -14,9 +14,6 @@ citation: "Kyle E. Niemeyer and Chih-Jen Sung (2014), Recent progress and challe
 pdf:
 ---
 
-{{page.title}}
-==============
-
 ## Abstract
 
 The progress made in accelerating simulations of fluid flow using GPUs, and the challenges that remain, are surveyed. The review first provides an introduction to GPU computing and programming, and discusses various considerations for improved performance. Case studies comparing the performance of CPU- and GPU- based solvers for the Laplace and incompressible Navier–Stokes equations are performed in order to demonstrate the potential improvement even with simple codes. Recent efforts to accelerate CFD simulations using GPUs are reviewed for laminar, turbulent, and reactive flow solvers. Also, GPU implementations of the lattice Boltzmann method are reviewed. Finally, recommendations for implementing CFD codes on GPUs are given and remaining challenges are discussed, such as the need to develop new strategies and redesign algorithms to enable GPU acceleration.

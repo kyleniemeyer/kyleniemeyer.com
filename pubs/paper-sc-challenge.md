@@ -12,9 +12,6 @@ supplement:
 citation: "Kyle E. Niemeyer, Arfon M. Smith, and Daniel S. Katz (2016), The challenge and promise of software citation for credit, identification, discovery, and reuse; under review. arXiv:1601.04734 [cs.CY]"
 ---
 
-{{page.title}}
-==============
-
 ## BibTeX
 
     @article{Niemeyer:2016,

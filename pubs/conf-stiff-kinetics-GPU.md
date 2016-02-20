@@ -11,9 +11,6 @@ citation: "Kyle E. Niemeyer and Chih-Jen Sung (2013), Accelerating stiff chemica
 slides: "https://client.blueskybroadcast.com/SIAM13/NC/siam_nc13_MS8_2/"
 ---
 
-{{page.title}}
-==============
-
 ## Abstract
 
 The evaluation of finite-rate chemical kinetics occupies the majority of the processing time in combustion simulations, due to the stiffness of the governing rate equations. Graphics processing units (GPUs) offer the massive parallelism and processing power of a CPU cluster at a fraction of the cost and power consumption, in a single device. A novel stiff solver will be presented that accelerates the solution of chemical kinetics on GPUs.
