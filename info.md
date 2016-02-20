@@ -28,12 +28,20 @@ So, after seeing a bit about [Jekyll][] and realizing the benefits of a static s
 Licence
 -------
 
+<div class="row">
+<div class="col-md-9">
+
+Unless specified otherwise, all design and content within this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+</div>
+<div class="col-md-3">
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
 <img class="inset right" alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by.svg" />
 </a>
 
-Unless specified otherwise, all design and content within this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
+</div>
+</div>
 
 [Jekyll]: http://jekyllrb.com
 [GitHub]: https://github.com/
