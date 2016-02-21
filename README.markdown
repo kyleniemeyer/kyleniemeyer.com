@@ -2,8 +2,8 @@ kyleniemeyer.com
 ==============
 [![Build Status](https://travis-ci.org/kyleniemeyer/kyleniemeyer.com.svg?branch=master)](https://travis-ci.org/kyleniemeyer/kyleniemeyer.com)
 [![Powered by Jekyll](https://img.shields.io/badge/powered_by-jekyll-blue.svg?style=flat-square)](https://jekyllrb.com/)
-[! [Powered by Bootstrap](https://img.shields.io/badge/powered_by-bootstrap-blue.svg?style=flat-square)](http://getbootstrap.com/)
-[! [Theme by Bootswatch](https://img.shields.io/badge/theme_by-bootswatch-blue.svg?style=flat-square)](http://bootswatch.com/)
+[![Powered by Bootstrap](https://img.shields.io/badge/powered_by-bootstrap-blue.svg?style=flat-square)](http://getbootstrap.com/)
+[![Theme by Bootswatch](https://img.shields.io/badge/theme_by-bootswatch-blue.svg?style=flat-square)](http://bootswatch.com/)
 
 This repository contains the source for my personal site at <http://kyleniemeyer.com>.
 
