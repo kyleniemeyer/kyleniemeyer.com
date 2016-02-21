@@ -1,5 +1,6 @@
 kyleniemeyer.com
 ==============
+[![Build Status](https://travis-ci.org/kyleniemeyer/kyleniemeyer.com.svg?branch=master)](https://travis-ci.org/kyleniemeyer/kyleniemeyer.com)
 
 This repository contains the source for my personal site at <http://kyleniemeyer.com>.
 
