@@ -12,8 +12,8 @@ My Personal and Research Blog
 
 This is [Kyle Niemeyer](/)'s personal and research blog,
 
-More [information](info.html) about this blog and a complete archive
-of [past](past.html) posts are available via links at the top of the page.
+More [information](/blog/info/) about this blog and a complete archive
+of [past](/blog/past/) posts are available via links at the top of the page.
 
 [{% icon fa-rss %}{:title="Atom feed of recent posts" .right}][feed]
 A [feed][] of the most recent posts is also available.
@@ -35,7 +35,7 @@ Recent Posts
 {% endfor %}
 
 <p>
-<a href="past.html">Older Posts &rarr;</a>
+<a href="/blog/past/">Older Posts &rarr;</a>
 </p>
 
 <script type="text/javascript">
@@ -48,7 +48,7 @@ Recent Posts
 				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
 			}
 		}
-		document.write('<script type="text/javascript" src="http://disqus.com/forums/kyleniemeyer/get_num_replies.js' + query + '"></' + 'script>');
+		document.write('<script type="text/javascript" src="https://disqus.com/forums/kyleniemeyer/get_num_replies.js' + query + '"></' + 'script>');
 	})();
 //]]>
 </script>

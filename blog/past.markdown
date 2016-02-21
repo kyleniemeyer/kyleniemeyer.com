@@ -3,7 +3,7 @@ layout: blog
 title: Archives
 section: Past
 
-feed: atom.xml
+feed: "/blog/atom.xml"
 keywords: Blog, Research, Academia
 ---
 
@@ -11,7 +11,7 @@ Archives
 ========
 
 This is the complete archive of posts from [Kyle Niemeyer's Personal
-and Research blog](/blog) in reverse chronological order.
+and Research blog](/blog/) in reverse chronological order.
 
 {% for post in site.categories.blog %}
 <div class="section list">
@@ -23,7 +23,7 @@ and Research blog](/blog) in reverse chronological order.
   <p class="excerpt">{{ post.excerpt }}</p>
 </div>
 {% endfor %}
-  
+
 <script type="text/javascript">
 //<![CDATA[
 (function() {

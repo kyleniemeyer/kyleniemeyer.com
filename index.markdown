@@ -24,7 +24,7 @@ See our [research page](/research) for more details.
 </div> <!-- END col-md-6-->
 <div class="col-md-4" style="font-size:20px; text-align:center;">
 
-<img class='inset right img-circle' src='/assets/img/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' width='180px' />  
+<img class='inset right img-circle' src='/assets/img/kyle-niemeyer-web.jpg' title='Kyle Niemeyer' alt='Photo of Kyle Niemeyer' width='180px' />  
 
 Kyle Niemeyer  
 **Assistant Professor**  
