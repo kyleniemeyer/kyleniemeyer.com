@@ -25,7 +25,7 @@ I switched to this site design after a couple years of using [WordPress](http://
 
 So, after seeing a bit about [Jekyll][] and realizing the benefits of a static site (speed, and no way to be hacked other than through the server), I decided to switch. I originally borrowed (and customized) [Mark Reid's site]([Mark Reid's site](http://mark.reid.name/), but more recently upgraded to using [Bootstrap](http://getboostrap.com/) CSS and a theme from [Bootswatch](http://bootswatch.com/).
 
-Licence
+License
 -------
 
 <div class="row">
