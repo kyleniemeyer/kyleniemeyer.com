@@ -79,28 +79,35 @@ I am also happy to talk to postdoctoral candidates, and undergraduate students i
 
 I keep a [blog](/blog/) on personal and research topics. Here are some recent posts:
 
-<ul class="compact recent">
-  {% for post in site.categories.blog limit:3 %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date_to_string }}</span>
-  </li>
-  {% endfor %}
-</ul>
+<table class="table table-striped">
+{% for post in site.categories.blog limit:5 %}
+<tr><td>{{ post.date | date_to_string }}</td>
+<td><a href="{{ post.url }}">{{ post.title }}</a></td></tr>
+{% endfor %}
+</table>
 
-## Science Writing
+## Writing
 
-From 2011 to 2013, I also [contributed][kylears] in my spare time (ha!) to [The Scientific Method](http://arstechnica.com/science/), the science section of [Ars Technica][ars], where I reported on scientific articles covering a range of topics (e.g., energy, climate, technology) to a technically---but not necessarily scientifically---literate audience, with audiences in the tens of thousands each month.
+From 2011 to 2013, I also [contributed][kylears] in my spare time (ha!) to [Scientific Method](http://arstechnica.com/science/), the science section of [Ars Technica][ars], where I reported on scientific articles covering a range of topics (e.g., energy, climate, technology) to a technically---but not necessarily scientifically---literate audience, with audiences in the tens of thousands each month.
 
 Here are some of my favorite and popular pieces:
 
-- ["The US Navy wants great (rotating, detonating) balls of fire!"](http://arstechnica.com/science/2012/11/the-us-navy-wants-great-rotating-detonating-balls-of-fire/)
-- ["The road ahead: How we'll get to 54.5 mpg by 2025"](http://arstechnica.com/features/2012/10/the-road-ahead-how-well-get-to-54-5-mpg-by-2025/)
-- ["Mosquitos survive collisions with objects 50 times their weight: raindrops"](http://arstechnica.com/science/2012/06/mosquitos-survive-collisions-with-objects-50-times-their-weight-raindrops/)
-- ["Why you should read the book _Before the Lights Go Out_"](http://arstechnica.com/science/2012/04/why-you-should-read-the-book-before-the-lights-go-out/)
-- ["Chain reaction: the (slow) revival of US nuclear power"](http://arstechnica.com/science/2012/03/chain-reaction-the-slow-revival-of-us-nuclear-power/)
-- ["The spice must flow: new model describes the evolution of desert dunes"](http://arstechnica.com/science/2012/02/the-spice-must-flow-describing-the-evolution-of-desert-dunes/)
-- ["What makes the fuel go boom? Turbulence!"](http://arstechnica.com/science/2011/07/what-makes-the-fuel-go-boom-turbulence/)
+<table class="table table-striped">
+<tr><td>5 Nov 2012</td>
+<td><a href="http://arstechnica.com/science/2012/11/the-us-navy-wants-great-rotating-detonating-balls-of-fire/">"The US Navy wants great (rotating, detonating) balls of fire!"</a></td></tr>
+<tr><td>8 Oct 2012</td>
+<td><a href="http://arstechnica.com/features/2012/10/the-road-ahead-how-well-get-to-54-5-mpg-by-2025/">"The road ahead: How we'll get to 54.5 mpg by 2025"</a></td></tr>
+<tr><td>6 Jun 2012</td>
+<td><a href="http://arstechnica.com/science/2012/06/mosquitos-survive-collisions-with-objects-50-times-their-weight-raindrops/">"Mosquitos survive collisions with objects 50 times their weight: raindrops"</a></td></tr>
+<tr><td>7 Apr 2012</td>
+<td><a href="http://arstechnica.com/science/2012/04/why-you-should-read-the-book-before-the-lights-go-out/">"Why you should read the book _Before the Lights Go Out_"</a></td></tr>
+<tr><td>6 Mar 2012</td>
+<td><a href="http://arstechnica.com/science/2012/03/chain-reaction-the-slow-revival-of-us-nuclear-power/">"Chain reaction: the (slow) revival of US nuclear power"</a></td></tr>
+<tr><td>8 Feb 2012</td>
+<td><a href="http://arstechnica.com/science/2012/02/the-spice-must-flow-describing-the-evolution-of-desert-dunes/">"The spice must flow: new model describes the evolution of desert dunes"</a></td></tr>
+<tr><td>29 Jul 2011</td>
+<td><a href="http://arstechnica.com/science/2011/07/what-makes-the-fuel-go-boom-turbulence/">"What makes the fuel go boom? Turbulence!"</a></td></tr>
+</table>
 
 [kylears]: http://arstechnica.com/author/kyle-niemeyer/
 [ars]: http://arstechnica.com/
