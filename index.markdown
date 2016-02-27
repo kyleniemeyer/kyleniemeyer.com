@@ -81,7 +81,7 @@ I keep a [blog](/blog/) on personal and research topics. Here are some recent po
 
 <table class="table table-striped">
 {% for post in site.categories.blog limit:5 %}
-<tr><td>{{ post.date | date_to_string }}</td>
+<tr><td>{{ post.date | date: "%-d %b %Y" }}</td>
 <td><a href="{{ post.url }}">{{ post.title }}</a></td></tr>
 {% endfor %}
 </table>
