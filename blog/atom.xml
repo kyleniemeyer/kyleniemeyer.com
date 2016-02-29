@@ -1,9 +1,9 @@
 ---
-layout: nil
+layout: none
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
+
  <title>My Personal and Research Blog</title>
  <link href="http://kyleniemeyer.com/blog/atom.xml" rel="self"/>
  <link href="http://kyleniemeyer.com/blog/"/>
@@ -13,7 +13,7 @@ layout: nil
    <name>Kyle Niemeyer</name>
    <email>kyle.niemeyer@gmail.com</email>
  </author>
- 
+
  {% for post in site.categories.blog limit:5 %}
  <entry>
    <title>{{ post.title }}</title>
@@ -23,5 +23,5 @@ layout: nil
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
- 
+
 </feed>
