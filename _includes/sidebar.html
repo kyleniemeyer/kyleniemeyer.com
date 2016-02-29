@@ -20,38 +20,27 @@
   <br />
 -->
 
-  <p><i class="icon-list"></i> Posted in
-    {% for category in page.categories %}
-      <a rel="dc:subject" class="category"
-         href="/categories.html#{{ category | cgi_escape }}">{{ category }}</a>
-    {% unless page.categories.last == category %}, {% endunless %}
-    {% endfor %}</p>
-
-  <p> <i class="icon-tag"></i> tags:
+    <p> <i class="fa fa-tags fa-fw"></i>&nbsp; tags:
     {% for tag in page.tags %}
     <!-- http://schema.org/BlogPosting/keywords -->
     <a rel="og:tag" class="tag"
-       href="/tags.html#{{ tag | cgi_escape }}">#{{ tag }}</a>{% unless page.tags.last == tag %}, {% endunless %}
-    {% endfor %}</p>
+       href="/tags/#{{ tag | cgi_escape }}">#{{ tag }}</a>{% unless page.tags.last == tag %}, {% endunless %}
+    {% endfor %}
+    </p>
 
-  <br/>
+    <br/>
 
-  {% if site.pageviews %} <p style="font-style:italic"> <i class="icon-signal"></i> pageviews: {{ page.pageviews }}</p>{% endif %}
+    {% if site.pageviews %} <p style="font-style:italic"> <i class="icon-signal"></i> pageviews: {{ page.pageviews }}</p>{% endif %}
 
-  <br/>
-  {% if page.code %}
-     <script src="/assets/js/toggleR.js"></script>
-     <button class="btn btn-default" type="button" onclick="toggle_R();">Hide/Show Source</button>
-  {% endif %}
-  <br/>
+    <br/>
 
-  {% if page.previous %}
-      <p><a class="btn btn-default" rel="prev" href='{{ page.previous.url }}'><i class="icon-chevron-left"></i> prev</a>
-  {% endif %}
-  {% if page.next %}
+    {% if page.previous %}
+    <p><a class="btn btn-default" rel="prev" href='{{ page.previous.url }}'><i class="icon-chevron-left"></i> prev</a>
+    {% endif %}
+    {% if page.next %}
     <a class="btn btn-default" rel="next" href='{{ page.next.url }}'>next <i class="icon-chevron-right"></i></a></p>
-  {% else %}
-      </p>
-  {% endif %}
+    {% else %}
+    </p>
+    {% endif %}
 
 </aside>
