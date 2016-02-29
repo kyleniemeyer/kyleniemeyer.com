@@ -1,6 +1,7 @@
---- 
+---
 layout: blog-post
 title: GPU programming with CUDA on MacBook Pro
+tags: [programming, CUDA]
 ---
 
 GPU programming has been seeing increased attention recently for research computing applications---check out a [recent Ars Technica article](http://arstechnica.com/science/news/2011/03/high-performance-computing-on-gamer-pcs-part-1-hardware.ars) talking about this.

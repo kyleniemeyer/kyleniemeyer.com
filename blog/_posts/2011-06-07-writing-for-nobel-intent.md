@@ -1,6 +1,7 @@
---- 
+---
 layout: blog-post
 title: Writing for Nobel Intent!
+tags: [writing]
 ---
 
 My first contribution to Nobel Intent, the science section of Ars Technica, went up today! I’ll be contributing there about one article a week, primarily covering academic articles (like this one):

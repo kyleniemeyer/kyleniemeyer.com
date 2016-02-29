@@ -1,6 +1,7 @@
---- 
+---
 layout: blog-post
 title: gfortran intrinsic function MAXLOC
+tags: [programming, Fortran]
 ---
 
 While writing some new code for my research, I ran into an unexpected result using the `MAXLOC` intrinsic function with GNU Fortran [^foot].  Well, it wouldn’t be unexpected if I read the online manual entry more carefully, but who does?

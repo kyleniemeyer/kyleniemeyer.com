@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: Importance of CUDA volatile keyword with shared memory
-tags: [CUDA]
+tags: [programming, CUDA]
 ---
 
 When coordinating information between threads in a warp via shared memory in CUDA, you might need to use the `volatile` keyword when declaring the shared memory array, as in `volatile __shared__ int array[SIZE]`.

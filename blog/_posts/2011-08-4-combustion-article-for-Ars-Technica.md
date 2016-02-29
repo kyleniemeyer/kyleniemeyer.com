@@ -1,6 +1,7 @@
---- 
+---
 layout: blog-post
 title: Combustion article for Ars Technica
+tags: [writing]
 ---
 
 This is a couple days old now, but I wrote a combustion-related article for [Ars Technica](http://arstechnica.com/). I haven’t been posting every article I write here (since there are usually one or two a week), but this is the first so far to be specifically related to my research–so I figured it deserved special comment.

@@ -1,6 +1,7 @@
---- 
+---
 layout: blog-post
 title: Careful with the subtraction assignment operator in C
+tags: [programming, C]
 ---
 
 This might be obvious to someone who majored in computer science (and does make sense if you think about it), but a little care is required when using the subtraction assignment operator (`-=`) in C and related languages.
