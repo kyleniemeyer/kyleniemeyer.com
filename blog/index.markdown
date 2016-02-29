@@ -20,7 +20,7 @@ A [feed][] of the most recent posts is also available.
     <span class="post-date">{{ post.date | date_to_string }}</span>
     <p class="excerpt">{{ post.excerpt }}</p>
     <p class="line">
-    <a class="comments" href="{{ post.url }}#disqus_thread">View Comments</a>
+    <i class="fa fa-comments"></i>&nbsp;<a class="comments" href="{{ post.url }}#disqus_thread">View Comments</a>
     </p>
 </div>
 {% endfor %}
