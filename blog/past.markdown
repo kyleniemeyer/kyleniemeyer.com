@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Archives
 section: Past
 
@@ -7,20 +7,17 @@ feed: "/blog/atom.xml"
 keywords: Blog, Research, Academia
 ---
 
-Archives
-========
-
 This is the complete archive of posts from [Kyle Niemeyer's Personal
 and Research blog](/blog/) in reverse chronological order.
 
 {% for post in site.categories.blog %}
-<div class="section list">
-  <h1>{{ post.date | date_to_string }}</h1>
-  <p class="line">
-  <a class="title" href="{{ post.url }}">{{ post.title }}</a>
-  <a class="comments" href="{{ post.url }}#disqus_thread">View Comments</a>
-  </p>
-  <p class="excerpt">{{ post.excerpt }}</p>
+<div class="section list" markdown="0">
+    <h3><a class="entry-title" href="{{ post.url }}">{{ post.title }}</a></h3>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <p class="excerpt">{{ post.excerpt }}</p>
+    <p class="line">
+    <a class="comments" href="{{ post.url }}#disqus_thread">View Comments</a>
+    </p>
 </div>
 {% endfor %}
 

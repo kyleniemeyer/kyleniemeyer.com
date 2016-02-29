@@ -1,36 +1,27 @@
 ---
-layout: blog
-title: Home
-section: Home
-
+layout: page
+title: My Personal and Research Blog
 feed: atom.xml
 keywords: Blog, Research, Academia
 ---
 
-My Personal and Research Blog
-==========================================
+This is [Kyle Niemeyer](/)'s personal and research blog. A complete archive of [past](/blog/past/) posts are available via links at the top of the page.
 
-This is [Kyle Niemeyer](/)'s personal and research blog,
-
-More [information](/blog/info/) about this blog and a complete archive
-of [past](/blog/past/) posts are available via links at the top of the page.
-
-[{% icon fa-rss %}{:title="Atom feed of recent posts" .right}][feed]
+[{% icon fa-rss %}{:title="Atom feed of recent posts" .right}][feed]&nbsp;
 A [feed][] of the most recent posts is also available.
 
 [feed]: /blog/atom.xml
 
-Recent Posts
-------------
+## Recent Posts
 
 {% for post in site.categories.blog limit:5 %}
-<div class="section list">
-  <h1>{{ post.date | date_to_string }}</h1>
-  <p class="line">
-  <a class="title" href="{{ post.url }}">{{ post.title }}</a>
-  <a class="comments" href="{{ post.url }}#disqus_thread">View Comments</a>
-  </p>
-  <p class="excerpt">{{ post.excerpt }}</p>
+<div class="section list" markdown="0">
+    <h3><a class="entry-title" href="{{ post.url }}">{{ post.title }}</a></h3>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <p class="excerpt">{{ post.excerpt }}</p>
+    <p class="line">
+    <a class="comments" href="{{ post.url }}#disqus_thread">View Comments</a>
+    </p>
 </div>
 {% endfor %}
 
