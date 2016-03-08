@@ -14,12 +14,5 @@ author:
     github : kyleniemeyer
     twitter : kyle_niemeyer
 
-maruku:
-    use_divs: true
-    use_tex: true
-    png_engine : blahtex
-    png_dir    : /assets/img/latex/
-    png_url    : /assets/img/latex/
-
 kramdown:
     parse_block_html: true
