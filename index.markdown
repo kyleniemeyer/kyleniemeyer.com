@@ -100,7 +100,7 @@ Here are some of my favorite and popular pieces:
 <tr><td>6 Jun 2012</td>
 <td><a href="http://arstechnica.com/science/2012/06/mosquitos-survive-collisions-with-objects-50-times-their-weight-raindrops/">"Mosquitos survive collisions with objects 50 times their weight: raindrops"</a></td></tr>
 <tr><td>7 Apr 2012</td>
-<td><a href="http://arstechnica.com/science/2012/04/why-you-should-read-the-book-before-the-lights-go-out/">"Why you should read the book _Before the Lights Go Out_"</a></td></tr>
+<td><a href="http://arstechnica.com/science/2012/04/why-you-should-read-the-book-before-the-lights-go-out/">"Why you should read the book <i>Before the Lights Go Out</i>"</a></td></tr>
 <tr><td>6 Mar 2012</td>
 <td><a href="http://arstechnica.com/science/2012/03/chain-reaction-the-slow-revival-of-us-nuclear-power/">"Chain reaction: the (slow) revival of US nuclear power"</a></td></tr>
 <tr><td>8 Feb 2012</td>
