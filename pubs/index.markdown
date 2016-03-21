@@ -148,6 +148,17 @@ ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF), 
 ## Conference Papers / Presentations ##
 
 <div class="section">
+# 2016 #
+
+["An autoignition performance comparison of chemical kinetics models for *n*-heptane"](/pubs/conf-nheptane-model-perf/)
+Kyle E. Niemeyer.  
+Spring 2016 Meeting of the Western States Section of the Combustion Institute, Seattle, WA, USA. 21--22 March 2016. Paper 139KI-0028.  
+[{% icon fa-external-link fa-fw %} doi:10.6084/m9.figshare.3120724.v1](https://dx.doi.org/10.6084/m9.figshare.3120724.v1)  
+[{% icon fa-slideshare fa-fw %} Presentation](http://www.slideshare.net/kyleniemeyer/an-autoignition-performance-comparison-of-chemical-kinetics-models-for-nheptane)
+
+</div>
+
+<div class="section">
 # 2015 #
 
 [“Initial investigation of `pyJac`: an analytical Jacobian generator for chemical kinetics.”](/pubs/conf-pyJac-initial/)  
