@@ -6,7 +6,7 @@ permalink: /pubs/conf-pyJac-initial/
 title: "Initial investigation of `pyJac`: an analytical Jacobian generator for chemical kinetics"
 author: "Kyle E. Niemeyer, Nicholas J. Curtis, and Chih-Jen Sung"
 date: 2015
-conference: "ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF)"
+conference: "Fall 2015 Meeting of the Western States Section of the Combustion Institute"
 doi: "10.6084/m9.figshare.2075515.v1"
 supplement:
 citation: "Kyle E. Niemeyer, Nicholas J. Curtis, and Chih-Jen Sung (2015), Initial investigation of `pyJac`: an analytical Jacobian generator for chemical kinetics, Fall 2015 Meeting of the Western States Section of the Combustion Institute, Provo, UT, USA. 5--6 October 2015. Paper 134CK-0019. doi:10.6084/m9.figshare.2075515.v1"
