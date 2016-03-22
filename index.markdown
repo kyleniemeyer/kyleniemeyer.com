@@ -39,9 +39,11 @@ Mechanical Engineering
 
 <div class="row" markdown="0">
 <div class="col-md-6">
-<dl class="dl-horizontal">
+<dl class="dl-horizontal dl-horizontal-info">
 <dt><i class="fa fa-envelope-o fa-fw"></i> Email:</dt>
 <dd><script type="text/javascript" src="/assets/js/obfuscate-email.js"></script></dd>
+<dt><i class="fa fa-key fa-fw"></i>  Public key:</dt>
+<dd><a href="https://keybase.io/kyleniemeyer">C654 D13A C6F9 EDA8</a></dd>
 <dt><i class="fa fa-phone fa-fw"></i> Office:</dt>
 <dd>541-737-5614</dd>
 <dt><i class="fa fa-twitter fa-fw"></i> Twitter:</dt>
