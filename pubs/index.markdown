@@ -213,7 +213,7 @@ ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF), 
 </div> <!-- END col-md-2-->
 <div class="col-md-10">
 
-["An autoignition performance comparison of chemical kinetics models for *n*-heptane"](/pubs/conf-nheptane-model-perf/)
+["An autoignition performance comparison of chemical kinetics models for *n*-heptane"](/pubs/conf-nheptane-model-perf/)  
 Kyle E. Niemeyer.  
 Spring 2016 Meeting of the Western States Section of the Combustion Institute, Seattle, WA, USA. 21--22 March 2016. Paper 139KI-0028.  
 [{% icon fa-external-link fa-fw %} doi:10.6084/m9.figshare.3120724.v1](https://dx.doi.org/10.6084/m9.figshare.3120724.v1)  
