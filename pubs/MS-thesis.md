@@ -3,7 +3,7 @@ layout: pub
 section: Publications
 top: Publications
 permalink: /pubs/MS-thesis/
-title: "_Skeletal mechanism generation for surrogate fuels_"
+title: "<i>Skeletal mechanism generation for surrogate fuels</i>"
 author: "Kyle E. Niemeyer"
 date: 2010
 citation: "Kyle E. Niemeyer (2010) _Skeletal mechanism generation for surrogate fuels_, MS thesis, Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, Ohio."

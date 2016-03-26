@@ -3,7 +3,7 @@ layout: pub
 section: Publications
 top: Publications
 permalink: /pubs/conf-nheptane-model-perf/
-title: "An autoignition performance comparison of chemical kinetics models for n-heptane"
+title: "An autoignition performance comparison of chemical kinetics models for <i>n</i>-heptane"
 author: "Kyle E. Niemeyer"
 date: 2016
 conference: "Spring 2016 Meeting of the Western States Section of the Combustion Institute"

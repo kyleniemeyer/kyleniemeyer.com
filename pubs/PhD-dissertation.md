@@ -3,7 +3,7 @@ layout: pub
 section: Publications
 top: Publications
 permalink: /pubs/PhD-dissertation/
-title: "_Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units_"
+title: "<i>Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units</i>"
 author: "Kyle E. Niemeyer"
 date: 2013
 citation: "Kyle E. Niemeyer (2013) _Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units_, PhD dissertation, Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, Ohio."
