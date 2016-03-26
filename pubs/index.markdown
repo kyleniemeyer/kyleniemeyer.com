@@ -13,8 +13,18 @@ Below are some of the papers my group and I have published. Additional informati
 <i class="ai ai-figshare fa-fw"></i> [figShare](https://figshare.com/authors/Kyle_Niemeyer/459510)  
 {% icon fa-empire fa-fw %} [ResearcherID: B-7902-2008](http://www.researcherid.com/rid/B-7902-2008)  
 
+Jump to:
+<div class="list-group">
+<a href="#articles" class="list-group-item">Journal articles</a>
+<a href="#book-chapters" class="list-group-item">Book chapters</a>
+<a href="#ref-conf-papers" class="list-group-item">Refereed conference papers</a>
+<a href="#conf-papers" class="list-group-item">Conference talks & papers</a>
+<a href="#posters" class="list-group-item">Posters</a>
+<a href="#dissertation" class="list-group-item">PhD dissertation</a>
+<a href="#ms-thesis" class="list-group-item">MS thesis</a>
+</div>
 
-## Journal Articles ##
+## Journal Articles {#articles}
 
 <div class="row">
 <div class="col-md-2">
@@ -155,7 +165,7 @@ C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Stey
 
 </div>
 
-## Book Chapters ##
+## Book Chapters {#book-chapters}
 
 <div class="row">
 <div class="col-md-2">
@@ -173,7 +183,7 @@ In V. Kindratenko (Ed.), *Numerical Computations with GPUs*, Springer Internatio
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
 
-## Refereed Conference Papers ##
+## Refereed Conference Papers {#ref-conf-papers}
 
 <div class="row">
 <div class="col-md-2">
@@ -191,7 +201,7 @@ ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF), 
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
 
-## Conference Papers / Presentations ##
+## Conference Papers / Presentations {#conf-papers}
 
 <div class="row">
 <div class="col-md-2">
@@ -352,7 +362,7 @@ Kyle E. Niemeyer, Mandhapati P. Raju, and Chih-Jen Sung.
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
 
-## Conference Posters ##
+## Conference Posters {#posters}
 
 <div class="row">
 <div class="col-md-2">
@@ -398,7 +408,7 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
 
-## PhD Dissertation ##
+## PhD Dissertation {#dissertation}
 
 <div class="row">
 <div class="col-md-2">
@@ -416,7 +426,7 @@ Department of Mechanical and Aerospace Engineering, Case Western Reserve Univers
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
 
-## Master's Thesis ##
+## Master's Thesis {#ms-thesis}
 
 <div class="row">
 <div class="col-md-2">
