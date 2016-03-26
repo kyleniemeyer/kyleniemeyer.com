@@ -16,8 +16,13 @@ Below are some of the papers my group and I have published. Additional informati
 
 ## Journal Articles ##
 
-<div class="section">
-## 2016 ##
+<div class="row">
+<div class="col-md-2">
+
+## 2016
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 ["Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3)."](/pubs/paper-wssspe3-report/)
 Daniel S. Katz, Sou-Cheng T. Choi, Kyle E. Niemeyer, James Hetherington, Frank Löffler, Dan Gunter, Ray Idaszak, Steven R. Brandt, Mark A. Miller, Sandra Gesing, Nick D. Jones, Nic Weber, Suresh Marru, Gabrielle Allen, Birgit Penzenstadler, Colin C. Venters, Ethan Davis, Lorraine Hwang, Ilian Todorov, Abani Patra, and Miguel de Val-Borro.  
@@ -29,10 +34,16 @@ Kyle E. Niemeyer, Arfon M. Smith, and Daniel S. Katz.
 Under review.  
 <i class="ai ai-arxiv fa-fw"></i> [`arXiv:1601.04734`](http://arxiv.org/abs/1601.04734) `[cs.CY]`  
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-## 2015 ##
+<div class="row">
+<div class="col-md-2">
+
+## 2015
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”](/pubs/paper-zhong-kerosene/)  
 Fengquan Zhong, Sugang Ma, Xinyu Zhang, Chih-Jen Sung, and Kyle E. Niemeyer.  
@@ -65,10 +76,16 @@ Nicholas J. Curtis, Kyle E. Niemeyer, and Chih-Jen Sung.
 *Combustion and Flame*, 162(4):1358--1374, 2015.  
 [{% icon fa-external-link fa-fw %} doi:10.1016/j.combustflame.2014.11.004](http://dx.doi.org/10.1016/j.combustflame.2014.11.004)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-## 2014 ##
+<div class="row">
+<div class="col-md-2">
+
+## 2014
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels.”](/pubs/paper-multicomponent-reduction/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
@@ -88,30 +105,48 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 [{% icon fa-external-link fa-fw %} doi:10.1016/j.jcp.2013.09.025](http://dx.doi.org/10.1016/j.jcp.2013.09.025)  
 <i class="ai ai-arxiv fa-fw"></i> [`arXiv:1309.2710`](http://arxiv.org/abs/1309.2710) `[physics.chem-ph]`
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-## 2011 ##
+<div class="row">
+<div class="col-md-2">
+
+## 2011
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“On the importance of graph search algorithms for DRGEP-based mechanism reduction methods.”](/pubs/paper-graph-search-DRGEP/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Combustion and Flame*, 158(8):1439--1443, August 2011.  
 [{% icon fa-external-link fa-fw %} doi:10.1016/j.combustflame.2010.12.010](http://dx.doi.org/10.1016/j.combustflame.2010.12.010)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2010 #
+<div class="row">
+<div class="col-md-2">
+
+## 2010
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Skeletal mechanism generation for surrogate fuels using directed relation graph with error propagation and sensitivity analysis.”](/pubs/paper-DRGEPSA/)  
 Kyle E. Niemeyer, Chih-Jen Sung, and Mandhapati P. Raju.  
 *Combustion and Flame*, 157(9):1760--1770, September 2010.  
 [{% icon fa-external-link fa-fw %} doi:10.1016/j.combustflame.2009.12.022](http://dx.doi.org/10.1016/j.combustflame.2009.12.022)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2009 #
+<div class="row">
+<div class="col-md-2">
+
+## 2009
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Three-dimensional surface texture visualization of bone tissue through epifluorescence-based serial block face imaging.”](/pubs/paper-bone-tissue-viz/)  
 C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Steyer, C. G. Patthanacharoenphon, G. J. Kazakia, D. L. Wilson, and C. J. Hernandez.  
@@ -122,33 +157,49 @@ C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Stey
 
 ## Book Chapters ##
 
-<div class="section">
+<div class="row">
+<div class="col-md-2">
 
-# 2014 #
+## 2014
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 ["GPU-Based Parallel Integration of Large Numbers of Independent ODE Systems.”](/pubs/book-chapter-GPU-ODE/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 In V. Kindratenko (Ed.), *Numerical Computations with GPUs*, Springer International Publishing, Switzerland, Ch. 8, pp. 159--182.  
 [{% icon fa-external-link fa-fw %} doi:10.1007/978-3-319-06548-9_8](http://dx.doi.org/10.1007/978-3-319-06548-9_8)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
 ## Refereed Conference Papers ##
 
-<div class="section">
-# 2014 #
+<div class="row">
+<div class="col-md-2">
+
+## 2014
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”](/pubs/conf-LTC-index/)  
 Kyle E. Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
 ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF), Columbus, IN, USA. 19--22 October 2014.  
 [{% icon fa-external-link fa-fw %} doi:10.1115/ICEF2014-5478](http://dx.doi.org/10.1115/ICEF2014-5478)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
 ## Conference Papers / Presentations ##
 
-<div class="section">
-# 2016 #
+<div class="row">
+<div class="col-md-2">
+
+## 2016
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 ["An autoignition performance comparison of chemical kinetics models for *n*-heptane"](/pubs/conf-nheptane-model-perf/)
 Kyle E. Niemeyer.  
@@ -156,10 +207,16 @@ Spring 2016 Meeting of the Western States Section of the Combustion Institute, S
 [{% icon fa-external-link fa-fw %} doi:10.6084/m9.figshare.3120724.v1](https://dx.doi.org/10.6084/m9.figshare.3120724.v1)  
 [{% icon fa-slideshare fa-fw %} Presentation](http://www.slideshare.net/kyleniemeyer/an-autoignition-performance-comparison-of-chemical-kinetics-models-for-nheptane)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2015 #
+<div class="row">
+<div class="col-md-2">
+
+## 2015
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Initial investigation of `pyJac`: an analytical Jacobian generator for chemical kinetics.”](/pubs/conf-pyJac-initial/)  
 Kyle E. Niemeyer, Nicholas J. Curtis, and Chih-Jen Sung.  
@@ -172,10 +229,16 @@ Kyle E. Niemeyer.
 15th International Conference on Numerical Combustion, Avignon, France. 19--22 April 2015.  
 [{% icon fa-slideshare fa-fw %} Presentation](http://www.slideshare.net/kyleniemeyer/icnc15-niemeyer-talk)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2014 #
+<div class="row">
+<div class="col-md-2">
+
+## 2014
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Faster Kinetics: Accelerate Your Finite-Rate Combustion Simulations with GPUs.”](/pubs/conf-faster-kinetics/)  
 Christopher P. Stone and Kyle E. Niemeyer.  
@@ -186,10 +249,16 @@ GPU Technology Conference, San Jose, CA, USA. 24--27 March 2014.
 Kyle E. Niemeyer, William J. Cannella, and Christopher L. Hagen.  
 Spring 2014 Meeting of the Western States Section of the Combustion Institute, Pasadena, CA, USA. 24--25 March 2014. Paper 14S-20.
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2013 #
+<div class="row">
+<div class="col-md-2">
+
+## 2013
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Reduced mechanisms for gasoline surrogates valid at engine conditions.”](/pubs/conf-reduced-gasoline/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
@@ -204,19 +273,31 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 51st AIAA Aerospace Sciences Meeting, Grapevine, TX, USA. 6--10 January 2013.  
 [{% icon fa-external-link fa-fw %} doi:10.2514/6.2013-371](http://dx.doi.org/10.2514/6.2013-371)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2012 #
+<div class="row">
+<div class="col-md-2">
+
+## 2012
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Recent progress and challenges in exploiting graphics processors for aeropropulsion simulations.”](/pubs/conf-recent-progress-GPUs-aero/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 Fourth International Symposium on Jet Propulsion and Power Engineering, Xi’an, China, 10--12 September 2012.
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2011 #
+<div class="row">
+<div class="col-md-2">
+
+## 2011
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Turbulence-chemistry closure method using graphics processing units: a preliminary test.”](/pubs/conf-GPU-prelim/)  
 Kyle E. Niemeyer, Chih-Jen Sung, Catalin G. Fotache, and Jeremiah C. Lee.  
@@ -231,10 +312,16 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 49th AIAA Aerospace Sciences Meeting, Orlando, FL, USA, 4--7 January 2011.  
 [{% icon fa-external-link fa-fw %} doi:10.2514/6.2011-508](http://dx.doi.org/10.2514/6.2011-508)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2010 #
+<div class="row">
+<div class="col-md-2">
+
+## 2010
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Skeletal mechanism generation of surrogate jet fuels for aero-propulsion modeling.”](/pubs/conf-skeletal-jet-fuels/)  
 Chih-Jen Sung and Kyle E. Niemeyer.  
@@ -242,10 +329,16 @@ Chih-Jen Sung and Kyle E. Niemeyer.
 _AIP Conference Proceedings_, 1233(1):1412--1417, 2010.  
 [{% icon fa-external-link fa-fw %} doi:10.1063/1.3452113](http://dx.doi.org/10.1063/1.3452113)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2009 #
+<div class="row">
+<div class="col-md-2">
+
+## 2009
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 [“Skeletal mechanism generation of surrogate fuels using directed relation graph with error propagation and sensitivity analysis.”](/pubs/conf-DRGEPSA-AIAA/)  
 Kyle E. Niemeyer, Mandhapati P. Raju, and Chih-Jen Sung.  
@@ -256,12 +349,18 @@ Kyle E. Niemeyer, Mandhapati P. Raju, and Chih-Jen Sung.
 Kyle E. Niemeyer, Mandhapati P. Raju, and Chih-Jen Sung.  
 6th National Combustion Meeting, Ann Arbor, MI, USA, 17--20 May 2009.
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
 ## Conference Posters ##
 
-<div class="section">
-# 2014 #
+<div class="row">
+<div class="col-md-2">
+
+## 2014
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 “Strategies for accelerating combustion simulations with GPUs.”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
@@ -275,10 +374,16 @@ Kyle E. Niemeyer, Shane Daly, William Cannella, and Christopher L. Hagen.
 4–8 August 2014.  
 [{% icon fa-external-link fa-fw %} doi:10.6084/m9.figshare.1128030](http://dx.doi.org/10.6084/m9.figshare.1128030)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
-<div class="section">
-# 2013 #
+<div class="row">
+<div class="col-md-2">
+
+## 2013
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
 
 “Mechanism reduction strategies for gasoline surrogate fuels”  
 Kyle E. Niemeyer and Chih-Jen Sung.  
@@ -290,29 +395,44 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 24th International Colloquium on the Dynamics of Explosions and Reactive Systems, Taipei, Taiwan. 28 July--2 August 2013.  
 [{% icon fa-file-pdf-o fa-fw %}](/assets/pubs/Niemeyer-Sung-ICDERS-poster-GPU.pdf)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
 ## PhD Dissertation ##
 
-<div class="section">
-# 2013 #
+<div class="row">
+<div class="col-md-2">
+
+## 2013
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
+
 [_Reducing the Cost of Chemistry in Reactive-Flow Simulations: Novel Mechanism Reduction Strategies and Acceleration via Graphics Processing Units_](/pubs/PhD-dissertation/)  
 Kyle E. Niemeyer  
 Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, Ohio.  
 [{% icon fa-external-link fa-fw %}](http://rave.ohiolink.edu/etdc/view?acc_num=case1378393709)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
 ## Master's Thesis ##
 
-<div class="section">
-# 2010 #
+<div class="row">
+<div class="col-md-2">
+
+## 2010
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
+
 [_Skeletal mechanism generation for surrogate fuels_](/pubs/MS-thesis/)  
 Kyle E. Niemeyer  
 Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, Ohio.  
 [{% icon fa-external-link fa-fw %}](http://rave.ohiolink.edu/etdc/view?acc_num=case1259018155)
 
-</div>
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
 -------------------
 **Copyright info:** Follow the DOI link for the official published version of the journal articles. The PDF articles posted are the final, accepted manuscript versions since most publishers do not allow the open release of the official version. If you would like such an official version (as published in the journal) and you do not have access, just [email me](mailto:kyle.niemeyer@oregonstate.edu).
