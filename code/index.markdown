@@ -4,8 +4,6 @@ section: Code
 title: Code
 ---
 
-Code
-====
 Here you can download some code I’m releasing open source.  I can’t release
 all of the primary code I work on for research due to restrictions on some of the
 components (at this time), but other smaller programs that I wrote as tools
