@@ -88,6 +88,26 @@ I keep a [blog](/blog/) on personal and research topics. Here are some recent po
 {% endfor %}
 </table>
 
+## News
+
+<table class="table table-striped">
+<tr><td>20–22 April 2015</td>
+<td>Attended and presented talk on using GPUs for chemical kinetics in combustion simulations at the <a href="http://www.nc15.ecp.fr/">15th International Conference on Numerical Combustion</a> in Avignon, France.
+</td></tr>
+<tr><td>11 April 2015</td>
+<td>My <a href="http://dx.doi.org/10.1016/j.fuel.2015.04.010">paper</a> on a new fuel performance index for low-temperature combustion with Shane Daly, William Cannella, and <a href="http://mime.oregonstate.edu/people/hagen">Christopher Hagen</a> has been accepted for publication in <i>Fuel</i>.
+</td></tr>
+<tr><td>24–26 March 2015</td>
+<td>Attended High Pressure High Reynolds Number Combustion workshop at KAUST in Saudi Arabia.
+</td></tr>
+<tr><td>20 January 2015</td>
+<td>John Timmer of <a href="http://arstechnica.com/">Ars Technica</a> interviewed me for an <a href="http://arstechnica.com/science/2015/01/the-future-of-control-putting-virtual-wind-turbines-inside-real-ones/">article about modeling fluid flows</a>.
+</td></tr>
+<tr><td></td>
+<td><a href="/research/news/">Older News →</a>
+</td></tr>
+</table>
+
 ## Writing
 
 From 2011 to 2013, I also [contributed][kylears] in my spare time (ha!) to [Scientific Method](http://arstechnica.com/science/), the science section of [Ars Technica][ars], where I reported on scientific articles covering a range of topics (e.g., energy, climate, technology) to a technically---but not necessarily scientifically---literate audience, with audiences in the tens of thousands each month.
@@ -112,4 +132,4 @@ Here are some of my favorite and popular pieces:
 </table>
 
 [kylears]: http://arstechnica.com/author/kyle-niemeyer/
-[ars]: http://arstechnica.com/
+[ars]:
