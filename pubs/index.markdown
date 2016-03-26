@@ -6,12 +6,14 @@ section: Publications
 
 Below are some of the papers my group and I have published. Additional information about my papers and citations can be found here:
 
-<i class="ai ai-orcid fa-fw"></i> [ORCID: 0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)  
-<i class="ai ai-google-scholar fa-fw"></i> [Google Scholar profile](http://scholar.google.com/citations?user=dt0KRYoAAAAJ)  
-<i class="ai ai-arxiv fa-fw"></i> arXiv: [niemeyer_k_1](http://arxiv.org/a/niemeyer_k_1)  
-<i class="ai ai-researchgate fa-fw"></i> [ResearchGate profile](https://www.researchgate.net/profile/Kyle_Niemeyer)  
-<i class="ai ai-figshare fa-fw"></i> [figShare](https://figshare.com/authors/Kyle_Niemeyer/459510)  
-{% icon fa-empire fa-fw %} [ResearcherID: B-7902-2008](http://www.researcherid.com/rid/B-7902-2008)  
+<div class="list-group" markdown="0">
+    <a class="list-group-item" href="https://orcid.org/0000-0003-4425-7097"><i class="ai ai-orcid fa-fw"></i>&nbsp;ORCID: 0000-0003-4425-7097</a>
+    <a class="list-group-item" href="http://scholar.google.com/citations?user=dt0KRYoAAAAJ"><i class="ai ai-google-scholar fa-fw"></i>&nbsp;Google Scholar profile</a>
+    <a class="list-group-item" href="http://arxiv.org/a/niemeyer_k_1"><i class="ai ai-arxiv fa-fw"></i>&nbsp;arXiv: niemeyer_k_1</a>
+    <a class="list-group-item" href="https://www.researchgate.net/profile/Kyle_Niemeyer"><i class="ai ai-researchgate fa-fw"></i>&nbsp;ResearchGate profile</a>
+    <a class="list-group-item" href="https://figshare.com/authors/Kyle_Niemeyer/459510"><i class="ai ai-figshare fa-fw"></i>&nbsp;fig<b>share</b> profile</a>
+    <a class="list-group-item" href="http://www.researcherid.com/rid/B-7902-2008"><i class="fa fa-barcode fa-fw"></i>&nbsp;ResearcherID: B-7902-2008</a>
+</div>
 
 Jump to:
 <div class="list-group">
