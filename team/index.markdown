@@ -61,12 +61,19 @@ members:
       first: "Miguel"
       last: "Soler"
     title: "MS student"
-    homepage: "http://kyleniemeyer.com/team/"
+    homepage: "http://migsoler.com"
     email: "solerm@oregonstate.edu"
     orcid: "0000-0003-1398-5171"
     github: "solerm"
     linkedin: "miguel-soler-5ba76066"
     photo: "soler-miguel.jpg"
+  - magee:
+    name:
+      first: "Daniel"
+      last: "Magee"
+    title: "MS student"
+    homepage: "http://kyleniemeyer.com/team/"
+    email: "mageed@oregonstate.edu"
   - brian:
     name:
       first: "Brian"
