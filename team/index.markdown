@@ -74,6 +74,8 @@ members:
     title: "MS student"
     homepage: "http://kyleniemeyer.com/team/"
     email: "mageed@oregonstate.edu"
+    linkedin: "daniel-magee-34001a9a"
+    github: "OSUmageed"
   - brian:
     name:
       first: "Brian"
