@@ -97,6 +97,7 @@ alumni:
     name:
       first: "Shane"
       last: "Daly"
+    photo: "shane-bio-ese-lab_0.jpg"
     title: "MS in Mechanical Engineering, Sept. 2015."
     email: "dalys@oregonstate.edu"
     homepage: "http://osucascades.edu/energy-systems-lab/people/student-researchers"
