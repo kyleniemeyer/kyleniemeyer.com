@@ -51,8 +51,9 @@ members:
     name:
       first: "Christopher"
       last: "Minar"
+    photo: "chris_minar.jpg"
     title: "MS student"
-    homepage: "http://kyleniemeyer.com/team/"
+    homepage: "http://chrisminar.github.io"
     email: "minarc@oregonstate.edu"
     github: "chrisminar"
     linkedin: "christopherminar"
