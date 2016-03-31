@@ -6,7 +6,7 @@ top: Niemeyer Research Group
 ---
 
 <div class="section">
-Download the most recent version of my CV here: [{% icon fa-file-pdf-o fa-fw %}](https://www.dropbox.com/s/iyrojgeilotjdd4/KE_Niemeyer_CV.pdf?dl=0)
+Download the most recent version of my CV here: [{% icon fa-file-pdf-o fa-fw %}](https://github.com/kyleniemeyer/cv/raw/gh-pages/KE_Niemeyer_CV.pdf)
 </div>
 
 <div class="section">
