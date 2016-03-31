@@ -13,6 +13,7 @@ Below are some of the papers my group and I have published. Additional informati
     <a class="list-group-item" href="https://www.researchgate.net/profile/Kyle_Niemeyer"><i class="ai ai-researchgate fa-fw"></i>&nbsp;ResearchGate profile</a>
     <a class="list-group-item" href="https://figshare.com/authors/Kyle_Niemeyer/459510"><i class="ai ai-figshare fa-fw"></i>&nbsp;fig<b>share</b> profile</a>
     <a class="list-group-item" href="http://www.researcherid.com/rid/B-7902-2008"><i class="fa fa-barcode fa-fw"></i>&nbsp;ResearcherID: B-7902-2008</a>
+    <a class="list-group-item" href="https://impactstory.org/KyleNiemeyer"><i class="ai ai-impactstory fa-fw"></i>&nbsp;Impactstory: KyleNiemeyer</a>
 </div>
 
 Jump to:
