@@ -61,7 +61,7 @@ Corvallis, OR 97331-6001
 </div> <!-- END col-md-6-->
 <div class="col-md-4" style="font-size:20px; text-align:center;">
 
-<a href="https://impactstory.org/KyleNiemeyer"><img src="https://impactstory.org/logo/small" width="200"/></a>
+<a href="https://impactstory.org/KyleNiemeyer"><img class="inset right" src="https://impactstory.org/logo/small" alt="Impactstory logo" width="200"/></a>
 
 </div> <!-- END col-md-4-->
 </div> <!-- END row-->
