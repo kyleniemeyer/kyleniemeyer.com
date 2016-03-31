@@ -72,6 +72,7 @@ members:
     name:
       first: "Daniel"
       last: "Magee"
+    photo: "dan-magee.png"
     title: "MS student"
     homepage: "http://kyleniemeyer.com/team/"
     email: "mageed@oregonstate.edu"
