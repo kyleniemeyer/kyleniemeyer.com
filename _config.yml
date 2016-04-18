@@ -12,7 +12,7 @@ author:
     name : Kyle Niemeyer
     email : kyle.niemeyer@gmail.com
     github : kyleniemeyer
-    twitter : kyle_niemeyer
+    twitter : kyleniemeyer
 
 kramdown:
     parse_block_html: true

@@ -14,7 +14,7 @@ members:
     phone: "541-737-7498"
     cv: "http://kyleniemeyer.com/team/CV"
     github: "kyleniemeyer"
-    twitter: "kyle_niemeyer"
+    twitter: "kyleniemeyer"
     orcid: "0000-0003-4425-7097"
     googlescholar: "http://scholar.google.com/citations?user=dt0KRYoAAAAJ"
     linkedin: "kyleniemeyer"

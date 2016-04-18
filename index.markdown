@@ -47,7 +47,7 @@ Mechanical Engineering
 <dt><i class="fa fa-phone fa-fw"></i> Office:</dt>
 <dd>541-737-5614</dd>
 <dt><i class="fa fa-twitter fa-fw"></i> Twitter:</dt>
-<dd><a href="https://twitter.com/kyle_niemeyer">@kyle_niemeyer</a></dd>
+<dd><a href="https://twitter.com/kyleniemeyer">@kyleniemeyer</a></dd>
 <dt><i class="fa fa-github fa-fw"></i> GitHub:</dt>
 <dd><a href="https://github.com/kyleniemeyer">kyleniemeyer</a></dd>
 <dt><i class="fa fa-linkedin fa-fw"></i> LinkedIn:</dt>
