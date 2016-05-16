@@ -6,6 +6,9 @@ section: Publications
 
 Below are some of the papers my group and I have published. Additional information about my papers and citations can be found here:
 
+<div class="row">
+<div class="col-md-6">
+
 <div class="list-group" markdown="0">
     <a class="list-group-item" href="https://orcid.org/0000-0003-4425-7097"><i class="ai ai-orcid fa-fw"></i>&nbsp;ORCID: 0000-0003-4425-7097</a>
     <a class="list-group-item" href="http://scholar.google.com/citations?user=dt0KRYoAAAAJ"><i class="ai ai-google-scholar fa-fw"></i>&nbsp;Google Scholar profile</a>
@@ -13,18 +16,21 @@ Below are some of the papers my group and I have published. Additional informati
     <a class="list-group-item" href="https://www.researchgate.net/profile/Kyle_Niemeyer"><i class="ai ai-researchgate fa-fw"></i>&nbsp;ResearchGate profile</a>
     <a class="list-group-item" href="https://figshare.com/authors/Kyle_Niemeyer/459510"><i class="ai ai-figshare fa-fw"></i>&nbsp;fig<b>share</b> profile</a>
     <a class="list-group-item" href="http://www.researcherid.com/rid/B-7902-2008"><i class="fa fa-barcode fa-fw"></i>&nbsp;ResearcherID: B-7902-2008</a>
-    <a class="list-group-item" href="https://impactstory.org/KyleNiemeyer"><i class="ai ai-impactstory fa-fw"></i>&nbsp;Impactstory: KyleNiemeyer</a>
+    <a class="list-group-item" href="https://impactstory.org/u/0000-0003-4425-7097"><i class="ai ai-impactstory fa-fw"></i>&nbsp;Impactstory: Kyle Niemeyer</a>
 </div>
 
 Jump to:
 <div class="list-group">
-<a href="#articles" class="list-group-item">Journal articles</a>
-<a href="#book-chapters" class="list-group-item">Book chapters</a>
-<a href="#ref-conf-papers" class="list-group-item">Refereed conference papers</a>
-<a href="#conf-papers" class="list-group-item">Conference talks & papers</a>
-<a href="#posters" class="list-group-item">Posters</a>
-<a href="#dissertation" class="list-group-item">PhD dissertation</a>
-<a href="#ms-thesis" class="list-group-item">MS thesis</a>
+<a href="#articles" class="list-group-item">{% icon fa-file-text fa-fw %} Journal articles</a>
+<a href="#book-chapters" class="list-group-item">{% icon fa-book fa-fw %} Book chapters</a>
+<a href="#ref-conf-papers" class="list-group-item">{% icon fa-file-text-o fa-fw %} Refereed conference papers</a>
+<a href="#conf-papers" class="list-group-item">{% icon fa-group fa-fw %} Conference talks & papers</a>
+<a href="#posters" class="list-group-item">{% icon fa-picture-o fa-fw %} Posters</a>
+<a href="#dissertation" class="list-group-item">{% icon fa-book fa-fw %} PhD dissertation</a>
+<a href="#ms-thesis" class="list-group-item">{% icon fa-graduation-cap fa-fw %} MS thesis</a>
+</div>
+
+</div>
 </div>
 
 ## Journal Articles {#articles}
@@ -91,7 +97,7 @@ Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Energy & Fuels*, 29(2):1172--1185, 2015.  
 [<i class="ai ai-doi fa-fw"></i> doi:10.1021/ef5022126](http://dx.doi.org/10.1021/ef5022126)  
-<i class="ai ai-arxiv fa-fw"></i> [`arXiv:1410.0401`](http://arxiv.org/abs/1410.0401) `[physics.chem-ph]`
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1410.0401`](http://arxiv.org/abs/1410.0401) `[physics.chem-ph]`
 
 [“An automated target species selection method for dynamic adaptive chemistry simulations.”](/pubs/paper-target-species-selection/)  
 Nicholas J. Curtis, Kyle E. Niemeyer, and Chih-Jen Sung.  
@@ -125,7 +131,7 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Journal of Computational Physics*, 256:854--871, 2014.  
 [<i class="ai ai-doi fa-fw"></i> doi:10.1016/j.jcp.2013.09.025](http://dx.doi.org/10.1016/j.jcp.2013.09.025)  
-<i class="ai ai-arxiv fa-fw"></i> [`arXiv:1309.2710`](http://arxiv.org/abs/1309.2710) `[physics.chem-ph]`
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1309.2710`](http://arxiv.org/abs/1309.2710) `[physics.chem-ph]`
 
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
