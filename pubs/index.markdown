@@ -32,20 +32,29 @@ Jump to:
 <div class="row">
 <div class="col-md-2">
 
-## 2016
+## Under review
 
 </div> <!-- END col-md-2-->
 <div class="col-md-10">
 
-["Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3)."](/pubs/paper-wssspe3-report/)
+["`pyJac`: analytical Jacobian generator for chemical kinetics."](/pubs/paper-pyjac/)  
+Kyle E. Niemeyer, Nicholas J. Curtis, and Chih-Jen Sung.  
+Under review.  
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1605.03262`](http://arxiv.org/abs/1605.03262) `[physics.comp-ph]`  
+
+["Predicting fuel research octane number using Fourier-transform infrared absorption spectra of neat hydrocarbons."](/pubs/paper-RON-FTIR)  
+Shane R. Daly, Kyle E. Niemeyer, William J. Cannella, and Christopher L. Hagen.  
+Under review.  
+
+["Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3)."](/pubs/paper-wssspe3-report/)  
 Daniel S. Katz, Sou-Cheng T. Choi, Kyle E. Niemeyer, James Hetherington, Frank Löffler, Dan Gunter, Ray Idaszak, Steven R. Brandt, Mark A. Miller, Sandra Gesing, Nick D. Jones, Nic Weber, Suresh Marru, Gabrielle Allen, Birgit Penzenstadler, Colin C. Venters, Ethan Davis, Lorraine Hwang, Ilian Todorov, Abani Patra, and Miguel de Val-Borro.  
 Under review.  
-<i class="ai ai-arxiv fa-fw"></i> [`arXiv:1602.02296`](http://arxiv.org/abs/1602.02296) `[cs.SE]`  
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1602.02296`](http://arxiv.org/abs/1602.02296) `[cs.SE]`  
 
 [“The challenge and promise of software citation for credit, identification, discovery, and reuse.”](/pubs/paper-sc-challenge/)  
 Kyle E. Niemeyer, Arfon M. Smith, and Daniel S. Katz.  
 Under review.  
-<i class="ai ai-arxiv fa-fw"></i> [`arXiv:1601.04734`](http://arxiv.org/abs/1601.04734) `[cs.CY]`  
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1601.04734`](http://arxiv.org/abs/1601.04734) `[cs.CY]`  
 
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
@@ -61,33 +70,33 @@ Under review.
 [“Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate.”](/pubs/paper-zhong-kerosene/)  
 Fengquan Zhong, Sugang Ma, Xinyu Zhang, Chih-Jen Sung, and Kyle E. Niemeyer.  
 *Acta Mechanica Sinica*, 31(5):732--740, 2015.  
-[{% icon fa-external-link fa-fw %} doi:10.1007/s10409-015-0434-5](http://dx.doi.org/10.1007/s10409-015-0434-5)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1007/s10409-015-0434-5](http://dx.doi.org/10.1007/s10409-015-0434-5)
 
 [“Counterflow ignition of *n*-butanol at atmospheric and elevated pressures.”](/pubs/paper-n-butanol-counterflow/)  
 Kyle B. Brady, Xin Hui, Chih-Jen Sung, and Kyle E. Niemeyer.  
 *Combustion and Flame*, 162(10):3596--3611, 2015.  
-[{% icon fa-external-link fa-fw %} doi:10.1016/j.combustflame.2015.06.017](http://dx.doi.org/10.1016/j.combustflame.2015.06.017)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1016/j.combustflame.2015.06.017](http://dx.doi.org/10.1016/j.combustflame.2015.06.017)
 
 [“Investigation of the LTC fuel performance index for oxygenated reference fuel blends.”](/pubs/paper-LTC-index-oxygenated/)  
 Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
 *Fuel*, 155:14--24, 2015.  
-[{% icon fa-external-link fa-fw %} doi:10.1016/j.fuel.2015.04.010](http://dx.doi.org/10.1016/j.fuel.2015.04.010)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1016/j.fuel.2015.04.010](http://dx.doi.org/10.1016/j.fuel.2015.04.010)
 
 [“A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”](/pubs/paper-LTC-index/)  
 Kyle E Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
 *Journal of Engineering for Gas Turbines and Power*, 137(10):101601, 2015.  
-[{% icon fa-external-link fa-fw %} doi:10.1115/1.4029948](http://dx.doi.org/10.1115/1.4029948)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1115/1.4029948](http://dx.doi.org/10.1115/1.4029948)
 
 [“Reduced chemistry for a gasoline surrogate valid at engine-relevant conditions.”](/pubs/paper-reduced-gasoline-surrogate/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Energy & Fuels*, 29(2):1172--1185, 2015.  
-[{% icon fa-external-link fa-fw %} doi:10.1021/ef5022126](http://dx.doi.org/10.1021/ef5022126)  
+[<i class="ai ai-doi fa-fw"></i> doi:10.1021/ef5022126](http://dx.doi.org/10.1021/ef5022126)  
 <i class="ai ai-arxiv fa-fw"></i> [`arXiv:1410.0401`](http://arxiv.org/abs/1410.0401) `[physics.chem-ph]`
 
 [“An automated target species selection method for dynamic adaptive chemistry simulations.”](/pubs/paper-target-species-selection/)  
 Nicholas J. Curtis, Kyle E. Niemeyer, and Chih-Jen Sung.  
 *Combustion and Flame*, 162(4):1358--1374, 2015.  
-[{% icon fa-external-link fa-fw %} doi:10.1016/j.combustflame.2014.11.004](http://dx.doi.org/10.1016/j.combustflame.2014.11.004)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1016/j.combustflame.2014.11.004](http://dx.doi.org/10.1016/j.combustflame.2014.11.004)
 
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
@@ -103,19 +112,19 @@ Nicholas J. Curtis, Kyle E. Niemeyer, and Chih-Jen Sung.
 [“Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels.”](/pubs/paper-multicomponent-reduction/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Combustion and Flame*, 161(11):2752--2764, 2014.  
-[{% icon fa-external-link fa-fw %} doi:10.1016/j.combustflame.2014.05.001](http://dx.doi.org/10.1016/j.combustflame.2014.05.001)  
-<i class="ai ai-arxiv fa-fw"></i> [`arXiv:1405.3745`](http://arxiv.org/abs/1405.3745) `[physics.chem-ph]`
+[<i class="ai ai-doi fa-fw"></i> doi:10.1016/j.combustflame.2014.05.001](http://dx.doi.org/10.1016/j.combustflame.2014.05.001)  
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1405.3745`](http://arxiv.org/abs/1405.3745) `[physics.chem-ph]`
 
 [“Recent progress and challenges in exploiting graphics processors in computational fluid dynamics.”](/pubs/paper-GPU-CFD-review/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Journal of Supercomputing*, 67(2):528--564, 2014.  
-[{% icon fa-external-link fa-fw %} doi:10.1007/s11227-013-1015-7](http://dx.doi.org/10.1007/s11227-013-1015-7)  
-<i class="ai ai-arxiv fa-fw"></i> [`arXiv:1309.3018`](http://arxiv.org/abs/1309.3018) `[physics.flu-dyn]`
+[<i class="ai ai-doi fa-fw"></i> doi:10.1007/s11227-013-1015-7](http://dx.doi.org/10.1007/s11227-013-1015-7)  
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1309.3018`](http://arxiv.org/abs/1309.3018) `[physics.flu-dyn]`
 
 [“Accelerating moderately stiff chemical kinetics in reactive-flow simulations using GPUs.”](/pubs/paper-moderately-stiff-GPU/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Journal of Computational Physics*, 256:854--871, 2014.  
-[{% icon fa-external-link fa-fw %} doi:10.1016/j.jcp.2013.09.025](http://dx.doi.org/10.1016/j.jcp.2013.09.025)  
+[<i class="ai ai-doi fa-fw"></i> doi:10.1016/j.jcp.2013.09.025](http://dx.doi.org/10.1016/j.jcp.2013.09.025)  
 <i class="ai ai-arxiv fa-fw"></i> [`arXiv:1309.2710`](http://arxiv.org/abs/1309.2710) `[physics.chem-ph]`
 
 </div> <!-- END col-md-10-->
@@ -132,7 +141,7 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 [“On the importance of graph search algorithms for DRGEP-based mechanism reduction methods.”](/pubs/paper-graph-search-DRGEP/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 *Combustion and Flame*, 158(8):1439--1443, August 2011.  
-[{% icon fa-external-link fa-fw %} doi:10.1016/j.combustflame.2010.12.010](http://dx.doi.org/10.1016/j.combustflame.2010.12.010)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1016/j.combustflame.2010.12.010](http://dx.doi.org/10.1016/j.combustflame.2010.12.010)
 
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
@@ -148,7 +157,7 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 [“Skeletal mechanism generation for surrogate fuels using directed relation graph with error propagation and sensitivity analysis.”](/pubs/paper-DRGEPSA/)  
 Kyle E. Niemeyer, Chih-Jen Sung, and Mandhapati P. Raju.  
 *Combustion and Flame*, 157(9):1760--1770, September 2010.  
-[{% icon fa-external-link fa-fw %} doi:10.1016/j.combustflame.2009.12.022](http://dx.doi.org/10.1016/j.combustflame.2009.12.022)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1016/j.combustflame.2009.12.022](http://dx.doi.org/10.1016/j.combustflame.2009.12.022)
 
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
@@ -164,7 +173,7 @@ Kyle E. Niemeyer, Chih-Jen Sung, and Mandhapati P. Raju.
 [“Three-dimensional surface texture visualization of bone tissue through epifluorescence-based serial block face imaging.”](/pubs/paper-bone-tissue-viz/)  
 C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Steyer, C. G. Patthanacharoenphon, G. J. Kazakia, D. L. Wilson, and C. J. Hernandez.  
 *Journal of Microscopy*, 236(1):52--59, October 2009.  
-[{% icon fa-external-link fa-fw %} doi:10.1111/j.1365-2818.2009.03204.x](http://dx.doi.org/10.1111/j.1365-2818.2009.03204.x)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1111/j.1365-2818.2009.03204.x](http://dx.doi.org/10.1111/j.1365-2818.2009.03204.x)
 
 </div>
 
@@ -181,7 +190,7 @@ C. R. Slyfield Jr., K. E. Niemeyer, E. V. Tkachenko, R. E. Tomlinson, G. G. Stey
 ["GPU-Based Parallel Integration of Large Numbers of Independent ODE Systems.”](/pubs/book-chapter-GPU-ODE/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
 In V. Kindratenko (Ed.), *Numerical Computations with GPUs*, Springer International Publishing, Switzerland, Ch. 8, pp. 159--182.  
-[{% icon fa-external-link fa-fw %} doi:10.1007/978-3-319-06548-9_8](http://dx.doi.org/10.1007/978-3-319-06548-9_8)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1007/978-3-319-06548-9_8](http://dx.doi.org/10.1007/978-3-319-06548-9_8)
 
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
@@ -199,7 +208,7 @@ In V. Kindratenko (Ed.), *Numerical Computations with GPUs*, Springer Internatio
 [“A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations.”](/pubs/conf-LTC-index/)  
 Kyle E. Niemeyer, Shane R. Daly, William J. Cannella, and Christopher L. Hagen.  
 ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF), Columbus, IN, USA. 19--22 October 2014.  
-[{% icon fa-external-link fa-fw %} doi:10.1115/ICEF2014-5478](http://dx.doi.org/10.1115/ICEF2014-5478)
+[<i class="ai ai-doi fa-fw"></i> doi:10.1115/ICEF2014-5478](http://dx.doi.org/10.1115/ICEF2014-5478)
 
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
@@ -214,10 +223,15 @@ ASME 2014 Internal Combustion Engine Division Fall Technical Conference (ICEF), 
 </div> <!-- END col-md-2-->
 <div class="col-md-10">
 
+["Investigation of GPU-based immersed boundary method solvers with direct forcing"](/pubs/conf-GPU-IBM/)  
+Christopher S. Minar and Kyle E. Niemeyer.  
+28th International Conference on Parallel Computational Fluid Dynamics. 9--12 May 2016.  
+[<i class="ai ai-doi fa-fw"></i> doi:10.6084/m9.figshare.3365383](https://dx.doi.org/10.6084/m9.figshare.3365383)  
+
 ["An autoignition performance comparison of chemical kinetics models for *n*-heptane"](/pubs/conf-nheptane-model-perf/)  
 Kyle E. Niemeyer.  
 Spring 2016 Meeting of the Western States Section of the Combustion Institute, Seattle, WA, USA. 21--22 March 2016. Paper 139KI-0028.  
-[{% icon fa-external-link fa-fw %} doi:10.6084/m9.figshare.3120724.v1](https://dx.doi.org/10.6084/m9.figshare.3120724.v1)  
+[<i class="ai ai-doi fa-fw"></i> doi:10.6084/m9.figshare.3120724.v1](https://dx.doi.org/10.6084/m9.figshare.3120724.v1)  
 [{% icon fa-slideshare fa-fw %} Presentation](http://www.slideshare.net/kyleniemeyer/an-autoignition-performance-comparison-of-chemical-kinetics-models-for-nheptane)
 
 </div> <!-- END col-md-10-->
