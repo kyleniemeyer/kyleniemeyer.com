@@ -61,7 +61,7 @@ Corvallis, OR 97331-6001
 </div> <!-- END col-md-6-->
 <div class="col-md-4" style="font-size:20px; text-align:center;">
 
-<a href="https://impactstory.org/KyleNiemeyer"><img class="inset right" src="https://impactstory.org/logo/small" alt="Impactstory logo" width="200"/></a>
+<a href="https://impactstory.org/u/0000-0003-4425-7097"><img class="inset right" src="https://impactstory.org/logo/small" alt="Impactstory logo" width="200"/></a>
 
 </div> <!-- END col-md-4-->
 </div> <!-- END row-->
@@ -115,7 +115,7 @@ I keep a [blog](/blog/) on personal and research topics. Here are some recent po
 
 ## Writing
 
-From 2011 to 2013, I also [contributed][kylears] in my spare time (ha!) to [Scientific Method](http://arstechnica.com/science/), the science section of [Ars Technica][ars], where I reported on scientific articles covering a range of topics (e.g., energy, climate, technology) to a technically---but not necessarily scientifically---literate audience, with audiences in the tens of thousands each month.
+From 2011 to 2013, I also [contributed](https://arstechnica.com/author/kyle-niemeyer/) in my spare time (ha!) to [Scientific Method](https://arstechnica.com/science/), the science section of [Ars Technica](https://arstechnica.com), where I reported on scientific articles covering a range of topics (e.g., energy, climate, technology) to a technically---but not necessarily scientifically---literate audience, with audiences in the tens of thousands each month.
 
 Here are some of my favorite and popular pieces:
 
@@ -135,6 +135,3 @@ Here are some of my favorite and popular pieces:
 <tr><td>29 Jul 2011</td>
 <td><a href="http://arstechnica.com/science/2011/07/what-makes-the-fuel-go-boom-turbulence/">"What makes the fuel go boom? Turbulence!"</a></td></tr>
 </table>
-
-[kylears]: http://arstechnica.com/author/kyle-niemeyer/
-[ars]:
