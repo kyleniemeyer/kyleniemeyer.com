@@ -96,6 +96,9 @@ I keep a [blog](/blog/) on personal and research topics. Here are some recent po
 ## News
 
 <table class="table table-striped">
+<tr><td>9–13 May 2016</td>
+<td>Attended and <a href="https://dx.doi.org/10.6084/m9.figshare.3365383">presented a talk</a> on our work on a GPU-based immersed boundary method solver for modeling fluid-structure interaction at <a href="http://www.conf.kit.ac.jp/parcfd2016/">Parallel CFD 2016</a> in Kobe, Japan.
+</td></tr>
 <tr><td>20–22 April 2015</td>
 <td>Attended and presented talk on using GPUs for chemical kinetics in combustion simulations at the <a href="http://www.nc15.ecp.fr/">15th International Conference on Numerical Combustion</a> in Avignon, France.
 </td></tr>
