@@ -299,7 +299,8 @@ Kyle E. Niemeyer and Chih-Jen Sung.
 
 [“Accelerating stiff chemical kinetics in combustion simulations using GPUs.”](/pubs/conf-stiff-kinetics-GPU/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  
-14th International Conference on Numerical Combustion, San Antonio, TX, USA. 8--10 April 2013.
+14th International Conference on Numerical Combustion, San Antonio, TX, USA. 8--10 April 2013.  
+[{% icon fa-video-camera fa-fw %} Presentation](https://www.pathlms.com/siam/courses/2379/sections/3009/video_presentations/24260)
 
 [“Accelerating reactive-flow simulations using graphics processing units.”](/pubs/conf-reactive-flow-GPU/)  
 Kyle E. Niemeyer and Chih-Jen Sung.  

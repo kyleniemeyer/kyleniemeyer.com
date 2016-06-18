@@ -8,7 +8,7 @@ author: "Kyle E. Niemeyer and Chih-Jen Sung"
 date: 2013
 conference: "14th International Conference on Numerical Combustion"
 citation: "Kyle E. Niemeyer and Chih-Jen Sung (2013), Accelerating stiff chemical kinetics in combustion simulations using GPUs, 14th International Conference on Numerical Combustion, San Antonio, TX, USA. 8--10 April 2013."
-slides: "https://client.blueskybroadcast.com/SIAM13/NC/siam_nc13_MS8_2/"
+slides: "https://www.pathlms.com/siam/courses/2379/sections/3009/video_presentations/24260"
 ---
 
 ## Abstract
