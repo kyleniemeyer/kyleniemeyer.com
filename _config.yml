@@ -6,7 +6,7 @@ permalink   : pretty
 markdown    : kramdown
 include     : [".htaccess"]
 exclude	    : ["rsync-site.sh", ".git", ".gitignore", "Gemfile", "Gemfile.lock", "script", "vendor", "tmp"]
-url         : "http://kyle.niemeyer.com"
+url         : "http://kyleniemeyer.com"
 
 author:
     name : Kyle Niemeyer
