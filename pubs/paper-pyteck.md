@@ -2,7 +2,7 @@
 layout: pub
 section: Publications
 top: Publications
-permalink: /pubs/pyteck/
+permalink: /pubs/paper-pyteck/
 title: "PyTeCK: a Python-based automatic testing package for chemical kinetic models"
 author: "Kyle E. Niemeyer"
 date: 2016
