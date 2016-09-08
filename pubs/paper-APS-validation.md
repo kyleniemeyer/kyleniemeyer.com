@@ -8,7 +8,7 @@ author: "Miguel F. Soler and Kyle E. Niemeyer"
 date: 2016
 journal:
 doi:
-url: https://hal.archives-ouvertes.fr/hal-01320466
+url: https://osf.io/wca5h/
 supplement:
 citation: "Miguel F. Soler and Kyle E. Niemeyer (2016), Validation of an approach for detecting arc position measurements during vacuum arc remelting based on magnetic flux density measurements"
 pdf:
