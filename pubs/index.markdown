@@ -236,7 +236,8 @@ In V. Kindratenko (Ed.), *Numerical Computations with GPUs*, Springer Internatio
 
 [“PyTeCK: a Python-based automatic testing package for chemical kinetic models.”](/pubs/paper-pyteck/)  
 Kyle E. Niemeyer.  
-15th Python in Science Conference (SciPy 2016), Austin, TX, USA. 11--17 July 2016.  
+15th Python in Science Conference (SciPy 2016), pp. 82--89. Austin, TX, USA. 11--17 July 2016.  
+[{% icon fa-external-link fa-fw %} Paper](http://conference.scipy.org/proceedings/scipy2016/kyle_niemeyer.html)  
 [{% icon fa-video-camera fa-fw %} Presentation](https://www.youtube.com/watch?v=Ke3Ip25C4pY&index=25&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)  
 
 </div> <!-- END col-md-10-->
