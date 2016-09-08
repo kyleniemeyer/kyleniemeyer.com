@@ -43,24 +43,47 @@ Jump to:
 </div> <!-- END col-md-2-->
 <div class="col-md-10">
 
+["An investigation of GPU-based stiff chemical kinetics integration methods."](/pubs/paper-GPU-stiff-integrators/)  
+Nicholas J. Curtis, Kyle E. Niemeyer, and Chih-Jen Sung.  
+Under review.  
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1607.03884`](http://arxiv.org/abs/1607.03884) `[physics.comp-ph]`
+
+["Validation of an approach for detecting arc position measurements during vacuum arc remelting based on magnetic flux density measurements."](/pubs/paper-APS-validation/)  
+Miguel F. Soler and Kyle E. Niemeyer.  
+Under review.  
+<[{% icon fa-external-link fa-fw %} hal-01320466](https://hal.archives-ouvertes.fr/hal-01320466)>
+
 ["`pyJac`: analytical Jacobian generator for chemical kinetics."](/pubs/paper-pyjac/)  
 Kyle E. Niemeyer, Nicholas J. Curtis, and Chih-Jen Sung.  
 Under review.  
-[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1605.03262`](http://arxiv.org/abs/1605.03262) `[physics.comp-ph]`  
-
-["Predicting fuel research octane number using Fourier-transform infrared absorption spectra of neat hydrocarbons."](/pubs/paper-RON-FTIR)  
-Shane R. Daly, Kyle E. Niemeyer, William J. Cannella, and Christopher L. Hagen.  
-Under review.  
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1605.03262`](http://arxiv.org/abs/1605.03262) `[physics.comp-ph]`
 
 ["Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3)."](/pubs/paper-wssspe3-report/)  
 Daniel S. Katz, Sou-Cheng T. Choi, Kyle E. Niemeyer, James Hetherington, Frank Löffler, Dan Gunter, Ray Idaszak, Steven R. Brandt, Mark A. Miller, Sandra Gesing, Nick D. Jones, Nic Weber, Suresh Marru, Gabrielle Allen, Birgit Penzenstadler, Colin C. Venters, Ethan Davis, Lorraine Hwang, Ilian Todorov, Abani Patra, and Miguel de Val-Borro.  
 Under review.  
 [<i class="ai ai-arxiv fa-fw"></i> `arXiv:1602.02296`](http://arxiv.org/abs/1602.02296) `[cs.SE]`  
 
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
+
+<div class="row">
+<div class="col-md-2">
+
+## 2016
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
+
 [“The challenge and promise of software citation for credit, identification, discovery, and reuse.”](/pubs/paper-sc-challenge/)  
 Kyle E. Niemeyer, Arfon M. Smith, and Daniel S. Katz.  
-Under review.  
+*ACM Journal of Data and Information Quality*, in press.  
 [<i class="ai ai-arxiv fa-fw"></i> `arXiv:1601.04734`](http://arxiv.org/abs/1601.04734) `[cs.CY]`  
+
+["Predicting fuel research octane number using Fourier-transform infrared absorption spectra of neat hydrocarbons."](/pubs/paper-RON-FTIR)  
+Shane R. Daly, Kyle E. Niemeyer, William J. Cannella, and Christopher L. Hagen.  
+*Fuel*, 183: 359--365, 2016.  
+[<i class="ai ai-doi fa-fw"></i> doi:10.1016/j.fuel.2016.06.097](https://dx.doi.org/10.1016/j.fuel.2016.06.097)  
+[<i class="ai ai-arxiv fa-fw"></i> `arXiv:1606.07122`](http://arxiv.org/abs/1606.07122) `[physics.chem-ph]`
 
 </div> <!-- END col-md-10-->
 </div> <!-- END row-->
@@ -202,6 +225,22 @@ In V. Kindratenko (Ed.), *Numerical Computations with GPUs*, Springer Internatio
 </div> <!-- END row-->
 
 ## Refereed Conference Papers {#ref-conf-papers}
+
+<div class="row">
+<div class="col-md-2">
+
+## 2016
+
+</div> <!-- END col-md-2-->
+<div class="col-md-10">
+
+[“PyTeCK: a Python-based automatic testing package for chemical kinetic models.”](/pubs/paper-pyteck/)  
+Kyle E. Niemeyer.  
+15th Python in Science Conference (SciPy 2016), Austin, TX, USA. 11--17 July 2016.  
+[{% icon fa-video-camera fa-fw %} Presentation](https://www.youtube.com/watch?v=Ke3Ip25C4pY&index=25&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)  
+
+</div> <!-- END col-md-10-->
+</div> <!-- END row-->
 
 <div class="row">
 <div class="col-md-2">
