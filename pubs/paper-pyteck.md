@@ -20,10 +20,10 @@ Combustion simulations require detailed chemical kinetic models to predict fuel 
 ## BibTeX
 
     @inproceedings{kyle_niemeyer-proc-scipy-2016,
-        Author = {{K}yle {E}. {N}iemeyer},
-        Booktitle = {{P}roceedings of the 15th {P}ython in {S}cience {C}onference},
-        Editor = {{S}ebastian {B}enthall and {S}cott {R}ostrup},
+        Author = {Kyle E Niemeyer},
+        Booktitle = {Proceedings of the 15th Python in Science Conference},
+        Editor = {Sebastian Benthall and Scott Rostrup},
         Pages = {82--89},
-        Title = {{P}y{T}e{C}{K}: a {P}ython-based automatic testing package for chemical kinetic models},
-        Year = {2016}
+        Title = /\{/\{PyTeCK}: a {Python}-based automatic testing package for chemical kinetic models},
+        Year = 2016
     }
