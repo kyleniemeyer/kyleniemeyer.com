@@ -100,7 +100,7 @@ I keep a [blog](/blog/) on personal and research topics. Here are some recent po
 <td>Attended and <a href="https://dx.doi.org/10.6084/m9.figshare.3365383">presented a talk</a> on our work on a GPU-based immersed boundary method solver for modeling fluid-structure interaction at <a href="http://www.conf.kit.ac.jp/parcfd2016/">Parallel CFD 2016</a> in Kobe, Japan.
 </td></tr>
 <tr><td>20–22 April 2015</td>
-<td>Attended and presented talk on using GPUs for chemical kinetics in combustion simulations at the <a href="http://www.nc15.ecp.fr/">15th International Conference on Numerical Combustion</a> in Avignon, France.
+<td>Attended and [presented talk](/pubs/conf-GPU-NC/) on using GPUs for chemical kinetics in combustion simulations at the 15th International Conference on Numerical Combustion in Avignon, France.
 </td></tr>
 <tr><td>11 April 2015</td>
 <td>My <a href="http://dx.doi.org/10.1016/j.fuel.2015.04.010">paper</a> on a new fuel performance index for low-temperature combustion with Shane Daly, William Cannella, and <a href="http://mime.oregonstate.edu/people/hagen">Christopher Hagen</a> has been accepted for publication in <i>Fuel</i>.
