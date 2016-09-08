@@ -23,8 +23,8 @@ A novel implementation for the skeletal reduction of large detailed reaction mec
         Title = {Skeletal Mechanism Generation of Surrogate Fuels Using Directed Relation Graph with Error Propagation and Sensitivity Analysis},
         Booktitle = {Proceedings of the 45th AIAA/ASME/SAE/ASEE Joint Propulsion Conference & Exhibit},
         Month = aug,
-        Number = {{AIAA 2009-5495}},
+        Number = /\{/\{AIAA} 2009-5495},
         Location = {Denver, CO, USA},
-        Year = {2009},
+        Year = 2009,
         Doi = {10.2514/6.2009-5495}
     }
