@@ -74,14 +74,14 @@ members:
     orcid: "0000-0001-9152-3656"
   - matt:
     name:
-      first: "Matt"
-      last: "Zaiger"
-      title: "MS student"
-      email: "zaigerm@oregonstate.edu"
-      homepage: "http://kyleniemeyer.com/team/"
-      orcid: "0000-0003-0469-1059"
-      details: >
-          Co-advised with [Prof. David Blunck](http://research.engr.oregonstate.edu/blunckgroup/).
+        first: "Matt"
+        last: "Zaiger"
+    title: "MS student"
+    email: "zaigerm@oregonstate.edu"
+    homepage: "http://kyleniemeyer.com/team/"
+    orcid: "0000-0003-0469-1059"
+    details: >
+        Co-advised with [Prof. David Blunck](http://research.engr.oregonstate.edu/blunckgroup/).
   - himakar:
     name:
       first: "Himakar"
