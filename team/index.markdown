@@ -24,15 +24,6 @@ members:
         In my free time, I enjoy running and weightlifting, immersive video
         games, training in Muay Thai (Thai boxing), and discovering the
         Northwest's multitude of IPAs.
-  - himakar:
-    name:
-      first: "Himakar"
-      last: "Ganti"
-    title: "PhD student"
-    homepage: "http://kyleniemeyer.com/team/"
-    email: "gantih@oregonstate.edu"
-    github: "himakarganti"
-    linkedin: "himakar-ganti-8ab319a"
   - fillo:
     name:
       first: "Aaron"
@@ -81,13 +72,25 @@ members:
     linkedin: "daniel-magee-34001a9a"
     github: "OSUmageed"
     orcid: "0000-0001-9152-3656"
-  - brian:
+  - matt:
     name:
-      first: "Brian"
-      last: "Butcher"
-    title: "Undergraduate research assistant"
+      first: "Matt"
+      last: "Zaiger"
+      title: "MS student"
+      email: "zaigerm@oregonstate.edu"
+      homepage: "http://kyleniemeyer.com/team/"
+      orcid: "0000-0003-0469-1059"
+      details: >
+          Co-advised with [Prof. David Blunck](http://research.engr.oregonstate.edu/blunckgroup/).
+  - himakar:
+    name:
+      first: "Himakar"
+      last: "Ganti"
+    title: "MS student"
     homepage: "http://kyleniemeyer.com/team/"
-    email: "butchebr@oregonstate.edu"
+    email: "gantih@oregonstate.edu"
+    github: "himakarganti"
+    linkedin: "himakar-ganti-8ab319a"
   - parker:
     name:
       first: "Parker"
@@ -97,16 +100,7 @@ members:
     email: "claytonp@oregonstate.edu"
     homepage: "http://parkerclayton.net/"
     linkedin: "parkerdclayton"
-  - matt:
-    name:
-      first: "Matt"
-      last: "Zaiger"
-      title: "Graduate research assistant"
-      email:
-      homepage: "http://kyleniemeyer.com/team/"
-      orcid: "0000-0003-0469-1059"
-      details: >
-          Co-advised with [Prof. David Blunck](http://research.engr.oregonstate.edu/blunckgroup/).
+    github: "parkerclayton"
 alumni:
   - shane:
     name:
@@ -118,6 +112,13 @@ alumni:
     homepage: "http://osucascades.edu/energy-systems-lab/people/student-researchers"
     details: >
         Co-advised with [Prof. Christopher Hagen](http://osucascades.edu/energy-systems-lab/dr-christopher-hagen).
+  - brian:
+    name:
+      first: "Brian"
+      last: "Butcher"
+    title: "Undergraduate research assistant"
+    homepage: "http://kyleniemeyer.com/team/"
+    email: "butchebr@oregonstate.edu"
 ---
 
 {% for member in page.members %}
