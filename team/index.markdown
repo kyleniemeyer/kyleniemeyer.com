@@ -43,6 +43,7 @@ members:
     email: "filloa@oregonstate.edu"
     linkedin: "aaron-fillo-63789b94"
     researchgate: "Aaron_Fillo"
+    orcid: "0000-0003-0740-4086"
     interests: >
         Turbulent premixed combustion experiments and modeling.
     details: >
@@ -57,6 +58,7 @@ members:
     email: "minarc@oregonstate.edu"
     github: "chrisminar"
     linkedin: "christopherminar"
+    orcid: "0000-0002-8163-5758"
   - soler:
     name:
       first: "Miguel"
@@ -78,6 +80,7 @@ members:
     email: "mageed@oregonstate.edu"
     linkedin: "daniel-magee-34001a9a"
     github: "OSUmageed"
+    orcid: "0000-0001-9152-3656"
   - brian:
     name:
       first: "Brian"
@@ -89,10 +92,21 @@ members:
     name:
       first: "Parker"
       last: "Clayton"
+    photo: "clayton.jpg"
     title: "Undergraduate research assistant"
     email: "claytonp@oregonstate.edu"
     homepage: "http://parkerclayton.net/"
     linkedin: "parkerdclayton"
+  - matt:
+    name:
+      first: "Matt"
+      last: "Zaiger"
+      title: "Graduate research assistant"
+      email:
+      homepage: "http://kyleniemeyer.com/team/"
+      orcid: "0000-0003-0469-1059"
+      details: >
+          Co-advised with [Prof. David Blunck](http://research.engr.oregonstate.edu/blunckgroup/).
 alumni:
   - shane:
     name:
