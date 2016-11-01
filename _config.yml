@@ -5,7 +5,7 @@ highlighter : pygments
 permalink   : pretty
 markdown    : kramdown
 include     : [".htaccess"]
-exclude	    : ["rsync-site.sh", ".git", ".gitignore", "Gemfile", "Gemfile.lock", "script", "vendor", "tmp"]
+exclude	    : ["rsync-site.sh", ".git", ".gitignore", "Gemfile", "Gemfile.lock", "script", "vendor", "tmp", "research/news/timeline-test.html"]
 url         : "http://kyleniemeyer.com"
 
 author:
