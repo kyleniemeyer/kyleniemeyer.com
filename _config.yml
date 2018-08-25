@@ -1,21 +1,23 @@
 ---
 destination : _site
 lsi         : false
-highlighter : pygments
+highlighter : rouge
 permalink   : pretty
 markdown    : kramdown
 include     : [".htaccess"]
 exclude	    : ["rsync-site.sh", ".git", ".gitignore", "Gemfile", "Gemfile.lock", "script", "vendor", "tmp", "research/news/timeline-test.html"]
-url         : "http://kyleniemeyer.com"
+url         : "https://kyleniemeyer.com"
+
+repository: kyleniemeyer/kyleniemeyer.com
 
 author:
-    name : Kyle Niemeyer
-    email : kyle.niemeyer@gmail.com
-    github : kyleniemeyer
-    twitter : kyleniemeyer
+  name: Kyle Niemeyer
+  email: kyle.niemeyer@gmail.com
+  github: kyleniemeyer
+  twitter: kyleniemeyer
 
 kramdown:
-    parse_block_html: true
+  parse_block_html: true
 
-gems:
+plugins:
   - jekyll-seo-tag
