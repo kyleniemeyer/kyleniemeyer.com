@@ -31,7 +31,6 @@ and Research blog](/blog/) in reverse chronological order.
 				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
 			}
 		}
-		document.write('<script type="text/javascript" src="http://disqus.com/forums/kyleniemeyer/get_num_replies.js' + query + '"></' + 'script>');
 	})();
 //]]>
 </script>
