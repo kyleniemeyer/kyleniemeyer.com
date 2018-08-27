@@ -1,51 +1,75 @@
+==================================================================
 https://keybase.io/kyleniemeyer
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://kyleniemeyer.com
+  * I am an admin of https://kyleniemeyer.com
   * I am kyleniemeyer (https://keybase.io/kyleniemeyer) on keybase.
-  * I have a public key ASCEECZJDyz2kv4AxvyVMZQJTTbdXNMtSAIbZ9MeNdDXggo
+  * I have a public key with fingerprint D94A A5A6 AA4A 70CF 3118  5380 C654 D13A C6F9 EDA8
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0120841026490f2cf692fe00c6fc953194094d36dd5cd32d48021b67d31e35d0d7820a",
-            "host": "keybase.io",
-            "kid": "0120841026490f2cf692fe00c6fc953194094d36dd5cd32d48021b67d31e35d0d7820a",
-            "uid": "0f99fc586f2415b22d70cfb6087ada19",
-            "username": "kyleniemeyer"
-        },
-        "service": {
-            "hostname": "kyleniemeyer.com",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0120841026490f2cf692fe00c6fc953194094d36dd5cd32d48021b67d31e35d0d7820a",
+      "fingerprint": "d94aa5a6aa4a70cf31185380c654d13ac6f9eda8",
+      "host": "keybase.io",
+      "key_id": "c654d13ac6f9eda8",
+      "kid": "01010df75a29d998d8d282116bde965c6dbb76dabddf450cb1c4632d47d35c027ba60a",
+      "uid": "0f99fc586f2415b22d70cfb6087ada19",
+      "username": "kyleniemeyer"
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.14"
+    "service": {
+      "hostname": "kyleniemeyer.com",
+      "protocol": "https:"
     },
-    "ctime": 1458668429,
-    "expire_in": 504576000,
-    "merkle_root": {
-        "ctime": 1458668416,
-        "hash": "8d20ccc1c0ac74e64760934c3610786349650df4e630b41b52cf8e4679b8117ed3d5a0201416c4a8e5a5369a1c552d0fe0603665ad28e172253a2a35097fd24f",
-        "seqno": 418595
-    },
-    "prev": "aff644cc4da464b6281a811f2321fdd6ecb45a77badf2456a8b77586f07c4e5c",
-    "seqno": 12,
-    "tag": "signature"
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535391868,
+  "expire_in": 157680000,
+  "prev": "9f8755325932fd4e36a329e3d61142d92cf8ff6adfbb9c67da4dfda26af559a2",
+  "seqno": 77,
+  "tag": "signature"
 }
 
 which yields the signature:
 
-g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghBAmSQ8s9pL+AMb8lTGUCU023VzTLUgCG2fTHjXQ14IKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODQxMDI2NDkwZjJjZjY5MmZlMDBjNmZjOTUzMTk0MDk0ZDM2ZGQ1Y2QzMmQ0ODAyMWI2N2QzMWUzNWQwZDc4MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODQxMDI2NDkwZjJjZjY5MmZlMDBjNmZjOTUzMTk0MDk0ZDM2ZGQ1Y2QzMmQ0ODAyMWI2N2QzMWUzNWQwZDc4MjBhIiwidWlkIjoiMGY5OWZjNTg2ZjI0MTViMjJkNzBjZmI2MDg3YWRhMTkiLCJ1c2VybmFtZSI6Imt5bGVuaWVtZXllciJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoia3lsZW5pZW1leWVyLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NTg2Njg0MjksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1ODY2ODQxNiwiaGFzaCI6IjhkMjBjY2MxYzBhYzc0ZTY0NzYwOTM0YzM2MTA3ODYzNDk2NTBkZjRlNjMwYjQxYjUyY2Y4ZTQ2NzliODExN2VkM2Q1YTAyMDE0MTZjNGE4ZTVhNTM2OWExYzU1MmQwZmUwNjAzNjY1YWQyOGUxNzIyNTNhMmEzNTA5N2ZkMjRmIiwic2Vxbm8iOjQxODU5NX0sInByZXYiOiJhZmY2NDRjYzRkYTQ2NGI2MjgxYTgxMWYyMzIxZmRkNmVjYjQ1YTc3YmFkZjI0NTZhOGI3NzU4NmYwN2M0ZTVjIiwic2Vxbm8iOjEyLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQLZnuuZeBfT50gwM7Up94LHI0zd2od3hbQtRNct9B7De6uG/DndrgzVIj+KNhfetfaLmcs8BPuog1x40HMvn8gqoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNyAnicbZJ7TBRHHMd5mgotUBoUT0PJ5hQbr7jv2z3LQTRVW2PaIiEEbI/ZnVnY
+AnfH3fE4gSARiUkNKomABFpPpGALFS+W0lIQKB7SNtbDUKE0trXKIyI+MBAbD7tL
+63/u/rGZne/vM5/5zQy9EugX4u9J8Ro8T+61+f80cLrAL6OSKy3BBAt0YoYSLAet
+fFAuRHaHKUeGmAHDCRLnaAInWZrHJVKUWJ6UEI6LrCTyDEXwNM7TkGIhZERIkZDm
+cJIQWD2kCEQxEId6jsQBpsMk2ZyFbFabbHYoWMjTADCABYAGelyUKILgGIpTsAwN
+CQooeB5BwCmF2Ra7WqHICcCO4mWL8k8ZmFb0XpB/7q28UNIzgOQhz3OQgyRHEgQr
+QMSzjMhCQdCzEAgQSjSDiwIh0qzqr5gzIk7qBcCueBf8h5N4XhIZjpVImmAEkoSq
+tcDinB5AQPBq0I5sZpCHVFdnLjLLKA85kQ0r02HKTKEsIrW56m5ekIoXLXkKw2qz
+OCyiJVeZzXY4rHaDWu1wWtV4ERJM/4NMgmyGSj+VikJks8sWM2YglKTokFUywVAM
+xRMcy+kwVGyVbcgkqwlGz3K48qjroEIFyUucnmEokuEpUoI0olhAkTyiIEsQNAl5
+5bg5SWIBlASBF5VDBTSUICBZIDEMD0hM3Vq+2YIZ9HrFE2QpTLucZQaOAhvCygYH
+9gf5+Yf4rQoOUC+aX8jqiOfXb2tp+LJh2y2b/c+UFt/k7NHhlxO3b6pbVar9LTSy
+elnz6e36YykhowWernsli+PeyYUzH1UlCmlx+/Kur091kceZj6uH2hfiTo5a1tkz
+3N3vTieXRdj2GNurl7wVlwrCMicOaWLShr985/sJV+Lf872irjP5qPF+dv7p3Wu8
+jwavxWZUVvds0ixp3rwTufTHYstnUeUzw3MZnuavkyfLXFPuE9H7t2hr42LhSPkW
+M6eJESO2DwTX0GcT+j2z9LfjtWvD49puvBecc8C4/pbrRu2IPNPX03aqI/pA5UNj
+sTPsQcW6epNbd/Gt1h13ey5+6LtQk/nzdBLTO9LhbPi9Merh5rnW75pTBmo76gPX
+bBbi+zp/ORxTU95L1zW6uwNaSz+w+l5rfOzVREhlvr1XtrnHP7+9Om2fBfYf1D/Q
+FJ1Lb72gFV5qvHOuqJkc2zAXIZvy76YLruqu9siw0L+m5q9c7btpSxhIrIiyXQ1E
+pxp6i5fPb4w7P3r9C6MrYbLd0TTvO7szNejyEW2Wx3uib+Ohf3Z3+zZkPjFEHU/9
+JL2P2/HINajtGN2bUnnt9cPx7mNdO7cuhSVdAs+OuH4da5kL7qzbJUUbPT8u9r+R
+oZPjl7tDH0eFnxl8P2hsSDt9uerZyDcLb9/vnIt8enLWhMU+7eif8A9obLj51UxT
+cGFX1Z4fsg9Orc1Jsrza9C91x9PU
+=/0Ay
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/kyleniemeyer
+
+==================================================================
