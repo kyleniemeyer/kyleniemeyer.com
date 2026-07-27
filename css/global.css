@@ -1,0 +1,276 @@
+/*
+	Design system for kyleniemeyer.com — "bookish / letterpress".
+
+	Deliberately different from the research group site, which uses
+	Poppins + Nunito Sans, pure white, blue links, and a left sidebar.
+	Here: a serif display face on warm paper, an oxblood accent, and a
+	horizontal top nav.
+
+	Nearly everything visual is a custom property in :root below, so the
+	look can be retuned here without touching any Svelte component.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&family=Inter:ital,wght@0,300..600;1,300..600&display=swap');
+
+:root {
+	/* Color — light */
+	--paper: #fbf8f3; /* warm page background */
+	--paper-raised: #ffffff; /* cards, insets */
+	--paper-sunken: #f4efe6; /* quiet fills */
+	--ink: #1f1b16; /* warm near-black body text */
+	--ink-soft: #554e45; /* secondary text */
+	--ink-faint: #8a8175; /* captions, metadata */
+	--rule: #e3dcd0; /* hairlines and borders */
+	--accent: #7b2d26; /* oxblood — links, marks */
+	--accent-hover: #a03c33;
+	--accent-soft: #f2e7e4; /* accent wash behind current nav item */
+
+	/* Type */
+	--font-display: 'Fraunces', 'Iowan Old Style', Georgia, serif;
+	--font-body: 'Inter', system-ui, -apple-system, sans-serif;
+
+	--size-body: 1.0625rem;
+	--size-small: 0.9375rem;
+	--size-tiny: 0.8125rem;
+	--size-lede: 1.3125rem;
+
+	--weight-body: 400;
+	--weight-bold: 600;
+	--weight-display: 600;
+
+	--leading-body: 1.65;
+	--leading-display: 1.15;
+
+	/* Layout */
+	--measure: 44rem; /* comfortable line length for prose */
+	--wide: 68rem; /* card grids and galleries */
+	--gutter: 1.5rem;
+	--step: 1.5rem; /* vertical rhythm unit */
+	--radius: 3px; /* restrained — printed matter, not app chrome */
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--paper: #16130f;
+		--paper-raised: #1f1b16;
+		--paper-sunken: #14110d;
+		--ink: #efe9df;
+		--ink-soft: #b3a996;
+		--ink-faint: #7d7466;
+		--rule: #2e2820;
+		--accent: #d98b7f;
+		--accent-hover: #eda69b;
+		--accent-soft: #2a1d1a;
+	}
+	/*
+		Note: no global img { opacity } dimming here. The research group site
+		dims images in dark mode, but this site is photo-forward (books,
+		woodworking) and dimming the photographs would defeat their purpose.
+	*/
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	/* Anchored section headings shouldn't hide under the sticky nav. */
+	scroll-padding-top: 5rem;
+}
+
+body {
+	margin: 0;
+	color: var(--ink);
+	background-color: var(--paper);
+	font-family: var(--font-body);
+	font-size: var(--size-body);
+	font-weight: var(--weight-body);
+	line-height: var(--leading-body);
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+
+/* --- Headings ------------------------------------------------------ */
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: var(--font-display);
+	font-weight: var(--weight-display);
+	line-height: var(--leading-display);
+	letter-spacing: -0.01em;
+	margin: calc(var(--step) * 1.75) 0 var(--step) 0;
+	text-wrap: balance;
+}
+
+h1 {
+	font-size: clamp(1.85rem, 1.3rem + 2.2vw, 2.75rem);
+	/* Fraunces optical-size axis: larger optical size for display settings. */
+	font-variation-settings: 'opsz' 100, 'SOFT' 20;
+	margin-top: 0;
+}
+
+h2 {
+	font-size: clamp(1.4rem, 1.15rem + 1vw, 1.75rem);
+	font-variation-settings: 'opsz' 48;
+}
+
+h3 {
+	font-size: 1.1875rem;
+	font-variation-settings: 'opsz' 24;
+}
+
+h4 {
+	font-size: 1.0625rem;
+	font-variation-settings: 'opsz' 14;
+}
+
+p {
+	margin: 0 0 var(--step) 0;
+}
+
+/* An opening paragraph, set larger. Use class="lede" on the first <p>. */
+.lede {
+	font-size: var(--size-lede);
+	line-height: 1.5;
+	color: var(--ink-soft);
+}
+
+/* --- Links --------------------------------------------------------- */
+
+a {
+	color: var(--accent);
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 0.18em;
+	text-decoration-color: color-mix(in srgb, var(--accent) 35%, transparent);
+	transition:
+		color 0.12s ease,
+		text-decoration-color 0.12s ease;
+}
+
+a:hover {
+	color: var(--accent-hover);
+	text-decoration-color: currentColor;
+	cursor: pointer;
+}
+
+a:focus-visible,
+button:focus-visible {
+	outline: 2px solid var(--accent);
+	outline-offset: 2px;
+	border-radius: var(--radius);
+}
+
+b,
+strong {
+	font-weight: var(--weight-bold);
+}
+
+small {
+	font-size: var(--size-small);
+}
+
+/* --- Lists --------------------------------------------------------- */
+
+ul,
+ol {
+	margin: 0 0 var(--step) 0;
+	padding-left: 1.25rem;
+}
+
+li {
+	margin-bottom: 0.4rem;
+}
+
+li::marker {
+	color: var(--ink-faint);
+}
+
+/* --- Rules, quotes, code ------------------------------------------- */
+
+hr {
+	border: none;
+	border-top: 1px solid var(--rule);
+	margin: calc(var(--step) * 2) 0;
+}
+
+blockquote {
+	margin: var(--step) 0;
+	padding-left: 1.25rem;
+	border-left: 2px solid var(--rule);
+	color: var(--ink-soft);
+	font-style: italic;
+}
+
+code {
+	font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+	font-size: 0.9em;
+	background-color: var(--paper-sunken);
+	padding: 0.1em 0.35em;
+	border-radius: var(--radius);
+}
+
+mark {
+	color: var(--ink);
+	background-color: var(--accent-soft);
+	border-radius: var(--radius);
+	padding: 0.1em 0.4em;
+}
+
+/* --- Images -------------------------------------------------------- */
+
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+/* --- Small caps label, used for section eyebrows ------------------- */
+
+.eyebrow {
+	font-family: var(--font-body);
+	font-size: var(--size-tiny);
+	font-weight: var(--weight-bold);
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: var(--ink-faint);
+	margin-bottom: 0.5rem;
+}
+
+/* --- Layout helpers ------------------------------------------------ */
+
+.measure {
+	max-width: var(--measure);
+}
+
+.wide {
+	max-width: var(--wide);
+}
+
+/* Visually hidden but available to screen readers. */
+.visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip-path: inset(50%);
+	white-space: nowrap;
+	border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+		scroll-behavior: auto !important;
+	}
+}

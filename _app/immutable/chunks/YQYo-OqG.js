@@ -1,0 +1,1 @@
+var e=`https://niemeyer-research-group.github.io`,t=`kyleniemeyer@fastmail.com`,n=`kyle.niemeyer@oregonstate.edu`,r={github:`https://github.com/kyleniemeyer`,bluesky:`https://bsky.app/profile/kyleniemeyer.bsky.social`,mastodon:`https://mastodon.social/@kyleniemeyer`,linkedin:`https://www.linkedin.com/in/kyleniemeyer`};export{r as i,t as n,e as r,n as t};
