@@ -1,0 +1,36 @@
+name: deploy-site
+
+on:
+  push:
+    branches: [main]
+  # Build (but don't deploy) on PRs, so broken changes are caught before merge.
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Install packages
+        run: npm install
+
+      - name: Build site
+        run: npm run build
+
+      # Only publish from main. PR builds stop at the step above.
+      - name: Deploy to GitHub Pages
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
