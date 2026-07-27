@@ -22,8 +22,8 @@
 <h1>Making</h1>
 
 <p class="lede">
-    Woodworking and other things I build when I'm away from a keyboard. Notes and
-    photos, mistakes included.
+    DIY projects, woodworking, and other things I build when I'm away from a keyboard. 
+    Notes and photos, mistakes included.
 </p>
 
 {#if projects.length > 0}

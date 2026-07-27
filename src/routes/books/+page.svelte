@@ -5,12 +5,13 @@
     import Todo from '$lib/components/Todo.svelte';
 
     /*
-        Paste the script URL from LibraryThing's widget builder here
-        (https://www.librarything.com/widget — sign in first), and set
-        LIBRARYTHING_USER in src/lib/site.ts. Until then the widget area
-        renders a plain link to LibraryThing instead.
+        Each widget is identified by the `theID` value from its snippet at
+        https://www.librarything.com/widget (sign in first). Build a widget
+        there, paste its id here, and drop in another <LibraryThing> — nothing
+        else needs to change.
     */
-    const LIBRARYTHING_WIDGET_SRC: string | undefined = undefined;
+    const WHOLE_COLLECTION = 'w0af845f5a111d891b299867a9c3edeed';
+    const FINE_PRESS = 'w3efd22dcbaf3bb3dc683a08b3e6e2d5f';
 </script>
 
 <Title
@@ -26,12 +27,12 @@
 </p>
 
 <Todo>
-    A few paragraphs on how you got into collecting and what draws you to it.
+    A few paragraphs on how I got into collecting and what draws me to it.
 </Todo>
 
 <Section id="collecting" header="What I collect">
     <Todo>
-        What the collection actually focuses on — subjects, periods, presses,
+        What my collection actually focuses on: subjects, periods, presses,
         editions, bindings, or whatever the organizing thread is. This is the
         section a fellow collector would read first.
     </Todo>
@@ -46,11 +47,27 @@
     </Todo>
 </Section>
 
-<Section id="catalog" header="The catalog">
+<Section id="fine-press" header="Fine press books">
+    <Todo>
+        What draws me to fine press books: presses I follow, what makes an
+        edition worth having, how this part of the collection differs from the
+        rest.
+    </Todo>
+
+    <LibraryThing
+        widget={FINE_PRESS}
+        title="Fine press books from my LibraryThing"
+    />
+</Section>
+
+<Section id="catalog" header="The whole catalog">
     <p>
-        The whole collection is cataloged on LibraryThing, which is more current
-        and more complete than anything I'd maintain by hand here.
+        Everything is cataloged on LibraryThing, which is more current and more
+        complete than anything I'd maintain by hand here:
     </p>
 
-    <LibraryThing src={LIBRARYTHING_WIDGET_SRC} />
+    <LibraryThing
+        widget={WHOLE_COLLECTION}
+        title="Books from my LibraryThing"
+    />
 </Section>

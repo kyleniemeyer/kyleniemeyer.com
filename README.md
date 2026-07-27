@@ -49,14 +49,24 @@ and easy to find:
 grep -rn "Todo" src/routes
 ```
 
-Also outstanding:
+Also outstanding: **photos** for the books page and each project.
 
-- **LibraryThing widget.** Sign in at <https://www.librarything.com/widget>,
-  build a widget, and copy the `src` URL out of the snippet it gives you into
-  `LIBRARYTHING_WIDGET_SRC` in `src/routes/books/+page.svelte`. Set
-  `LIBRARYTHING_USER` in `src/lib/site.ts` too — it drives the fallback link
-  shown when the widget is blocked or hasn't loaded.
-- **Photos** for the books page and each project.
+## The LibraryThing widget
+
+The books page embeds a LibraryThing widget. It's configured by a single value —
+`LIBRARYTHING_WIDGET_SRC` in `src/routes/books/+page.svelte`, the script `src`
+URL from <https://www.librarything.com/widget> (sign in first).
+
+That URL carries both `userid` and a `theID` hash. LibraryThing's script fills in
+a div whose `id` must equal `theID`, so `LibraryThing.svelte` parses the hash
+back out of the URL and builds the div itself — you never have to paste the hash
+twice. To swap in a different widget, replace the whole URL and nothing else.
+
+Because the site is prerendered to static HTML, the embed script is appended at
+runtime in `onMount`; script tags in prerendered markup wouldn't execute. If the
+script is blocked, fails, or JavaScript is off, the page falls back to a plain
+link to the LibraryThing profile named by `LIBRARYTHING_USER` in
+`src/lib/site.ts`.
 
 ## Design
 
@@ -74,6 +84,3 @@ deploy.
 
 `static/CNAME` holds the custom domain and is copied into the build, so the
 domain survives every deploy.
-
-DNS lives at DreamHost: apex A records point at the GitHub Pages addresses
-(185.199.108–111.153).

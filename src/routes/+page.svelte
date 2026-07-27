@@ -20,7 +20,7 @@
         <h1>Kyle E. Niemeyer</h1>
         <p class="lede">
             Engineer and professor. Also a collector of books and an
-            intermittent maker of things out of wood.
+            intermittent maker of things.
         </p>
     </div>
 </div>
@@ -62,7 +62,7 @@
             What I collect and why, plus my catalog.
         </Card>
         <Card href="/making" title="Making" eyebrow="Personal">
-            Woodworking and DIY projects, with pictures and notes.
+            DIY and woodworking projects, with pictures and notes.
         </Card>
     </CardGrid>
 </div>

@@ -20,8 +20,5 @@ export const SOCIAL = {
     linkedin: 'https://www.linkedin.com/in/kyleniemeyer',
 };
 
-/**
- * TODO: replace with your LibraryThing username once confirmed. This drives the
- * fallback link on the Books page and, optionally, the widget embed.
- */
-export const LIBRARYTHING_USER: string | undefined = undefined;
+/** LibraryThing username to drive fallback link on the Books page and the widget embed. */
+export const LIBRARYTHING_USER = 'kyleniemeyer';

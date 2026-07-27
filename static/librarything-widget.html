@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<!--
+	Generic host page for a LibraryThing widget, loaded in an iframe by
+	src/lib/components/LibraryThing.svelte. One page serves every widget:
+	which one to show comes from the query string, e.g.
+
+		/librarything-widget.html?user=kyleniemeyer&id=w0af845f5a111d891b299867a9c3edeed
+
+	Why a separate page at all: LibraryThing's script has to run while the
+	document is being parsed, the way their own snippet does. The main site is
+	prerendered and then hydrated by Svelte, so a script added afterwards runs
+	too late and the widget never fills in.
+
+	Why document.write: it is the one way to insert a script during parsing so
+	it executes as a parser-inserted script, exactly as if the snippet had been
+	pasted in literally. That is the whole point of this file, so the usual
+	advice against document.write doesn't apply.
+
+	To add a widget, build it at https://www.librarything.com/widget (sign in
+	first) and pass its `theID` value as `id` — nothing here needs to change.
+-->
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="robots" content="noindex" />
+		<title>LibraryThing widget</title>
+		<style>
+			/* Transparent so the widget sits on the host page's paper color. */
+			html,
+			body {
+				margin: 0;
+				padding: 0;
+				background: transparent;
+			}
+			.lt-fallback {
+				font:
+					15px/1.5 system-ui,
+					sans-serif;
+			}
+		</style>
+	</head>
+	<body>
+		<script>
+			(function () {
+				var params = new URLSearchParams(window.location.search);
+
+				// These land in markup, so allow only the characters the real
+				// values use and drop anything else.
+				var id = (params.get('id') || '').replace(/[^A-Za-z0-9]/g, '');
+				var user = (params.get('user') || '').replace(
+					/[^A-Za-z0-9._-]/g,
+					''
+				);
+
+				var profile = user
+					? 'https://www.librarything.com/profile/' + user
+					: 'https://www.librarything.com';
+
+				if (!id || !user) {
+					document.write(
+						'<p class="lt-fallback">My catalog lives on ' +
+							'<a href="' +
+							profile +
+							'" target="_blank" rel="noreferrer">LibraryThing</a>.</p>'
+					);
+					return;
+				}
+
+				var src =
+					'https://www.librarything.com/widget_get.php?userid=' +
+					encodeURIComponent(user) +
+					'&theID=' +
+					encodeURIComponent(id);
+
+				// The div id must equal the script's theID; LibraryThing fills
+				// that element in. Written in this order so the div exists by
+				// the time the script runs.
+				document.write('<div id="' + id + '"></div>');
+				document.write(
+					'<script type="text/javascript" charset="UTF-8" src="' +
+						src +
+						'"><\/script>'
+				);
+			})();
+		</script>
+		<noscript>
+			<p class="lt-fallback">
+				<a href="https://www.librarything.com/profile/kyleniemeyer"
+					>My Library</a
+				>
+				at <a href="https://www.librarything.com">LibraryThing</a>
+			</p>
+		</noscript>
+	</body>
+</html>
