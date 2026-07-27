@@ -1,0 +1,1 @@
+import{D as e,G as t,K as n,f as r,g as i,j as a,s as o,v as s}from"./BpSribXH.js";import"./xihTtKlq.js";var c=s(`<a target="_blank" rel="noreferrer"><!></a>`);function l(s,l){var u=c();r(a(u),()=>l.children??n),t(u),e(()=>o(u,`href`,l.to)),i(s,u)}export{l as t};
