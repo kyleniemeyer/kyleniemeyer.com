@@ -16,7 +16,7 @@
 
 <Title
     text="Making"
-    description="Woodworking and DIY projects by Kyle Niemeyer, with photos and build notes."
+    description="DIY and woodworking projects by Kyle Niemeyer, with photos and build notes."
 />
 
 <h1>Making</h1>
