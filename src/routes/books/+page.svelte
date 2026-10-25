@@ -35,7 +35,7 @@
     from a local library.
 </p>
 
-<Figure src="/images/books/book-champions-of-the-force.png" 
+<Figure src="/images/books/book-champions-of-the-force.webp"
 alt="cover of Champions of the Force book" 
 caption="My ragged old copy of Champions of the Force" 
 />
@@ -95,7 +95,7 @@ caption="My ragged old copy of Champions of the Force"
     <Todo>
         Two or three individual books worth singling out, with a sentence each on
         why. Add photos with the &lt;Figure&gt; component:
-        <code>&lt;Figure src="/images/books/name.jpg" alt="…" caption="…" /&gt;</code>
+        <code>&lt;Figure src="/images/books/name.webp" alt="…" caption="…" /&gt;</code>
         — put the image files in <code>static/images/books/</code>.
     </Todo>
 </Section> -->

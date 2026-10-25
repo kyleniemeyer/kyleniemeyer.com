@@ -4,7 +4,7 @@
     interface Props {
         href: string;
         title: string;
-        /** Path under static/, e.g. "/images/making/table/cover.jpg". */
+        /** Path under static/, e.g. "/images/making/table/cover.webp". */
         image?: string;
         imageAlt?: string;
         /** Small line above the title — a year, a category. */

@@ -23,7 +23,7 @@ export interface ProjectMeta {
     inProgress?: boolean;
     /** One sentence for the index card. */
     blurb: string;
-    /** Cover image path under static/, e.g. "/images/making/<slug>/cover.jpg". */
+    /** Cover image path under static/, e.g. "/images/making/<slug>/cover.webp". */
     cover?: string;
     /** Alt text for the cover image. */
     coverAlt?: string;
@@ -51,7 +51,7 @@ export function slugFromPath(path: string): string {
 
 /** One photo in a project gallery. */
 export interface Photo {
-    /** Path under static/, e.g. "/images/making/<slug>/glue-up.jpg". */
+    /** Path under static/, e.g. "/images/making/<slug>/glue-up.webp". */
     src: string;
     /** Describe the image for people who can't see it. Required. */
     alt: string;

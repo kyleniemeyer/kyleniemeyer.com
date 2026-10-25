@@ -2,7 +2,7 @@
     import { asset } from '$app/paths';
 
     interface Props {
-        /** Path under static/, e.g. "/images/books/shelf.jpg". */
+        /** Path under static/, e.g. "/images/books/shelf.webp". */
         src: string;
         /** Describe the image for people who can't see it. Required. */
         alt: string;

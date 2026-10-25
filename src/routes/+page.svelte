@@ -13,7 +13,7 @@
 <div class="hero">
     <img
         class="portrait"
-        src={asset('/images/portrait.jpg')}
+        src={asset('/images/portrait.webp')}
         alt="Portrait of Kyle E. Niemeyer"
     />
     <div class="intro">

@@ -43,17 +43,20 @@ names start with `_` are ignored.
 
 Set `draft: true` in `meta` to build a page but keep it off the index.
 
-### Preparing photos
+## Preparing photos
 
 Phone photos are far too big to post as-is. `scripts/prep-photos.sh` shrinks
-them and converts them to WebP in one step:
+them and converts them to WebP in one step. The first argument is the folder
+under `static/images/` to write into:
 
 ```sh
-scripts/prep-photos.sh shower-rebuild ~/Downloads/house-projects/*.png
+scripts/prep-photos.sh making/shower-rebuild ~/Downloads/house-projects/*.png
+scripts/prep-photos.sh books ~/Desktop/shelf.heic
 ```
 
-This writes `static/images/making/shower-rebuild/<name>.webp` for each photo:
-upright, at most 1600px on the long edge, sRGB, and with all metadata removed,
+The first writes `static/images/making/shower-rebuild/<name>.webp` for each
+photo, referenced in pages as `/images/making/shower-rebuild/<name>.webp`. Each
+is upright, at most 1600px on the long edge, sRGB, and with all metadata removed,
 including GPS location. Names are lowercased, with spaces turned into hyphens.
 It reads HEIC, JPEG, and PNG, and leaves existing files alone unless `FORCE=1`.
 `SIZE=2000` or `QUALITY=85` adjust the output.

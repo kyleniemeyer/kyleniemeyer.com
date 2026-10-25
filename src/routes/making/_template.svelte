@@ -13,7 +13,7 @@
         title: 'Example project',
         year: 2026,
         blurb: 'One sentence for the index card.',
-        // cover: '/images/making/example-project/cover.jpg',
+        // cover: '/images/making/example-project/cover.webp',
         // coverAlt: 'Describe the photo for people who cannot see it.',
         tags: ['template'],
         // inProgress: true,
@@ -27,12 +27,13 @@
     import type { Photo } from '$lib/project';
 
     /*
-        Put photos in static/images/making/example-project/ and list them here.
-        Every photo needs alt text; captions are optional.
+        Prepare photos with `scripts/prep-photos.sh making/example-project
+        <images>`, which writes them to static/images/making/example-project/,
+        then list them here. Every photo needs alt text; captions are optional.
     */
     const photos: Photo[] = [
         // {
-        //     src: '/images/making/example-project/glue-up.jpg',
+        //     src: '/images/making/example-project/glue-up.webp',
         //     alt: 'Panels clamped together during glue-up.',
         //     caption: 'Never enough clamps.',
         // },
