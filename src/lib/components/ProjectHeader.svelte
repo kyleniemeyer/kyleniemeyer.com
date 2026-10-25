@@ -1,5 +1,5 @@
 <script lang="ts">
-    import type { ProjectMeta } from '$lib/project';
+    import { projectDates, type ProjectMeta } from '$lib/project';
 
     interface Props {
         meta: ProjectMeta;
@@ -9,7 +9,7 @@
 </script>
 
 <div class="eyebrow">
-    <a href="/making">Making</a> · {meta.year}
+    <a href="/making">Making</a> · {projectDates(meta)}
 </div>
 
 <h1>{meta.title}</h1>

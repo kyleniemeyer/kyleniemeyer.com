@@ -1,21 +1,26 @@
+import type { Component } from 'svelte';
+
 /**
  * Metadata for one making/DIY project.
  *
- * Each project lives in its own folder under `src/routes/making/`, containing:
+ * Each project is a single file, `src/routes/making/<slug>.svelte`, which
+ * exports `meta` (this shape) from a `<script module>` block and holds the
+ * writeup and photos as its markup. Files starting with `_` are ignored.
  *
- *   src/routes/making/<slug>/
- *     meta.ts        — exports `meta` (this shape); drives the index card
- *     +page.svelte   — the writeup and photos
- *
- * The index page discovers these automatically, and the URL slug comes from the
- * folder name, so there is no list to keep in sync and no way for a card and
- * its page to disagree.
+ * The index page and the shared `[slug]` route both discover these files
+ * automatically, and the URL slug comes from the filename, so there is no list
+ * to keep in sync and no way for a card and its page to disagree.
  */
 export interface ProjectMeta {
     /** Shown on the card and as the page heading. */
     title: string;
-    /** Year finished. Used to sort the index, newest first. */
+    /**
+     * Year finished, or year started if `inProgress`. Used to sort the index,
+     * newest first.
+     */
     year: number;
+    /** Still underway. Shown as "<year>–present" and listed first. */
+    inProgress?: boolean;
     /** One sentence for the index card. */
     blurb: string;
     /** Cover image path under static/, e.g. "/images/making/<slug>/cover.jpg". */
@@ -28,9 +33,20 @@ export interface ProjectMeta {
     draft?: boolean;
 }
 
-/** A project's metadata plus the slug derived from its folder name. */
+/** A project's metadata plus the slug derived from its filename. */
 export interface Project extends ProjectMeta {
     slug: string;
+}
+
+/** What a project file exports: its metadata and the writeup component. */
+export interface ProjectModule {
+    meta: ProjectMeta;
+    default: Component;
+}
+
+/** "../shaker-side-table.svelte" -> "shaker-side-table" */
+export function slugFromPath(path: string): string {
+    return path.split('/').pop()!.replace(/\.svelte$/, '');
 }
 
 /** One photo in a project gallery. */
@@ -42,19 +58,33 @@ export interface Photo {
     caption?: string;
 }
 
+/** A dated entry in a long-running project's progress log. */
+export interface Milestone {
+    /** Free-form, e.g. "August 2024". */
+    date: string;
+    title: string;
+    /** A sentence or two on what got done. */
+    note?: string;
+    photos?: Photo[];
+}
+
+/** The year label shown on cards and project headers, e.g. "2024–present". */
+export function projectDates(meta: ProjectMeta): string {
+    return meta.inProgress ? `${meta.year}–present` : String(meta.year);
+}
+
 /**
- * Collect every project defined under src/routes/making/ and sort it newest
+ * Collect every project's metadata, keyed by file path, and sort it newest
  * first. Called by the making index page.
  */
-export function loadProjects(
-    modules: Record<string, { meta: ProjectMeta }>,
-): Project[] {
-    return Object.entries(modules)
-        .map(([path, module]) => {
-            // "./shaker-side-table/meta.ts" -> "shaker-side-table"
-            const slug = path.split('/')[1];
-            return { ...module.meta, slug };
-        })
+export function loadProjects(metas: Record<string, ProjectMeta>): Project[] {
+    return Object.entries(metas)
+        .map(([path, meta]) => ({ ...meta, slug: slugFromPath(path) }))
         .filter((project) => !project.draft)
-        .sort((a, b) => b.year - a.year || a.title.localeCompare(b.title));
+        .sort(
+            (a, b) =>
+                Number(!!b.inProgress) - Number(!!a.inProgress) ||
+                b.year - a.year ||
+                a.title.localeCompare(b.title),
+        );
 }
