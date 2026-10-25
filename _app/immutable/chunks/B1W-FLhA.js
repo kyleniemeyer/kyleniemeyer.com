@@ -1,0 +1,1 @@
+function e(e){return e.split(`/`).pop().replace(/\.svelte$/,``)}function t(e){return e.inProgress?`${e.year}–present`:String(e.year)}export{e as n,t};

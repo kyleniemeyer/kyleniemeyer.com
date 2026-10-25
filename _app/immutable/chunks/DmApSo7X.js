@@ -1,1 +1,0 @@
-import{G as e,K as t,N as n,f as r,g as i,j as a,v as o}from"./BpSribXH.js";import"./xihTtKlq.js";var s=o(`<p class="todo svelte-zn2hf4"><strong class="svelte-zn2hf4">To write:</strong> <!></p>`);function c(o,c){var l=s();r(n(a(l),2),()=>c.children??t),e(l),i(o,l)}export{c as t};

@@ -1,1 +1,0 @@
-import{q as e}from"./BpSribXH.js";var t=e({meta:()=>n}),n={title:`Example project`,year:new Date().getFullYear(),blurb:`Copy this folder to start a new project writeup.`,tags:[`template`]};export{t as n,n as t};

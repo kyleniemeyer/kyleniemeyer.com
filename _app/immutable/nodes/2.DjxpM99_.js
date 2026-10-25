@@ -1,8 +1,8 @@
-import{B as e,D as t,G as n,M as r,N as i,V as a,W as o,a as s,g as c,j as l,s as u,v as d,y as f}from"../chunks/BpSribXH.js";import{s as p}from"../chunks/BEiRAK1N.js";import"../chunks/xihTtKlq.js";import"../chunks/pfszzmA2.js";import{i as m}from"../chunks/BrOW6xwN.js";import{t as h}from"../chunks/inNQnaBe.js";import{n as g,t as _}from"../chunks/Cr68a-Xh.js";var v=d(`<!> <!> <!> <!>`,1),y=d(`<!> <div class="hero svelte-1uha8ag"><img class="portrait svelte-1uha8ag" alt="Portrait of Kyle E. Niemeyer"/> <div class="intro svelte-1uha8ag"><h1 class="svelte-1uha8ag">Kyle E. Niemeyer</h1> <p class="lede svelte-1uha8ag">Engineer and professor. Also a collector of books and an
+import{B as e,D as t,G as n,M as r,N as i,V as a,W as o,a as s,g as c,j as l,s as u,v as d,y as f}from"../chunks/BpSribXH.js";import{s as p}from"../chunks/tSIGhUKt.js";import"../chunks/xihTtKlq.js";import"../chunks/pfszzmA2.js";import{i as m}from"../chunks/BrOW6xwN.js";import{t as h}from"../chunks/inNQnaBe.js";import{n as g,t as _}from"../chunks/BBTtZt6f.js";var v=d(`<!> <!> <!> <!>`,1),y=d(`<!> <div class="hero svelte-1uha8ag"><img class="portrait svelte-1uha8ag" alt="Portrait of Kyle E. Niemeyer"/> <div class="intro svelte-1uha8ag"><h1 class="svelte-1uha8ag">Kyle E. Niemeyer</h1> <p class="lede svelte-1uha8ag">Engineer and professor. Also a collector of books and an
             intermittent maker of things.</p></div></div> <p>I'm a Professor of Mechanical Engineering at <a href="https://oregonstate.edu" target="_blank" rel="noreferrer">Oregon State University</a>, where I also serve as Associate School Head for Academic Affairs. My
-    research group uses computational modeling to study fluid flows &mdash;
-    combustion, chemical kinetics, numerical methods, and parallel computing
-    &mdash; and I spend a good deal of energy on open science and research
+    research group uses computational modeling to study fluid 
+    flows&mdash;combustion, chemical kinetics, numerical methods, and parallel 
+    computing&mdash;and I spend a good deal of energy on open science and research
     software.</p> <p>This is my personal site. Everything about my research, students,
     publications, and teaching lives on the <a target="_blank" rel="noreferrer">Niemeyer Research Group site</a>. What's here is the rest: a fuller <a href="/about">professional
     picture</a>, the <a href="/consulting">consulting</a> I do in a personal
