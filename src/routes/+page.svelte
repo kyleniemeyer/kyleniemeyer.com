@@ -30,8 +30,12 @@
         href="https://oregonstate.edu"
         target="_blank"
         rel="noreferrer">Oregon State University</a
-    >, where I also serve as Associate School Head for Academic Affairs. My
-    research group uses computational modeling to study fluid 
+    >, where I also serve as Associate Head for Academic Affairs in the 
+    <a
+        href="https://engineering.oregonstate.edu/MIME"
+        target="_blank"
+        rel="noreferrer">School of Mechanical, Industrial, and Manufacturing Engineering</a
+    >. My research group uses computational modeling to study fluid 
     flows&mdash;combustion, chemical kinetics, numerical methods, and parallel 
     computing&mdash;and I spend a good deal of energy on open science and research
     software.
